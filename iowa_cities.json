@@ -1,0 +1,8480 @@
+[
+  {
+    "cities": "Ackley",
+    "counties": "Hardin, Franklin",
+    "population_2020": "1,599",
+    "population_2010": "1,589",
+    "sq_miles": 2.45,
+    "sq_km": 6.3,
+    "incorporated": "August 28, 1869"
+  },
+  {
+    "cities": "Ackworth",
+    "counties": "Warren",
+    "population_2020": "115",
+    "population_2010": "83",
+    "sq_miles": 0.29,
+    "sq_km": 0.75,
+    "incorporated": "May 9, 1881"
+  },
+  {
+    "cities": "Adair",
+    "counties": "Adair, Guthrie",
+    "population_2020": "791",
+    "population_2010": "781",
+    "sq_miles": 2.2,
+    "sq_km": 5.7,
+    "incorporated": "February 23, 1884"
+  },
+  {
+    "cities": "Adel",
+    "counties": "Dallas",
+    "population_2020": "6,153",
+    "population_2010": "3,682",
+    "sq_miles": 3.27,
+    "sq_km": 8.5,
+    "incorporated": "June 27, 1877"
+  },
+  {
+    "cities": "Afton",
+    "counties": "Union",
+    "population_2020": "874",
+    "population_2010": "845",
+    "sq_miles": 0.99,
+    "sq_km": 2.6,
+    "incorporated": "November 30, 1868"
+  },
+  {
+    "cities": "Agency",
+    "counties": "Wapello",
+    "population_2020": "620",
+    "population_2010": "638",
+    "sq_miles": 0.65,
+    "sq_km": 1.7,
+    "incorporated": "January 6, 1859"
+  },
+  {
+    "cities": "Ainsworth",
+    "counties": "Washington",
+    "population_2020": "511",
+    "population_2010": "567",
+    "sq_miles": 0.38,
+    "sq_km": 0.98,
+    "incorporated": "June 18, 1892"
+  },
+  {
+    "cities": "Akron",
+    "counties": "Plymouth",
+    "population_2020": "1,558",
+    "population_2010": "1,486",
+    "sq_miles": 1.22,
+    "sq_km": 3.2,
+    "incorporated": "September 7, 1882"
+  },
+  {
+    "cities": "Albert City",
+    "counties": "Buena Vista",
+    "population_2020": "677",
+    "population_2010": "699",
+    "sq_miles": 0.54,
+    "sq_km": 1.4,
+    "incorporated": "10-Dec-00"
+  },
+  {
+    "cities": "Albia",
+    "counties": "Monroe",
+    "population_2020": "3,721",
+    "population_2010": "3,766",
+    "sq_miles": 3.19,
+    "sq_km": 8.3,
+    "incorporated": "January 28, 1857"
+  },
+  {
+    "cities": "Albion",
+    "counties": "Marshall",
+    "population_2020": "448",
+    "population_2010": "505",
+    "sq_miles": 0.6,
+    "sq_km": 1.6,
+    "incorporated": "March 8, 1870"
+  },
+  {
+    "cities": "Alburnett",
+    "counties": "Linn",
+    "population_2020": "675",
+    "population_2010": "673",
+    "sq_miles": 0.82,
+    "sq_km": 2.1,
+    "incorporated": "29-Jun-12"
+  },
+  {
+    "cities": "Alden",
+    "counties": "Hardin",
+    "population_2020": "763",
+    "population_2010": "787",
+    "sq_miles": 1.71,
+    "sq_km": 4.4,
+    "incorporated": "February 11, 1879"
+  },
+  {
+    "cities": "Alexander",
+    "counties": "Franklin",
+    "population_2020": "164",
+    "population_2010": "175",
+    "sq_miles": 4.27,
+    "sq_km": 11.1,
+    "incorporated": "25-Mar-02"
+  },
+  {
+    "cities": "Algona",
+    "counties": "Kossuth",
+    "population_2020": "5,487",
+    "population_2010": "5,560",
+    "sq_miles": 4.49,
+    "sq_km": 11.6,
+    "incorporated": "January 31, 1872"
+  },
+  {
+    "cities": "Alleman",
+    "counties": "Polk",
+    "population_2020": "423",
+    "population_2010": "432",
+    "sq_miles": 2.7,
+    "sq_km": 7,
+    "incorporated": "18-May-73"
+  },
+  {
+    "cities": "Allerton",
+    "counties": "Wayne",
+    "population_2020": "430",
+    "population_2010": "501",
+    "sq_miles": 1.14,
+    "sq_km": 3,
+    "incorporated": "October 1, 1874"
+  },
+  {
+    "cities": "Allison",
+    "counties": "Butler",
+    "population_2020": "966",
+    "population_2010": "1,029",
+    "sq_miles": 2.93,
+    "sq_km": 7.6,
+    "incorporated": "July 25, 1881"
+  },
+  {
+    "cities": "Alta",
+    "counties": "Buena Vista",
+    "population_2020": "2,087",
+    "population_2010": "1,883",
+    "sq_miles": 1.07,
+    "sq_km": 2.8,
+    "incorporated": "November 11, 1878"
+  },
+  {
+    "cities": "Alta Vista",
+    "counties": "Chickasaw",
+    "population_2020": "227",
+    "population_2010": "266",
+    "sq_miles": 0.76,
+    "sq_km": 2,
+    "incorporated": "September 18, 1894"
+  },
+  {
+    "cities": "Alton",
+    "counties": "Sioux",
+    "population_2020": "1,248",
+    "population_2010": "1,216",
+    "sq_miles": 1.85,
+    "sq_km": 4.8,
+    "incorporated": "March 8, 1883"
+  },
+  {
+    "cities": "Altoona",
+    "counties": "Polk",
+    "population_2020": "19,565",
+    "population_2010": "14,541",
+    "sq_miles": 9.35,
+    "sq_km": 24.2,
+    "incorporated": "March 11, 1876"
+  },
+  {
+    "cities": "Alvord",
+    "counties": "Lyon",
+    "population_2020": "206",
+    "population_2010": "196",
+    "sq_miles": 0.28,
+    "sq_km": 0.73,
+    "incorporated": "September 26, 1892"
+  },
+  {
+    "cities": "Ames",
+    "counties": "Story",
+    "population_2020": "66,427",
+    "population_2010": "58,965",
+    "sq_miles": 24.21,
+    "sq_km": 62.7,
+    "incorporated": "December 20, 1869"
+  },
+  {
+    "cities": "Anamosa",
+    "counties": "Jones",
+    "population_2020": "5,450",
+    "population_2010": "5,533",
+    "sq_miles": 2.6,
+    "sq_km": 6.7,
+    "incorporated": "December 17, 1867"
+  },
+  {
+    "cities": "Andover",
+    "counties": "Clinton",
+    "population_2020": "109",
+    "population_2010": "103",
+    "sq_miles": 0.19,
+    "sq_km": 0.49,
+    "incorporated": "12-Jan-10"
+  },
+  {
+    "cities": "Andrew",
+    "counties": "Jackson",
+    "population_2020": "380",
+    "population_2010": "434",
+    "sq_miles": 0.27,
+    "sq_km": 0.7,
+    "incorporated": "August 4, 1863"
+  },
+  {
+    "cities": "Anita",
+    "counties": "Cass",
+    "population_2020": "963",
+    "population_2010": "972",
+    "sq_miles": 1.7,
+    "sq_km": 4.4,
+    "incorporated": "May 19, 1875"
+  },
+  {
+    "cities": "Ankeny",
+    "counties": "Polk",
+    "population_2020": "67,887",
+    "population_2010": "45,582",
+    "sq_miles": 29.33,
+    "sq_km": 76,
+    "incorporated": "27-Feb-03"
+  },
+  {
+    "cities": "Anthon",
+    "counties": "Woodbury",
+    "population_2020": "545",
+    "population_2010": "565",
+    "sq_miles": 0.71,
+    "sq_km": 1.8,
+    "incorporated": "July 25, 1890"
+  },
+  {
+    "cities": "Aplington",
+    "counties": "Butler",
+    "population_2020": "1,116",
+    "population_2010": "1,128",
+    "sq_miles": 0.83,
+    "sq_km": 2.1,
+    "incorporated": "November 9, 1877"
+  },
+  {
+    "cities": "Arcadia",
+    "counties": "Carroll",
+    "population_2020": "525",
+    "population_2010": "484",
+    "sq_miles": 0.98,
+    "sq_km": 2.5,
+    "incorporated": "November 3, 1881"
+  },
+  {
+    "cities": "Archer",
+    "counties": "O'Brien",
+    "population_2020": "117",
+    "population_2010": "131",
+    "sq_miles": 0.09,
+    "sq_km": 0.23,
+    "incorporated": "5-May-02"
+  },
+  {
+    "cities": "Aredale",
+    "counties": "Butler",
+    "population_2020": "62",
+    "population_2010": "74",
+    "sq_miles": 0.99,
+    "sq_km": 2.6,
+    "incorporated": "5-Jun-20"
+  },
+  {
+    "cities": "Arion",
+    "counties": "Crawford",
+    "population_2020": "97",
+    "population_2010": "108",
+    "sq_miles": 0.47,
+    "sq_km": 1.2,
+    "incorporated": "May 31, 1894"
+  },
+  {
+    "cities": "Arispe",
+    "counties": "Union",
+    "population_2020": "96",
+    "population_2010": "100",
+    "sq_miles": 0.52,
+    "sq_km": 1.3,
+    "incorporated": "21-Oct-04"
+  },
+  {
+    "cities": "Arlington",
+    "counties": "Fayette",
+    "population_2020": "419",
+    "population_2010": "429",
+    "sq_miles": 1.05,
+    "sq_km": 2.7,
+    "incorporated": "30-Apr-85"
+  },
+  {
+    "cities": "Armstrong",
+    "counties": "Emmet",
+    "population_2020": "875",
+    "population_2010": "926",
+    "sq_miles": 0.88,
+    "sq_km": 2.3,
+    "incorporated": "March 30, 1895"
+  },
+  {
+    "cities": "Arnolds Park",
+    "counties": "Dickinson",
+    "population_2020": "1,110",
+    "population_2010": "1,126",
+    "sq_miles": 1.57,
+    "sq_km": 4.1,
+    "incorporated": "March 30, 1897"
+  },
+  {
+    "cities": "Arthur",
+    "counties": "Ida",
+    "population_2020": "222",
+    "population_2010": "206",
+    "sq_miles": 0.15,
+    "sq_km": 0.39,
+    "incorporated": "April 21, 1897"
+  },
+  {
+    "cities": "Asbury",
+    "counties": "Dubuque",
+    "population_2020": "5,943",
+    "population_2010": "4,170",
+    "sq_miles": 2.66,
+    "sq_km": 6.9,
+    "incorporated": "7-Sep-33"
+  },
+  {
+    "cities": "Ashton",
+    "counties": "Osceola",
+    "population_2020": "436",
+    "population_2010": "458",
+    "sq_miles": 1.01,
+    "sq_km": 2.6,
+    "incorporated": "March 28, 1885"
+  },
+  {
+    "cities": "Aspinwall",
+    "counties": "Crawford",
+    "population_2020": "33",
+    "population_2010": "40",
+    "sq_miles": 0.18,
+    "sq_km": 0.47,
+    "incorporated": "10-Nov-14"
+  },
+  {
+    "cities": "Atalissa",
+    "counties": "Muscatine",
+    "population_2020": "296",
+    "population_2010": "311",
+    "sq_miles": 0.14,
+    "sq_km": 0.36,
+    "incorporated": "26-Mar-00"
+  },
+  {
+    "cities": "Atkins",
+    "counties": "Benton",
+    "population_2020": "2,056",
+    "population_2010": "1,670",
+    "sq_miles": 1.09,
+    "sq_km": 2.8,
+    "incorporated": "15-May-17"
+  },
+  {
+    "cities": "Atlantic",
+    "counties": "Cass",
+    "population_2020": "6,792",
+    "population_2010": "7,112",
+    "sq_miles": 8.32,
+    "sq_km": 21.5,
+    "incorporated": "November 26, 1869"
+  },
+  {
+    "cities": "Auburn",
+    "counties": "Sac",
+    "population_2020": "265",
+    "population_2010": "322",
+    "sq_miles": 0.5,
+    "sq_km": 1.3,
+    "incorporated": "January 10, 1887"
+  },
+  {
+    "cities": "Audubon",
+    "counties": "Audubon",
+    "population_2020": "2,053",
+    "population_2010": "2,382",
+    "sq_miles": 1.88,
+    "sq_km": 4.9,
+    "incorporated": "December 2, 1880"
+  },
+  {
+    "cities": "Aurelia",
+    "counties": "Cherokee",
+    "population_2020": "968",
+    "population_2010": "1,036",
+    "sq_miles": 1.04,
+    "sq_km": 2.7,
+    "incorporated": "December 27, 1879"
+  },
+  {
+    "cities": "Aurora",
+    "counties": "Buchanan",
+    "population_2020": "169",
+    "population_2010": "185",
+    "sq_miles": 0.57,
+    "sq_km": 1.5,
+    "incorporated": "August 26, 1899"
+  },
+  {
+    "cities": "Avoca",
+    "counties": "Pottawattamie",
+    "population_2020": "1,683",
+    "population_2010": "1,506",
+    "sq_miles": 2.13,
+    "sq_km": 5.5,
+    "incorporated": "December 2, 1874"
+  },
+  {
+    "cities": "Ayrshire",
+    "counties": "Palo Alto",
+    "population_2020": "133",
+    "population_2010": "143",
+    "sq_miles": 0.21,
+    "sq_km": 0.54,
+    "incorporated": "September 20, 1895"
+  },
+  {
+    "cities": "Badger",
+    "counties": "Webster",
+    "population_2020": "522",
+    "population_2010": "561",
+    "sq_miles": 1.09,
+    "sq_km": 2.8,
+    "incorporated": "December 28, 1899"
+  },
+  {
+    "cities": "Bagley",
+    "counties": "Guthrie",
+    "population_2020": "233",
+    "population_2010": "303",
+    "sq_miles": 0.31,
+    "sq_km": 0.8,
+    "incorporated": "June 16, 1891"
+  },
+  {
+    "cities": "Baldwin",
+    "counties": "Jackson",
+    "population_2020": "99",
+    "population_2010": "109",
+    "sq_miles": 0.36,
+    "sq_km": 0.93,
+    "incorporated": "December 8, 1881"
+  },
+  {
+    "cities": "Balltown",
+    "counties": "Dubuque",
+    "population_2020": "79",
+    "population_2010": "68",
+    "sq_miles": 0.09,
+    "sq_km": 0.23,
+    "incorporated": "22-Jul-33"
+  },
+  {
+    "cities": "Bancroft",
+    "counties": "Kossuth",
+    "population_2020": "699",
+    "population_2010": "732",
+    "sq_miles": 0.55,
+    "sq_km": 1.4,
+    "incorporated": "February 16, 1884"
+  },
+  {
+    "cities": "Bankston",
+    "counties": "Dubuque",
+    "population_2020": "23",
+    "population_2010": "25",
+    "sq_miles": 0.29,
+    "sq_km": 0.75,
+    "incorporated": "8-Sep-33"
+  },
+  {
+    "cities": "Barnes City",
+    "counties": "Mahaska, Poweshiek",
+    "population_2020": "156",
+    "population_2010": "176",
+    "sq_miles": 0.59,
+    "sq_km": 1.5,
+    "incorporated": "April 20, 1899"
+  },
+  {
+    "cities": "Barnum",
+    "counties": "Webster",
+    "population_2020": "175",
+    "population_2010": "191",
+    "sq_miles": 0.37,
+    "sq_km": 0.96,
+    "incorporated": "May 29, 1894"
+  },
+  {
+    "cities": "Bassett",
+    "counties": "Chickasaw",
+    "population_2020": "45",
+    "population_2010": "66",
+    "sq_miles": 0.37,
+    "sq_km": 0.96,
+    "incorporated": "November 7, 1896"
+  },
+  {
+    "cities": "Batavia",
+    "counties": "Jefferson",
+    "population_2020": "430",
+    "population_2010": "499",
+    "sq_miles": 0.6,
+    "sq_km": 1.6,
+    "incorporated": "January 6, 1868"
+  },
+  {
+    "cities": "Battle Creek",
+    "counties": "Ida",
+    "population_2020": "700",
+    "population_2010": "713",
+    "sq_miles": 0.5,
+    "sq_km": 1.3,
+    "incorporated": "November 13, 1880"
+  },
+  {
+    "cities": "Baxter",
+    "counties": "Jasper",
+    "population_2020": "962",
+    "population_2010": "1,101",
+    "sq_miles": 0.65,
+    "sq_km": 1.7,
+    "incorporated": "December 13, 1894"
+  },
+  {
+    "cities": "Bayard",
+    "counties": "Guthrie",
+    "population_2020": "405",
+    "population_2010": "471",
+    "sq_miles": 0.46,
+    "sq_km": 1.2,
+    "incorporated": "June 14, 1883"
+  },
+  {
+    "cities": "Beacon",
+    "counties": "Mahaska",
+    "population_2020": "445",
+    "population_2010": "494",
+    "sq_miles": 1,
+    "sq_km": 2.6,
+    "incorporated": "February 7, 1874"
+  },
+  {
+    "cities": "Beaconsfield",
+    "counties": "Ringgold",
+    "population_2020": "15",
+    "population_2010": "15",
+    "sq_miles": 0.72,
+    "sq_km": 1.9,
+    "incorporated": "18-Jan-90"
+  },
+  {
+    "cities": "Beaman",
+    "counties": "Grundy",
+    "population_2020": "161",
+    "population_2010": "191",
+    "sq_miles": 0.19,
+    "sq_km": 0.49,
+    "incorporated": "April 26, 1884"
+  },
+  {
+    "cities": "Beaver",
+    "counties": "Boone",
+    "population_2020": "46",
+    "population_2010": "48",
+    "sq_miles": 0.25,
+    "sq_km": 0.65,
+    "incorporated": "5-Oct-12"
+  },
+  {
+    "cities": "Bedford",
+    "counties": "Taylor",
+    "population_2020": "1,508",
+    "population_2010": "1,440",
+    "sq_miles": 1.6,
+    "sq_km": 4.1,
+    "incorporated": "July 28, 1866"
+  },
+  {
+    "cities": "Belle Plaine",
+    "counties": "Benton",
+    "population_2020": "2,330",
+    "population_2010": "2,534",
+    "sq_miles": 3.22,
+    "sq_km": 8.3,
+    "incorporated": "May 26, 1868"
+  },
+  {
+    "cities": "Bellevue",
+    "counties": "Jackson",
+    "population_2020": "2,363",
+    "population_2010": "2,191",
+    "sq_miles": 1.34,
+    "sq_km": 3.5,
+    "incorporated": "February 5, 1851"
+  },
+  {
+    "cities": "Belmond",
+    "counties": "Wright",
+    "population_2020": "2,463",
+    "population_2010": "2,376",
+    "sq_miles": 2.85,
+    "sq_km": 7.4,
+    "incorporated": "October 21, 1881"
+  },
+  {
+    "cities": "Bennett",
+    "counties": "Cedar",
+    "population_2020": "347",
+    "population_2010": "405",
+    "sq_miles": 0.2,
+    "sq_km": 0.52,
+    "incorporated": "December 26, 1896"
+  },
+  {
+    "cities": "Benton",
+    "counties": "Ringgold",
+    "population_2020": "39",
+    "population_2010": "41",
+    "sq_miles": 0.64,
+    "sq_km": 1.7,
+    "incorporated": "3-Jul-00"
+  },
+  {
+    "cities": "Berkley",
+    "counties": "Boone",
+    "population_2020": "23",
+    "population_2010": "32",
+    "sq_miles": 0.21,
+    "sq_km": 0.54,
+    "incorporated": "11-Oct-12"
+  },
+  {
+    "cities": "Bernard",
+    "counties": "Dubuque",
+    "population_2020": "114",
+    "population_2010": "112",
+    "sq_miles": 0.11,
+    "sq_km": 0.28,
+    "incorporated": "June 8, 1897"
+  },
+  {
+    "cities": "Bertram",
+    "counties": "Linn",
+    "population_2020": "269",
+    "population_2010": "294",
+    "sq_miles": 1.68,
+    "sq_km": 4.4,
+    "incorporated": "17-Jan-14"
+  },
+  {
+    "cities": "Bettendorf",
+    "counties": "Scott",
+    "population_2020": "39,102",
+    "population_2010": "33,217",
+    "sq_miles": 21.22,
+    "sq_km": 55,
+    "incorporated": "5-Jun-03"
+  },
+  {
+    "cities": "Bevington",
+    "counties": "Madison, Warren",
+    "population_2020": "57",
+    "population_2010": "63",
+    "sq_miles": 0.45,
+    "sq_km": 1.2,
+    "incorporated": "1-Feb-16"
+  },
+  {
+    "cities": "Birmingham",
+    "counties": "Van Buren",
+    "population_2020": "367",
+    "population_2010": "448",
+    "sq_miles": 1.06,
+    "sq_km": 2.7,
+    "incorporated": "May 20, 1856"
+  },
+  {
+    "cities": "Blairsburg",
+    "counties": "Hamilton",
+    "population_2020": "176",
+    "population_2010": "215",
+    "sq_miles": 0.65,
+    "sq_km": 1.7,
+    "incorporated": "21-Dec-00"
+  },
+  {
+    "cities": "Blairstown",
+    "counties": "Benton",
+    "population_2020": "713",
+    "population_2010": "692",
+    "sq_miles": 0.52,
+    "sq_km": 1.3,
+    "incorporated": "October 15, 1868"
+  },
+  {
+    "cities": "Blakesburg",
+    "counties": "Wapello",
+    "population_2020": "274",
+    "population_2010": "296",
+    "sq_miles": 0.27,
+    "sq_km": 0.7,
+    "incorporated": "31-Dec-00"
+  },
+  {
+    "cities": "Blanchard",
+    "counties": "Page",
+    "population_2020": "29",
+    "population_2010": "38",
+    "sq_miles": 0.23,
+    "sq_km": 0.6,
+    "incorporated": "June 11, 1880"
+  },
+  {
+    "cities": "Blencoe",
+    "counties": "Monona",
+    "population_2020": "233",
+    "population_2010": "224",
+    "sq_miles": 0.76,
+    "sq_km": 2,
+    "incorporated": "October 24, 1891"
+  },
+  {
+    "cities": "Blockton",
+    "counties": "Taylor",
+    "population_2020": "125",
+    "population_2010": "192",
+    "sq_miles": 0.65,
+    "sq_km": 1.7,
+    "incorporated": "March 28, 1890"
+  },
+  {
+    "cities": "Bloomfield",
+    "counties": "Davis",
+    "population_2020": "2,682",
+    "population_2010": "2,640",
+    "sq_miles": 2.25,
+    "sq_km": 5.8,
+    "incorporated": "January 13, 1855"
+  },
+  {
+    "cities": "Blue Grass",
+    "counties": "Scott, Muscatine",
+    "population_2020": "1,666",
+    "population_2010": "1,452",
+    "sq_miles": 2.89,
+    "sq_km": 7.5,
+    "incorporated": "10-Dec-03"
+  },
+  {
+    "cities": "Bode",
+    "counties": "Humboldt",
+    "population_2020": "302",
+    "population_2010": "302",
+    "sq_miles": 0.41,
+    "sq_km": 1.1,
+    "incorporated": "February 20, 1892"
+  },
+  {
+    "cities": "Bonaparte",
+    "counties": "Van Buren",
+    "population_2020": "359",
+    "population_2010": "433",
+    "sq_miles": 0.37,
+    "sq_km": 0.96,
+    "incorporated": "January 31, 1899"
+  },
+  {
+    "cities": "Bondurant",
+    "counties": "Polk",
+    "population_2020": "7,365",
+    "population_2010": "3,860",
+    "sq_miles": 8.38,
+    "sq_km": 21.7,
+    "incorporated": "December 23, 1897"
+  },
+  {
+    "cities": "Boone",
+    "counties": "Boone",
+    "population_2020": "12,460",
+    "population_2010": "12,661",
+    "sq_miles": 9.02,
+    "sq_km": 23.4,
+    "incorporated": "October 24, 1876"
+  },
+  {
+    "cities": "Bouton",
+    "counties": "Dallas",
+    "population_2020": "127",
+    "population_2010": "129",
+    "sq_miles": 0.14,
+    "sq_km": 0.36,
+    "incorporated": "27-Sep-11"
+  },
+  {
+    "cities": "Boxholm",
+    "counties": "Boone",
+    "population_2020": "181",
+    "population_2010": "195",
+    "sq_miles": 1.02,
+    "sq_km": 2.6,
+    "incorporated": "29-Sep-13"
+  },
+  {
+    "cities": "Boyden",
+    "counties": "Sioux",
+    "population_2020": "701",
+    "population_2010": "707",
+    "sq_miles": 0.75,
+    "sq_km": 1.9,
+    "incorporated": "May 24, 1889"
+  },
+  {
+    "cities": "Braddyville",
+    "counties": "Page",
+    "population_2020": "147",
+    "population_2010": "159",
+    "sq_miles": 0.53,
+    "sq_km": 1.4,
+    "incorporated": "February 9, 1880"
+  },
+  {
+    "cities": "Bradgate",
+    "counties": "Humboldt",
+    "population_2020": "75",
+    "population_2010": "86",
+    "sq_miles": 0.35,
+    "sq_km": 0.91,
+    "incorporated": "June 20, 1893"
+  },
+  {
+    "cities": "Brandon",
+    "counties": "Buchanan",
+    "population_2020": "341",
+    "population_2010": "309",
+    "sq_miles": 0.32,
+    "sq_km": 0.83,
+    "incorporated": "14-Apr-05"
+  },
+  {
+    "cities": "Brayton",
+    "counties": "Audubon",
+    "population_2020": "143",
+    "population_2010": "128",
+    "sq_miles": 0.62,
+    "sq_km": 1.6,
+    "incorporated": "May 17, 1899"
+  },
+  {
+    "cities": "Breda",
+    "counties": "Carroll",
+    "population_2020": "500",
+    "population_2010": "483",
+    "sq_miles": 0.74,
+    "sq_km": 1.9,
+    "incorporated": "October 30, 1883"
+  },
+  {
+    "cities": "Bridgewater",
+    "counties": "Adair",
+    "population_2020": "148",
+    "population_2010": "182",
+    "sq_miles": 0.29,
+    "sq_km": 0.75,
+    "incorporated": "1-Apr-05"
+  },
+  {
+    "cities": "Brighton",
+    "counties": "Washington",
+    "population_2020": "600",
+    "population_2010": "652",
+    "sq_miles": 0.71,
+    "sq_km": 1.8,
+    "incorporated": "July 26, 1870"
+  },
+  {
+    "cities": "Bristow",
+    "counties": "Butler",
+    "population_2020": "145",
+    "population_2010": "160",
+    "sq_miles": 0.94,
+    "sq_km": 2.4,
+    "incorporated": "December 15, 1881"
+  },
+  {
+    "cities": "Britt",
+    "counties": "Hancock",
+    "population_2020": "2,044",
+    "population_2010": "2,069",
+    "sq_miles": 1.26,
+    "sq_km": 3.3,
+    "incorporated": "June 23, 1881"
+  },
+  {
+    "cities": "Bronson",
+    "counties": "Woodbury",
+    "population_2020": "294",
+    "population_2010": "322",
+    "sq_miles": 0.31,
+    "sq_km": 0.8,
+    "incorporated": "8-Jun-67"
+  },
+  {
+    "cities": "Brooklyn",
+    "counties": "Poweshiek",
+    "population_2020": "1,502",
+    "population_2010": "1,468",
+    "sq_miles": 1.23,
+    "sq_km": 3.2,
+    "incorporated": "May 3, 1869"
+  },
+  {
+    "cities": "Brunsville",
+    "counties": "Plymouth",
+    "population_2020": "129",
+    "population_2010": "151",
+    "sq_miles": 0.24,
+    "sq_km": 0.62,
+    "incorporated": "18-Jul-11"
+  },
+  {
+    "cities": "Buck Grove",
+    "counties": "Crawford",
+    "population_2020": "34",
+    "population_2010": "43",
+    "sq_miles": 0.36,
+    "sq_km": 0.93,
+    "incorporated": "29-Jun-06"
+  },
+  {
+    "cities": "Buckeye",
+    "counties": "Hardin",
+    "population_2020": "86",
+    "population_2010": "108",
+    "sq_miles": 1,
+    "sq_km": 2.6,
+    "incorporated": "1901"
+  },
+  {
+    "cities": "Buffalo",
+    "counties": "Scott",
+    "population_2020": "1,176",
+    "population_2010": "1,270",
+    "sq_miles": 6.45,
+    "sq_km": 16.7,
+    "incorporated": "July 15, 1875"
+  },
+  {
+    "cities": "Buffalo Center",
+    "counties": "Winnebago",
+    "population_2020": "857",
+    "population_2010": "905",
+    "sq_miles": 1.07,
+    "sq_km": 2.8,
+    "incorporated": "February 17, 1894"
+  },
+  {
+    "cities": "Burlington",
+    "counties": "Des Moines",
+    "population_2020": "23,982",
+    "population_2010": "25,663",
+    "sq_miles": 14.48,
+    "sq_km": 37.5,
+    "incorporated": "June 10, 1845"
+  },
+  {
+    "cities": "Burt",
+    "counties": "Kossuth",
+    "population_2020": "418",
+    "population_2010": "533",
+    "sq_miles": 0.44,
+    "sq_km": 1.1,
+    "incorporated": "November 28, 1893"
+  },
+  {
+    "cities": "Bussey",
+    "counties": "Marion",
+    "population_2020": "387",
+    "population_2010": "422",
+    "sq_miles": 0.33,
+    "sq_km": 0.85,
+    "incorporated": "April 9, 1895"
+  },
+  {
+    "cities": "Calamus",
+    "counties": "Clinton",
+    "population_2020": "356",
+    "population_2010": "439",
+    "sq_miles": 0.48,
+    "sq_km": 1.2,
+    "incorporated": "October 6, 1875"
+  },
+  {
+    "cities": "Callender",
+    "counties": "Webster",
+    "population_2020": "368",
+    "population_2010": "376",
+    "sq_miles": 0.52,
+    "sq_km": 1.3,
+    "incorporated": "November 17, 1893"
+  },
+  {
+    "cities": "Calmar",
+    "counties": "Winneshiek",
+    "population_2020": "1,125",
+    "population_2010": "978",
+    "sq_miles": 1.07,
+    "sq_km": 2.8,
+    "incorporated": "July 14, 1869"
+  },
+  {
+    "cities": "Calumet",
+    "counties": "O'Brien",
+    "population_2020": "146",
+    "population_2010": "170",
+    "sq_miles": 0.27,
+    "sq_km": 0.7,
+    "incorporated": "January 31, 1895"
+  },
+  {
+    "cities": "Camanche",
+    "counties": "Clinton",
+    "population_2020": "4,570",
+    "population_2010": "4,448",
+    "sq_miles": 8.68,
+    "sq_km": 22.5,
+    "incorporated": "January 28, 1857"
+  },
+  {
+    "cities": "Cambridge",
+    "counties": "Story",
+    "population_2020": "827",
+    "population_2010": "827",
+    "sq_miles": 1.1,
+    "sq_km": 2.8,
+    "incorporated": "December 6, 1881"
+  },
+  {
+    "cities": "Cantril",
+    "counties": "Van Buren",
+    "population_2020": "224",
+    "population_2010": "222",
+    "sq_miles": 0.51,
+    "sq_km": 1.3,
+    "incorporated": "June 4, 1874"
+  },
+  {
+    "cities": "Carbon",
+    "counties": "Adams",
+    "population_2020": "36",
+    "population_2010": "34",
+    "sq_miles": 0.71,
+    "sq_km": 1.8,
+    "incorporated": "18-Jul-03"
+  },
+  {
+    "cities": "Carlisle",
+    "counties": "Warren, Polk",
+    "population_2020": "4,160",
+    "population_2010": "3,876",
+    "sq_miles": 5.56,
+    "sq_km": 14.4,
+    "incorporated": "May 10, 1870"
+  },
+  {
+    "cities": "Carpenter",
+    "counties": "Mitchell",
+    "population_2020": "87",
+    "population_2010": "109",
+    "sq_miles": 0.16,
+    "sq_km": 0.41,
+    "incorporated": "April 20, 1880"
+  },
+  {
+    "cities": "Carroll",
+    "counties": "Carroll",
+    "population_2020": "10,321",
+    "population_2010": "10,103",
+    "sq_miles": 5.69,
+    "sq_km": 14.7,
+    "incorporated": "September 27, 1869"
+  },
+  {
+    "cities": "Carson",
+    "counties": "Pottawattamie",
+    "population_2020": "766",
+    "population_2010": "812",
+    "sq_miles": 0.71,
+    "sq_km": 1.8,
+    "incorporated": "March 28, 1881"
+  },
+  {
+    "cities": "Carter Lake",
+    "counties": "Pottawattamie",
+    "population_2020": "3,791",
+    "population_2010": "3,785",
+    "sq_miles": 1.87,
+    "sq_km": 4.8,
+    "incorporated": "5-Jul-30"
+  },
+  {
+    "cities": "Cascade",
+    "counties": "Dubuque, Jones",
+    "population_2020": "2,386",
+    "population_2010": "1,978",
+    "sq_miles": 1.87,
+    "sq_km": 4.8,
+    "incorporated": "December 14, 1880"
+  },
+  {
+    "cities": "Casey",
+    "counties": "Guthrie, Adair",
+    "population_2020": "387",
+    "population_2010": "426",
+    "sq_miles": 0.74,
+    "sq_km": 1.9,
+    "incorporated": "June 29, 1880"
+  },
+  {
+    "cities": "Castalia",
+    "counties": "Winneshiek",
+    "population_2020": "145",
+    "population_2010": "173",
+    "sq_miles": 0.58,
+    "sq_km": 1.5,
+    "incorporated": "16-Aug-01"
+  },
+  {
+    "cities": "Castana",
+    "counties": "Monona",
+    "population_2020": "107",
+    "population_2010": "147",
+    "sq_miles": 0.93,
+    "sq_km": 2.4,
+    "incorporated": "March 3, 1891"
+  },
+  {
+    "cities": "Cedar Falls",
+    "counties": "Black Hawk",
+    "population_2020": "40,713",
+    "population_2010": "39,260",
+    "sq_miles": 28.75,
+    "sq_km": 74.5,
+    "incorporated": "February 24, 1858"
+  },
+  {
+    "cities": "Cedar Rapids",
+    "counties": "Linn",
+    "population_2020": "137,710",
+    "population_2010": "126,326",
+    "sq_miles": 70.8,
+    "sq_km": 183,
+    "incorporated": "January 15, 1849"
+  },
+  {
+    "cities": "Center Point",
+    "counties": "Linn",
+    "population_2020": "2,579",
+    "population_2010": "2,421",
+    "sq_miles": 2.6,
+    "sq_km": 6.7,
+    "incorporated": "February 6, 1875"
+  },
+  {
+    "cities": "Centerville",
+    "counties": "Appanoose",
+    "population_2020": "5,412",
+    "population_2010": "5,528",
+    "sq_miles": 4.86,
+    "sq_km": 12.6,
+    "incorporated": "January 23, 1857"
+  },
+  {
+    "cities": "Central City",
+    "counties": "Linn",
+    "population_2020": "1,264",
+    "population_2010": "1,257",
+    "sq_miles": 0.95,
+    "sq_km": 2.5,
+    "incorporated": "July 6, 1889"
+  },
+  {
+    "cities": "Centralia",
+    "counties": "Dubuque",
+    "population_2020": "116",
+    "population_2010": "134",
+    "sq_miles": 0.58,
+    "sq_km": 1.5,
+    "incorporated": "3-Jun-33"
+  },
+  {
+    "cities": "Chariton",
+    "counties": "Lucas",
+    "population_2020": "4,193",
+    "population_2010": "4,321",
+    "sq_miles": 3.82,
+    "sq_km": 9.9,
+    "incorporated": "December 9, 1874"
+  },
+  {
+    "cities": "Charles City",
+    "counties": "Floyd",
+    "population_2020": "7,396",
+    "population_2010": "7,652",
+    "sq_miles": 6.22,
+    "sq_km": 16.1,
+    "incorporated": "May 1, 1869"
+  },
+  {
+    "cities": "Charlotte",
+    "counties": "Clinton",
+    "population_2020": "389",
+    "population_2010": "394",
+    "sq_miles": 0.58,
+    "sq_km": 1.5,
+    "incorporated": "5-Dec-04"
+  },
+  {
+    "cities": "Charter Oak",
+    "counties": "Crawford",
+    "population_2020": "535",
+    "population_2010": "502",
+    "sq_miles": 0.48,
+    "sq_km": 1.2,
+    "incorporated": "February 6, 1891"
+  },
+  {
+    "cities": "Chatsworth",
+    "counties": "Sioux",
+    "population_2020": "75",
+    "population_2010": "79",
+    "sq_miles": 0.49,
+    "sq_km": 1.3,
+    "incorporated": "31-Dec-00"
+  },
+  {
+    "cities": "Chelsea",
+    "counties": "Tama",
+    "population_2020": "229",
+    "population_2010": "267",
+    "sq_miles": 1.01,
+    "sq_km": 2.6,
+    "incorporated": "March 4, 1878"
+  },
+  {
+    "cities": "Cherokee",
+    "counties": "Cherokee",
+    "population_2020": "5,199",
+    "population_2010": "5,253",
+    "sq_miles": 6.43,
+    "sq_km": 16.7,
+    "incorporated": "April 5, 1873"
+  },
+  {
+    "cities": "Chester",
+    "counties": "Howard",
+    "population_2020": "139",
+    "population_2010": "127",
+    "sq_miles": 1.34,
+    "sq_km": 3.5,
+    "incorporated": "22-Sep-00"
+  },
+  {
+    "cities": "Chillicothe",
+    "counties": "Wapello",
+    "population_2020": "76",
+    "population_2010": "97",
+    "sq_miles": 0.23,
+    "sq_km": 0.6,
+    "incorporated": "December 22, 1881"
+  },
+  {
+    "cities": "Churdan",
+    "counties": "Greene",
+    "population_2020": "365",
+    "population_2010": "386",
+    "sq_miles": 2.11,
+    "sq_km": 5.5,
+    "incorporated": "March 25, 1884"
+  },
+  {
+    "cities": "Cincinnati",
+    "counties": "Appanoose",
+    "population_2020": "290",
+    "population_2010": "357",
+    "sq_miles": 1.74,
+    "sq_km": 4.5,
+    "incorporated": "February 13, 1875"
+  },
+  {
+    "cities": "Clare",
+    "counties": "Webster",
+    "population_2020": "136",
+    "population_2010": "146",
+    "sq_miles": 0.51,
+    "sq_km": 1.3,
+    "incorporated": "March 29, 1892"
+  },
+  {
+    "cities": "Clarence",
+    "counties": "Cedar",
+    "population_2020": "1,039",
+    "population_2010": "974",
+    "sq_miles": 0.68,
+    "sq_km": 1.8,
+    "incorporated": "February 26, 1866"
+  },
+  {
+    "cities": "Clarinda",
+    "counties": "Page",
+    "population_2020": "5,369",
+    "population_2010": "5,572",
+    "sq_miles": 5.19,
+    "sq_km": 13.4,
+    "incorporated": "December 8, 1866"
+  },
+  {
+    "cities": "Clarion",
+    "counties": "Wright",
+    "population_2020": "2,810",
+    "population_2010": "2,850",
+    "sq_miles": 3.26,
+    "sq_km": 8.4,
+    "incorporated": "October 15, 1881"
+  },
+  {
+    "cities": "Clarksville",
+    "counties": "Butler",
+    "population_2020": "1,264",
+    "population_2010": "1,439",
+    "sq_miles": 1.33,
+    "sq_km": 3.4,
+    "incorporated": "May 11, 1874"
+  },
+  {
+    "cities": "Clayton",
+    "counties": "Clayton",
+    "population_2020": "45",
+    "population_2010": "43",
+    "sq_miles": 0.49,
+    "sq_km": 1.3,
+    "incorporated": "23-Nov-01"
+  },
+  {
+    "cities": "Clear Lake",
+    "counties": "Cerro Gordo",
+    "population_2020": "7,687",
+    "population_2010": "7,777",
+    "sq_miles": 10.8,
+    "sq_km": 28,
+    "incorporated": "May 26, 1871"
+  },
+  {
+    "cities": "Clearfield",
+    "counties": "Taylor, Ringgold",
+    "population_2020": "278",
+    "population_2010": "363",
+    "sq_miles": 1.26,
+    "sq_km": 3.3,
+    "incorporated": "December 16, 1882"
+  },
+  {
+    "cities": "Cleghorn",
+    "counties": "Cherokee",
+    "population_2020": "240",
+    "population_2010": "240",
+    "sq_miles": 0.34,
+    "sq_km": 0.88,
+    "incorporated": "25-Jan-01"
+  },
+  {
+    "cities": "Clemons",
+    "counties": "Marshall",
+    "population_2020": "140",
+    "population_2010": "148",
+    "sq_miles": 0.27,
+    "sq_km": 0.7,
+    "incorporated": "25-May-03"
+  },
+  {
+    "cities": "Clermont",
+    "counties": "Fayette",
+    "population_2020": "586",
+    "population_2010": "632",
+    "sq_miles": 1.23,
+    "sq_km": 3.2,
+    "incorporated": "June 15, 1875"
+  },
+  {
+    "cities": "Clinton",
+    "counties": "Clinton",
+    "population_2020": "24,469",
+    "population_2010": "26,885",
+    "sq_miles": 35.15,
+    "sq_km": 91,
+    "incorporated": "January 26, 1857"
+  },
+  {
+    "cities": "Clio",
+    "counties": "Wayne",
+    "population_2020": "67",
+    "population_2010": "80",
+    "sq_miles": 0.75,
+    "sq_km": 1.9,
+    "incorporated": "February 20, 1882"
+  },
+  {
+    "cities": "Clive",
+    "counties": "Polk, Dallas",
+    "population_2020": "18,601",
+    "population_2010": "15,447",
+    "sq_miles": 7.59,
+    "sq_km": 19.7,
+    "incorporated": "9-Oct-56"
+  },
+  {
+    "cities": "Clutier",
+    "counties": "Tama",
+    "population_2020": "213",
+    "population_2010": "213",
+    "sq_miles": 0.76,
+    "sq_km": 2,
+    "incorporated": "16-Jan-01"
+  },
+  {
+    "cities": "Coburg",
+    "counties": "Montgomery",
+    "population_2020": "26",
+    "population_2010": "42",
+    "sq_miles": 0.29,
+    "sq_km": 0.75,
+    "incorporated": "January 1, 1875"
+  },
+  {
+    "cities": "Coggon",
+    "counties": "Linn",
+    "population_2020": "701",
+    "population_2010": "658",
+    "sq_miles": 0.62,
+    "sq_km": 1.6,
+    "incorporated": "June 14, 1892"
+  },
+  {
+    "cities": "Coin",
+    "counties": "Page",
+    "population_2020": "176",
+    "population_2010": "193",
+    "sq_miles": 0.8,
+    "sq_km": 2.1,
+    "incorporated": "July 30, 1881"
+  },
+  {
+    "cities": "Colesburg",
+    "counties": "Delaware",
+    "population_2020": "386",
+    "population_2010": "404",
+    "sq_miles": 0.29,
+    "sq_km": 0.75,
+    "incorporated": "February 21, 1893"
+  },
+  {
+    "cities": "Colfax",
+    "counties": "Jasper",
+    "population_2020": "2,255",
+    "population_2010": "1,925",
+    "sq_miles": 1.79,
+    "sq_km": 4.6,
+    "incorporated": "August 10, 1875"
+  },
+  {
+    "cities": "College Springs",
+    "counties": "Page",
+    "population_2020": "172",
+    "population_2010": "214",
+    "sq_miles": 1.1,
+    "sq_km": 2.8,
+    "incorporated": "January 19, 1875"
+  },
+  {
+    "cities": "Collins",
+    "counties": "Story",
+    "population_2020": "495",
+    "population_2010": "495",
+    "sq_miles": 0.49,
+    "sq_km": 1.3,
+    "incorporated": "December 28, 1894"
+  },
+  {
+    "cities": "Colo",
+    "counties": "Story",
+    "population_2020": "845",
+    "population_2010": "876",
+    "sq_miles": 1.06,
+    "sq_km": 2.7,
+    "incorporated": "April 26, 1876"
+  },
+  {
+    "cities": "Columbus City",
+    "counties": "Louisa",
+    "population_2020": "392",
+    "population_2010": "391",
+    "sq_miles": 0.24,
+    "sq_km": 0.62,
+    "incorporated": "November 26, 1870"
+  },
+  {
+    "cities": "Columbus Junction",
+    "counties": "Louisa",
+    "population_2020": "1,830",
+    "population_2010": "1,899",
+    "sq_miles": 2.19,
+    "sq_km": 5.7,
+    "incorporated": "May 25, 1874"
+  },
+  {
+    "cities": "Colwell",
+    "counties": "Floyd",
+    "population_2020": "55",
+    "population_2010": "73",
+    "sq_miles": 0.18,
+    "sq_km": 0.47,
+    "incorporated": "27-Sep-21"
+  },
+  {
+    "cities": "Conesville",
+    "counties": "Muscatine",
+    "population_2020": "352",
+    "population_2010": "432",
+    "sq_miles": 0.36,
+    "sq_km": 0.93,
+    "incorporated": "March 21, 1874"
+  },
+  {
+    "cities": "Conrad",
+    "counties": "Grundy",
+    "population_2020": "1,093",
+    "population_2010": "1,108",
+    "sq_miles": 1.2,
+    "sq_km": 3.1,
+    "incorporated": "November 15, 1886"
+  },
+  {
+    "cities": "Conway",
+    "counties": "Taylor",
+    "population_2020": "17",
+    "population_2010": "41",
+    "sq_miles": 0.22,
+    "sq_km": 0.57,
+    "incorporated": "December 27, 1878"
+  },
+  {
+    "cities": "Coon Rapids",
+    "counties": "Carroll, Guthrie",
+    "population_2020": "1,300",
+    "population_2010": "1,305",
+    "sq_miles": 1.78,
+    "sq_km": 4.6,
+    "incorporated": "November 2, 1882"
+  },
+  {
+    "cities": "Coppock",
+    "counties": "Henry, Washington, Jefferson",
+    "population_2020": "36",
+    "population_2010": "47",
+    "sq_miles": 0.23,
+    "sq_km": 0.6,
+    "incorporated": "24-Aug-01"
+  },
+  {
+    "cities": "Coralville",
+    "counties": "Johnson",
+    "population_2020": "22,318",
+    "population_2010": "18,907",
+    "sq_miles": 12.01,
+    "sq_km": 31.1,
+    "incorporated": "November 22, 1873"
+  },
+  {
+    "cities": "Corning",
+    "counties": "Adams",
+    "population_2020": "1,564",
+    "population_2010": "1,635",
+    "sq_miles": 1.58,
+    "sq_km": 4.1,
+    "incorporated": "December 13, 1871"
+  },
+  {
+    "cities": "Correctionville",
+    "counties": "Woodbury",
+    "population_2020": "766",
+    "population_2010": "821",
+    "sq_miles": 0.57,
+    "sq_km": 1.5,
+    "incorporated": "October 3, 1882"
+  },
+  {
+    "cities": "Corwith",
+    "counties": "Hancock",
+    "population_2020": "266",
+    "population_2010": "309",
+    "sq_miles": 1.48,
+    "sq_km": 3.8,
+    "incorporated": "June 1, 1886"
+  },
+  {
+    "cities": "Corydon",
+    "counties": "Wayne",
+    "population_2020": "1,526",
+    "population_2010": "1,585",
+    "sq_miles": 1.39,
+    "sq_km": 3.6,
+    "incorporated": "April 27, 1867"
+  },
+  {
+    "cities": "Cotter",
+    "counties": "Louisa",
+    "population_2020": "39",
+    "population_2010": "48",
+    "sq_miles": 0.25,
+    "sq_km": 0.65,
+    "incorporated": "1-Apr-12"
+  },
+  {
+    "cities": "Coulter",
+    "counties": "Franklin",
+    "population_2020": "219",
+    "population_2010": "281",
+    "sq_miles": 2.45,
+    "sq_km": 6.3,
+    "incorporated": "24-Apr-09"
+  },
+  {
+    "cities": "Council Bluffs",
+    "counties": "Pottawattamie",
+    "population_2020": "62,799",
+    "population_2010": "62,230",
+    "sq_miles": 40.97,
+    "sq_km": 106.1,
+    "incorporated": "January 19, 1853"
+  },
+  {
+    "cities": "Craig",
+    "counties": "Plymouth",
+    "population_2020": "79",
+    "population_2010": "89",
+    "sq_miles": 0.09,
+    "sq_km": 0.23,
+    "incorporated": "6-Apr-11"
+  },
+  {
+    "cities": "Crawfordsville",
+    "counties": "Washington",
+    "population_2020": "277",
+    "population_2010": "264",
+    "sq_miles": 0.35,
+    "sq_km": 0.91,
+    "incorporated": "March 26, 1891"
+  },
+  {
+    "cities": "Crescent",
+    "counties": "Pottawattamie",
+    "population_2020": "628",
+    "population_2010": "617",
+    "sq_miles": 1.09,
+    "sq_km": 2.8,
+    "incorporated": "16-Oct-59"
+  },
+  {
+    "cities": "Cresco",
+    "counties": "Howard",
+    "population_2020": "3,888",
+    "population_2010": "3,868",
+    "sq_miles": 3.35,
+    "sq_km": 8.7,
+    "incorporated": "June 6, 1868"
+  },
+  {
+    "cities": "Creston",
+    "counties": "Union",
+    "population_2020": "7,536",
+    "population_2010": "7,834",
+    "sq_miles": 5.19,
+    "sq_km": 13.4,
+    "incorporated": "April 22, 1871"
+  },
+  {
+    "cities": "Cromwell",
+    "counties": "Union",
+    "population_2020": "105",
+    "population_2010": "107",
+    "sq_miles": 0.29,
+    "sq_km": 0.75,
+    "incorporated": "November 24, 1893"
+  },
+  {
+    "cities": "Crystal Lake",
+    "counties": "Hancock",
+    "population_2020": "253",
+    "population_2010": "250",
+    "sq_miles": 0.25,
+    "sq_km": 0.65,
+    "incorporated": "April 19, 1898"
+  },
+  {
+    "cities": "Cumberland",
+    "counties": "Cass",
+    "population_2020": "251",
+    "population_2010": "262",
+    "sq_miles": 0.6,
+    "sq_km": 1.6,
+    "incorporated": "May 2, 1893"
+  },
+  {
+    "cities": "Cumming",
+    "counties": "Warren",
+    "population_2020": "436",
+    "population_2010": "351",
+    "sq_miles": 2.56,
+    "sq_km": 6.6,
+    "incorporated": "21-Oct-24"
+  },
+  {
+    "cities": "Curlew",
+    "counties": "Palo Alto",
+    "population_2020": "37",
+    "population_2010": "58",
+    "sq_miles": 0.76,
+    "sq_km": 2,
+    "incorporated": "22-May-02"
+  },
+  {
+    "cities": "Cushing",
+    "counties": "Woodbury",
+    "population_2020": "230",
+    "population_2010": "220",
+    "sq_miles": 0.32,
+    "sq_km": 0.83,
+    "incorporated": "November 21, 1892"
+  },
+  {
+    "cities": "Cylinder",
+    "counties": "Palo Alto",
+    "population_2020": "87",
+    "population_2010": "88",
+    "sq_miles": 0.07,
+    "sq_km": 0.18,
+    "incorporated": "5-Apr-00"
+  },
+  {
+    "cities": "Dakota City",
+    "counties": "Humboldt",
+    "population_2020": "759",
+    "population_2010": "843",
+    "sq_miles": 0.74,
+    "sq_km": 1.9,
+    "incorporated": "June 22, 1878"
+  },
+  {
+    "cities": "Dallas Center",
+    "counties": "Dallas",
+    "population_2020": "1,901",
+    "population_2010": "1,623",
+    "sq_miles": 4.58,
+    "sq_km": 11.9,
+    "incorporated": "March 22, 1880"
+  },
+  {
+    "cities": "Dana",
+    "counties": "Greene",
+    "population_2020": "38",
+    "population_2010": "71",
+    "sq_miles": 0.28,
+    "sq_km": 0.73,
+    "incorporated": "22-Jul-07"
+  },
+  {
+    "cities": "Danbury",
+    "counties": "Woodbury",
+    "population_2020": "320",
+    "population_2010": "348",
+    "sq_miles": 0.4,
+    "sq_km": 1,
+    "incorporated": "October 1, 1881"
+  },
+  {
+    "cities": "Danville",
+    "counties": "Des Moines",
+    "population_2020": "927",
+    "population_2010": "934",
+    "sq_miles": 0.75,
+    "sq_km": 1.9,
+    "incorporated": "27-Sep-02"
+  },
+  {
+    "cities": "Davenport",
+    "counties": "Scott",
+    "population_2020": "101,724",
+    "population_2010": "99,685",
+    "sq_miles": 62.95,
+    "sq_km": 163,
+    "incorporated": "February 5, 1881"
+  },
+  {
+    "cities": "Davis City",
+    "counties": "Decatur",
+    "population_2020": "179",
+    "population_2010": "204",
+    "sq_miles": 0.59,
+    "sq_km": 1.5,
+    "incorporated": "May 19, 1877"
+  },
+  {
+    "cities": "Dawson",
+    "counties": "Dallas",
+    "population_2020": "116",
+    "population_2010": "131",
+    "sq_miles": 0.48,
+    "sq_km": 1.2,
+    "incorporated": "25-Apr-08"
+  },
+  {
+    "cities": "Dayton",
+    "counties": "Webster",
+    "population_2020": "772",
+    "population_2010": "837",
+    "sq_miles": 0.85,
+    "sq_km": 2.2,
+    "incorporated": "July 8, 1881"
+  },
+  {
+    "cities": "De Soto",
+    "counties": "Dallas",
+    "population_2020": "915",
+    "population_2010": "1,050",
+    "sq_miles": 1.52,
+    "sq_km": 3.9,
+    "incorporated": "April 28, 1875"
+  },
+  {
+    "cities": "DeWitt",
+    "counties": "Clinton",
+    "population_2020": "5,514",
+    "population_2010": "5,322",
+    "sq_miles": 5.98,
+    "sq_km": 15.5,
+    "incorporated": "September 20, 1858"
+  },
+  {
+    "cities": "Decatur City",
+    "counties": "Decatur",
+    "population_2020": "175",
+    "population_2010": "197",
+    "sq_miles": 0.4,
+    "sq_km": 1,
+    "incorporated": "January 8, 1875"
+  },
+  {
+    "cities": "Decorah",
+    "counties": "Winneshiek",
+    "population_2020": "7,587",
+    "population_2010": "8,127",
+    "sq_miles": 7.01,
+    "sq_km": 18.2,
+    "incorporated": "June 30, 1857"
+  },
+  {
+    "cities": "Dedham",
+    "counties": "Carroll",
+    "population_2020": "224",
+    "population_2010": "266",
+    "sq_miles": 0.58,
+    "sq_km": 1.5,
+    "incorporated": "April 2, 1884"
+  },
+  {
+    "cities": "Deep River",
+    "counties": "Poweshiek",
+    "population_2020": "249",
+    "population_2010": "279",
+    "sq_miles": 0.43,
+    "sq_km": 1.1,
+    "incorporated": "June 15, 1887"
+  },
+  {
+    "cities": "Defiance",
+    "counties": "Shelby",
+    "population_2020": "245",
+    "population_2010": "284",
+    "sq_miles": 0.39,
+    "sq_km": 1,
+    "incorporated": "December 4, 1882"
+  },
+  {
+    "cities": "Delaware",
+    "counties": "Delaware",
+    "population_2020": "142",
+    "population_2010": "159",
+    "sq_miles": 0.8,
+    "sq_km": 2.1,
+    "incorporated": "22-Jul-15"
+  },
+  {
+    "cities": "Delhi",
+    "counties": "Delaware",
+    "population_2020": "420",
+    "population_2010": "460",
+    "sq_miles": 0.97,
+    "sq_km": 2.5,
+    "incorporated": "26-Apr-09"
+  },
+  {
+    "cities": "Delmar",
+    "counties": "Clinton",
+    "population_2020": "542",
+    "population_2010": "525",
+    "sq_miles": 0.76,
+    "sq_km": 2,
+    "incorporated": "June 10, 1876"
+  },
+  {
+    "cities": "Deloit",
+    "counties": "Crawford",
+    "population_2020": "250",
+    "population_2010": "264",
+    "sq_miles": 0.42,
+    "sq_km": 1.1,
+    "incorporated": "19-May-00"
+  },
+  {
+    "cities": "Delphos",
+    "counties": "Ringgold",
+    "population_2020": "26",
+    "population_2010": "25",
+    "sq_miles": 0.22,
+    "sq_km": 0.57,
+    "incorporated": "3-Apr-20"
+  },
+  {
+    "cities": "Delta",
+    "counties": "Keokuk",
+    "population_2020": "264",
+    "population_2010": "328",
+    "sq_miles": 0.93,
+    "sq_km": 2.4,
+    "incorporated": "March 22, 1877"
+  },
+  {
+    "cities": "Denison",
+    "counties": "Crawford",
+    "population_2020": "8,373",
+    "population_2010": "8,298",
+    "sq_miles": 6.54,
+    "sq_km": 16.9,
+    "incorporated": "October 2, 1875"
+  },
+  {
+    "cities": "Denver",
+    "counties": "Bremer",
+    "population_2020": "1,919",
+    "population_2010": "1,780",
+    "sq_miles": 1.64,
+    "sq_km": 4.2,
+    "incorporated": "June 30, 1896"
+  },
+  {
+    "cities": "Derby",
+    "counties": "Lucas",
+    "population_2020": "90",
+    "population_2010": "115",
+    "sq_miles": 0.26,
+    "sq_km": 0.67,
+    "incorporated": "4-Feb-01"
+  },
+  {
+    "cities": "Des Moines",
+    "counties": "Polk, Warren",
+    "population_2020": "214,133",
+    "population_2010": "203,433",
+    "sq_miles": 80.87,
+    "sq_km": 209.5,
+    "incorporated": "October 18, 1851"
+  },
+  {
+    "cities": "Dexter",
+    "counties": "Dallas",
+    "population_2020": "640",
+    "population_2010": "611",
+    "sq_miles": 2.35,
+    "sq_km": 6.1,
+    "incorporated": "January 7, 1871"
+  },
+  {
+    "cities": "Diagonal",
+    "counties": "Ringgold",
+    "population_2020": "344",
+    "population_2010": "330",
+    "sq_miles": 0.9,
+    "sq_km": 2.3,
+    "incorporated": "March 6, 1896"
+  },
+  {
+    "cities": "Dickens",
+    "counties": "Clay",
+    "population_2020": "146",
+    "population_2010": "185",
+    "sq_miles": 0.84,
+    "sq_km": 2.2,
+    "incorporated": "7-Apr-09"
+  },
+  {
+    "cities": "Dike",
+    "counties": "Grundy",
+    "population_2020": "1,304",
+    "population_2010": "1,209",
+    "sq_miles": 1.39,
+    "sq_km": 3.6,
+    "incorporated": "16-Jan-01"
+  },
+  {
+    "cities": "Dixon",
+    "counties": "Scott",
+    "population_2020": "202",
+    "population_2010": "247",
+    "sq_miles": 0.15,
+    "sq_km": 0.39,
+    "incorporated": "12-May-09"
+  },
+  {
+    "cities": "Dolliver",
+    "counties": "Emmet",
+    "population_2020": "65",
+    "population_2010": "66",
+    "sq_miles": 0.36,
+    "sq_km": 0.93,
+    "incorporated": "16-Apr-02"
+  },
+  {
+    "cities": "Donahue",
+    "counties": "Scott",
+    "population_2020": "335",
+    "population_2010": "346",
+    "sq_miles": 0.35,
+    "sq_km": 0.91,
+    "incorporated": "1-May-09"
+  },
+  {
+    "cities": "Donnellson",
+    "counties": "Lee",
+    "population_2020": "885",
+    "population_2010": "912",
+    "sq_miles": 1.26,
+    "sq_km": 3.3,
+    "incorporated": "October 25, 1892"
+  },
+  {
+    "cities": "Doon",
+    "counties": "Lyon",
+    "population_2020": "619",
+    "population_2010": "577",
+    "sq_miles": 0.57,
+    "sq_km": 1.5,
+    "incorporated": "March 8, 1892"
+  },
+  {
+    "cities": "Dougherty",
+    "counties": "Cerro Gordo",
+    "population_2020": "62",
+    "population_2010": "58",
+    "sq_miles": 0.55,
+    "sq_km": 1.4,
+    "incorporated": "29-Dec-00"
+  },
+  {
+    "cities": "Dow City",
+    "counties": "Crawford",
+    "population_2020": "485",
+    "population_2010": "510",
+    "sq_miles": 0.32,
+    "sq_km": 0.83,
+    "incorporated": "February 22, 1884"
+  },
+  {
+    "cities": "Dows",
+    "counties": "Wright, Franklin",
+    "population_2020": "521",
+    "population_2010": "538",
+    "sq_miles": 0.77,
+    "sq_km": 2,
+    "incorporated": "May 3, 1892"
+  },
+  {
+    "cities": "Drakesville",
+    "counties": "Davis",
+    "population_2020": "164",
+    "population_2010": "184",
+    "sq_miles": 0.25,
+    "sq_km": 0.65,
+    "incorporated": "May 5, 1866"
+  },
+  {
+    "cities": "Dubuque",
+    "counties": "Dubuque",
+    "population_2020": "59,667",
+    "population_2010": "57,637",
+    "sq_miles": 29.97,
+    "sq_km": 77.6,
+    "incorporated": "January 28, 1857"
+  },
+  {
+    "cities": "Dumont",
+    "counties": "Butler",
+    "population_2020": "634",
+    "population_2010": "637",
+    "sq_miles": 1.76,
+    "sq_km": 4.6,
+    "incorporated": "January 24, 1896"
+  },
+  {
+    "cities": "Duncombe",
+    "counties": "Webster",
+    "population_2020": "381",
+    "population_2010": "410",
+    "sq_miles": 1.97,
+    "sq_km": 5.1,
+    "incorporated": "January 25, 1893"
+  },
+  {
+    "cities": "Dundee",
+    "counties": "Delaware",
+    "population_2020": "198",
+    "population_2010": "174",
+    "sq_miles": 0.36,
+    "sq_km": 0.93,
+    "incorporated": "30-Aug-17"
+  },
+  {
+    "cities": "Dunkerton",
+    "counties": "Black Hawk",
+    "population_2020": "842",
+    "population_2010": "852",
+    "sq_miles": 0.98,
+    "sq_km": 2.5,
+    "incorporated": "March 18, 1899"
+  },
+  {
+    "cities": "Dunlap",
+    "counties": "Harrison, Crawford",
+    "population_2020": "1,038",
+    "population_2010": "1,042",
+    "sq_miles": 1.13,
+    "sq_km": 2.9,
+    "incorporated": "January 1871"
+  },
+  {
+    "cities": "Durango",
+    "counties": "Dubuque",
+    "population_2020": "20",
+    "population_2010": "22",
+    "sq_miles": 0.04,
+    "sq_km": 0.1,
+    "incorporated": "5-Jun-33"
+  },
+  {
+    "cities": "Durant",
+    "counties": "Cedar, Scott, Muscatine",
+    "population_2020": "1,871",
+    "population_2010": "1,832",
+    "sq_miles": 1.15,
+    "sq_km": 3,
+    "incorporated": "July 1, 1867"
+  },
+  {
+    "cities": "Dyersville",
+    "counties": "Dubuque, Delaware",
+    "population_2020": "4,477",
+    "population_2010": "4,058",
+    "sq_miles": 5.63,
+    "sq_km": 14.6,
+    "incorporated": "November 9, 1872"
+  },
+  {
+    "cities": "Dysart",
+    "counties": "Tama",
+    "population_2020": "1,281",
+    "population_2010": "1,379",
+    "sq_miles": 1.25,
+    "sq_km": 3.2,
+    "incorporated": "May 30, 1881"
+  },
+  {
+    "cities": "Eagle Grove",
+    "counties": "Wright",
+    "population_2020": "3,601",
+    "population_2010": "3,583",
+    "sq_miles": 4.04,
+    "sq_km": 10.5,
+    "incorporated": "October 16, 1882"
+  },
+  {
+    "cities": "Earlham",
+    "counties": "Madison",
+    "population_2020": "1,410",
+    "population_2010": "1,450",
+    "sq_miles": 0.97,
+    "sq_km": 2.5,
+    "incorporated": "April 26, 1870"
+  },
+  {
+    "cities": "Earling",
+    "counties": "Shelby",
+    "population_2020": "397",
+    "population_2010": "437",
+    "sq_miles": 0.6,
+    "sq_km": 1.6,
+    "incorporated": "June 1, 1892"
+  },
+  {
+    "cities": "Earlville",
+    "counties": "Delaware",
+    "population_2020": "716",
+    "population_2010": "812",
+    "sq_miles": 0.55,
+    "sq_km": 1.4,
+    "incorporated": "June 12, 1882"
+  },
+  {
+    "cities": "Early",
+    "counties": "Sac",
+    "population_2020": "587",
+    "population_2010": "557",
+    "sq_miles": 0.39,
+    "sq_km": 1,
+    "incorporated": "May 22, 1883"
+  },
+  {
+    "cities": "East Peru",
+    "counties": "Madison",
+    "population_2020": "115",
+    "population_2010": "125",
+    "sq_miles": 0.94,
+    "sq_km": 2.4,
+    "incorporated": "March 31, 1897"
+  },
+  {
+    "cities": "Eddyville",
+    "counties": "Wapello, Mahaska, Monroe",
+    "population_2020": "970",
+    "population_2010": "1,024",
+    "sq_miles": 1.18,
+    "sq_km": 3.1,
+    "incorporated": "22-Feb-00"
+  },
+  {
+    "cities": "Edgewood",
+    "counties": "Delaware, Clayton",
+    "population_2020": "909",
+    "population_2010": "864",
+    "sq_miles": 0.85,
+    "sq_km": 2.2,
+    "incorporated": "April 6, 1899"
+  },
+  {
+    "cities": "Elberon",
+    "counties": "Tama",
+    "population_2020": "184",
+    "population_2010": "196",
+    "sq_miles": 0.65,
+    "sq_km": 1.7,
+    "incorporated": "October 28, 1893"
+  },
+  {
+    "cities": "Eldon",
+    "counties": "Wapello",
+    "population_2020": "783",
+    "population_2010": "927",
+    "sq_miles": 1.11,
+    "sq_km": 2.9,
+    "incorporated": "April 29, 1872"
+  },
+  {
+    "cities": "Eldora",
+    "counties": "Hardin",
+    "population_2020": "2,663",
+    "population_2010": "2,732",
+    "sq_miles": 4.33,
+    "sq_km": 11.2,
+    "incorporated": "July 1, 1895"
+  },
+  {
+    "cities": "Eldridge",
+    "counties": "Scott",
+    "population_2020": "6,726",
+    "population_2010": "5,651",
+    "sq_miles": 9.48,
+    "sq_km": 24.6,
+    "incorporated": "1-May-00"
+  },
+  {
+    "cities": "Elgin",
+    "counties": "Fayette",
+    "population_2020": "685",
+    "population_2010": "683",
+    "sq_miles": 0.66,
+    "sq_km": 1.7,
+    "incorporated": "March 14, 1892"
+  },
+  {
+    "cities": "Elk Horn",
+    "counties": "Shelby",
+    "population_2020": "601",
+    "population_2010": "662",
+    "sq_miles": 0.77,
+    "sq_km": 2,
+    "incorporated": "28-Feb-10"
+  },
+  {
+    "cities": "Elk Run Heights",
+    "counties": "Black Hawk",
+    "population_2020": "1,069",
+    "population_2010": "1,117",
+    "sq_miles": 1.06,
+    "sq_km": 2.7,
+    "incorporated": "31-May-51"
+  },
+  {
+    "cities": "Elkader",
+    "counties": "Clayton",
+    "population_2020": "1,209",
+    "population_2010": "1,273",
+    "sq_miles": 1.39,
+    "sq_km": 3.6,
+    "incorporated": "1-May-00"
+  },
+  {
+    "cities": "Elkhart",
+    "counties": "Polk",
+    "population_2020": "882",
+    "population_2010": "683",
+    "sq_miles": 1.58,
+    "sq_km": 4.1,
+    "incorporated": "27-Jul-04"
+  },
+  {
+    "cities": "Elkport",
+    "counties": "Clayton",
+    "population_2020": "29",
+    "population_2010": "37",
+    "sq_miles": 0.25,
+    "sq_km": 0.65,
+    "incorporated": "February 24, 1896"
+  },
+  {
+    "cities": "Elliott",
+    "counties": "Montgomery",
+    "population_2020": "338",
+    "population_2010": "350",
+    "sq_miles": 0.42,
+    "sq_km": 1.1,
+    "incorporated": "March 14, 1882"
+  },
+  {
+    "cities": "Ellston",
+    "counties": "Ringgold",
+    "population_2020": "19",
+    "population_2010": "43",
+    "sq_miles": 0.2,
+    "sq_km": 0.52,
+    "incorporated": "January 1, 1895"
+  },
+  {
+    "cities": "Ellsworth",
+    "counties": "Hamilton",
+    "population_2020": "508",
+    "population_2010": "531",
+    "sq_miles": 0.9,
+    "sq_km": 2.3,
+    "incorporated": "October 12, 1893"
+  },
+  {
+    "cities": "Elma",
+    "counties": "Howard",
+    "population_2020": "505",
+    "population_2010": "546",
+    "sq_miles": 1.29,
+    "sq_km": 3.3,
+    "incorporated": "July 11, 1891"
+  },
+  {
+    "cities": "Ely",
+    "counties": "Linn",
+    "population_2020": "2,328",
+    "population_2010": "1,776",
+    "sq_miles": 1.44,
+    "sq_km": 3.7,
+    "incorporated": "12-Aug-03"
+  },
+  {
+    "cities": "Emerson",
+    "counties": "Mills",
+    "population_2020": "403",
+    "population_2010": "438",
+    "sq_miles": 0.26,
+    "sq_km": 0.67,
+    "incorporated": "December 2, 1875"
+  },
+  {
+    "cities": "Emmetsburg",
+    "counties": "Palo Alto",
+    "population_2020": "3,706",
+    "population_2010": "3,904",
+    "sq_miles": 3.81,
+    "sq_km": 9.9,
+    "incorporated": "November 17, 1877"
+  },
+  {
+    "cities": "Epworth",
+    "counties": "Dubuque",
+    "population_2020": "2,023",
+    "population_2010": "1,860",
+    "sq_miles": 1.56,
+    "sq_km": 4,
+    "incorporated": "October 20, 1879"
+  },
+  {
+    "cities": "Essex",
+    "counties": "Page",
+    "population_2020": "722",
+    "population_2010": "798",
+    "sq_miles": 1.5,
+    "sq_km": 3.9,
+    "incorporated": "January 20, 1876"
+  },
+  {
+    "cities": "Estherville",
+    "counties": "Emmet",
+    "population_2020": "5,904",
+    "population_2010": "6,360",
+    "sq_miles": 5.32,
+    "sq_km": 13.8,
+    "incorporated": "October 4, 1881"
+  },
+  {
+    "cities": "Evansdale",
+    "counties": "Black Hawk",
+    "population_2020": "4,561",
+    "population_2010": "4,751",
+    "sq_miles": 4.05,
+    "sq_km": 10.5,
+    "incorporated": "13-Nov-47"
+  },
+  {
+    "cities": "Everly",
+    "counties": "Clay",
+    "population_2020": "575",
+    "population_2010": "603",
+    "sq_miles": 1.09,
+    "sq_km": 2.8,
+    "incorporated": "7-Apr-02"
+  },
+  {
+    "cities": "Exira",
+    "counties": "Audubon",
+    "population_2020": "787",
+    "population_2010": "840",
+    "sq_miles": 1.02,
+    "sq_km": 2.6,
+    "incorporated": "December 13, 1880"
+  },
+  {
+    "cities": "Exline",
+    "counties": "Appanoose",
+    "population_2020": "160",
+    "population_2010": "160",
+    "sq_miles": 0.99,
+    "sq_km": 2.6,
+    "incorporated": "20-Jun-04"
+  },
+  {
+    "cities": "Fairbank",
+    "counties": "Buchanan, Fayette",
+    "population_2020": "1,111",
+    "population_2010": "1,113",
+    "sq_miles": 0.71,
+    "sq_km": 1.8,
+    "incorporated": "May 12, 1891"
+  },
+  {
+    "cities": "Fairfax",
+    "counties": "Linn",
+    "population_2020": "2,828",
+    "population_2010": "2,123",
+    "sq_miles": 1.94,
+    "sq_km": 5,
+    "incorporated": "11-Aug-30"
+  },
+  {
+    "cities": "Fairfield",
+    "counties": "Jefferson",
+    "population_2020": "9,416",
+    "population_2010": "9,464",
+    "sq_miles": 6.26,
+    "sq_km": 16.2,
+    "incorporated": "May 14, 1875"
+  },
+  {
+    "cities": "Farley",
+    "counties": "Dubuque",
+    "population_2020": "1,766",
+    "population_2010": "1,537",
+    "sq_miles": 1.85,
+    "sq_km": 4.8,
+    "incorporated": "March 1, 1879"
+  },
+  {
+    "cities": "Farmersburg",
+    "counties": "Clayton",
+    "population_2020": "271",
+    "population_2010": "302",
+    "sq_miles": 0.4,
+    "sq_km": 1,
+    "incorporated": "1-Jun-02"
+  },
+  {
+    "cities": "Farmington",
+    "counties": "Van Buren",
+    "population_2020": "579",
+    "population_2010": "664",
+    "sq_miles": 0.47,
+    "sq_km": 1.2,
+    "incorporated": "January 11, 1841"
+  },
+  {
+    "cities": "Farnhamville",
+    "counties": "Calhoun, Webster",
+    "population_2020": "383",
+    "population_2010": "371",
+    "sq_miles": 0.65,
+    "sq_km": 1.7,
+    "incorporated": "April 1, 1893"
+  },
+  {
+    "cities": "Farragut",
+    "counties": "Fremont",
+    "population_2020": "490",
+    "population_2010": "485",
+    "sq_miles": 0.41,
+    "sq_km": 1.1,
+    "incorporated": "January 21, 1878"
+  },
+  {
+    "cities": "Fayette",
+    "counties": "Fayette",
+    "population_2020": "1,256",
+    "population_2010": "1,338",
+    "sq_miles": 1.48,
+    "sq_km": 3.8,
+    "incorporated": "March 14, 1874"
+  },
+  {
+    "cities": "Fenton",
+    "counties": "Kossuth",
+    "population_2020": "271",
+    "population_2010": "279",
+    "sq_miles": 0.34,
+    "sq_km": 0.88,
+    "incorporated": "10-Jun-03"
+  },
+  {
+    "cities": "Ferguson",
+    "counties": "Marshall",
+    "population_2020": "97",
+    "population_2010": "126",
+    "sq_miles": 0.26,
+    "sq_km": 0.67,
+    "incorporated": "4-Dec-06"
+  },
+  {
+    "cities": "Fertile",
+    "counties": "Worth",
+    "population_2020": "305",
+    "population_2010": "370",
+    "sq_miles": 0.94,
+    "sq_km": 2.4,
+    "incorporated": "10-Apr-08"
+  },
+  {
+    "cities": "Floris",
+    "counties": "Davis",
+    "population_2020": "116",
+    "population_2010": "138",
+    "sq_miles": 0.48,
+    "sq_km": 1.2,
+    "incorporated": "12-May-13"
+  },
+  {
+    "cities": "Floyd",
+    "counties": "Floyd",
+    "population_2020": "313",
+    "population_2010": "335",
+    "sq_miles": 0.6,
+    "sq_km": 1.6,
+    "incorporated": "February 26, 1899"
+  },
+  {
+    "cities": "Fonda",
+    "counties": "Pocahontas",
+    "population_2020": "636",
+    "population_2010": "631",
+    "sq_miles": 1.05,
+    "sq_km": 2.7,
+    "incorporated": "March 21, 1884"
+  },
+  {
+    "cities": "Fontanelle",
+    "counties": "Adair",
+    "population_2020": "676",
+    "population_2010": "672",
+    "sq_miles": 0.96,
+    "sq_km": 2.5,
+    "incorporated": "August 23, 1871"
+  },
+  {
+    "cities": "Forest City",
+    "counties": "Winnebago, Hancock",
+    "population_2020": "4,285",
+    "population_2010": "4,151",
+    "sq_miles": 4.64,
+    "sq_km": 12,
+    "incorporated": "June 14, 1878"
+  },
+  {
+    "cities": "Fort Atkinson",
+    "counties": "Winneshiek",
+    "population_2020": "312",
+    "population_2010": "349",
+    "sq_miles": 0.31,
+    "sq_km": 0.8,
+    "incorporated": "June 5, 1895"
+  },
+  {
+    "cities": "Fort Dodge",
+    "counties": "Webster",
+    "population_2020": "24,871",
+    "population_2010": "25,206",
+    "sq_miles": 16.05,
+    "sq_km": 41.6,
+    "incorporated": "October 26, 1869"
+  },
+  {
+    "cities": "Fort Madison",
+    "counties": "Lee",
+    "population_2020": "10,270",
+    "population_2010": "11,051",
+    "sq_miles": 9.49,
+    "sq_km": 24.6,
+    "incorporated": "February 5, 1895"
+  },
+  {
+    "cities": "Fostoria",
+    "counties": "Clay",
+    "population_2020": "230",
+    "population_2010": "231",
+    "sq_miles": 0.47,
+    "sq_km": 1.2,
+    "incorporated": "30-Jan-12"
+  },
+  {
+    "cities": "Franklin",
+    "counties": "Lee",
+    "population_2020": "131",
+    "population_2010": "143",
+    "sq_miles": 0.15,
+    "sq_km": 0.39,
+    "incorporated": "November 14, 1874"
+  },
+  {
+    "cities": "Fraser",
+    "counties": "Boone",
+    "population_2020": "101",
+    "population_2010": "102",
+    "sq_miles": 0.83,
+    "sq_km": 2.1,
+    "incorporated": "8-Feb-04"
+  },
+  {
+    "cities": "Fredericksburg",
+    "counties": "Chickasaw",
+    "population_2020": "987",
+    "population_2010": "931",
+    "sq_miles": 0.86,
+    "sq_km": 2.2,
+    "incorporated": "December 18, 1894"
+  },
+  {
+    "cities": "Frederika",
+    "counties": "Bremer",
+    "population_2020": "204",
+    "population_2010": "183",
+    "sq_miles": 0.2,
+    "sq_km": 0.52,
+    "incorporated": "March 28, 1896"
+  },
+  {
+    "cities": "Fredonia",
+    "counties": "Louisa",
+    "population_2020": "222",
+    "population_2010": "244",
+    "sq_miles": 0.17,
+    "sq_km": 0.44,
+    "incorporated": "May 30, 1874"
+  },
+  {
+    "cities": "Fremont",
+    "counties": "Mahaska",
+    "population_2020": "708",
+    "population_2010": "743",
+    "sq_miles": 1.03,
+    "sq_km": 2.7,
+    "incorporated": "March 14, 1883"
+  },
+  {
+    "cities": "Fruitland",
+    "counties": "Muscatine",
+    "population_2020": "963",
+    "population_2010": "977",
+    "sq_miles": 1.8,
+    "sq_km": 4.7,
+    "incorporated": "24-Aug-72"
+  },
+  {
+    "cities": "Galt",
+    "counties": "Wright",
+    "population_2020": "26",
+    "population_2010": "32",
+    "sq_miles": 0.54,
+    "sq_km": 1.4,
+    "incorporated": "2-Jan-13"
+  },
+  {
+    "cities": "Galva",
+    "counties": "Ida",
+    "population_2020": "435",
+    "population_2010": "434",
+    "sq_miles": 0.71,
+    "sq_km": 1.8,
+    "incorporated": "September 26, 1889"
+  },
+  {
+    "cities": "Garber",
+    "counties": "Clayton",
+    "population_2020": "76",
+    "population_2010": "88",
+    "sq_miles": 0.23,
+    "sq_km": 0.6,
+    "incorporated": "18-Nov-07"
+  },
+  {
+    "cities": "Garden Grove",
+    "counties": "Decatur",
+    "population_2020": "174",
+    "population_2010": "211",
+    "sq_miles": 0.69,
+    "sq_km": 1.8,
+    "incorporated": "November 14, 1879"
+  },
+  {
+    "cities": "Garnavillo",
+    "counties": "Clayton",
+    "population_2020": "763",
+    "population_2010": "745",
+    "sq_miles": 1.02,
+    "sq_km": 2.6,
+    "incorporated": "21-Nov-07"
+  },
+  {
+    "cities": "Garner",
+    "counties": "Hancock",
+    "population_2020": "3,065",
+    "population_2010": "3,129",
+    "sq_miles": 2.05,
+    "sq_km": 5.3,
+    "incorporated": "November 19, 1881"
+  },
+  {
+    "cities": "Garrison",
+    "counties": "Benton",
+    "population_2020": "344",
+    "population_2010": "371",
+    "sq_miles": 0.25,
+    "sq_km": 0.65,
+    "incorporated": "June 9, 1883"
+  },
+  {
+    "cities": "Garwin",
+    "counties": "Tama",
+    "population_2020": "481",
+    "population_2010": "527",
+    "sq_miles": 1.01,
+    "sq_km": 2.6,
+    "incorporated": "June 5, 1890"
+  },
+  {
+    "cities": "Geneva",
+    "counties": "Franklin",
+    "population_2020": "136",
+    "population_2010": "165",
+    "sq_miles": 0.42,
+    "sq_km": 1.1,
+    "incorporated": "7-Apr-03"
+  },
+  {
+    "cities": "George",
+    "counties": "Lyon",
+    "population_2020": "1,077",
+    "population_2010": "1,080",
+    "sq_miles": 2.4,
+    "sq_km": 6.2,
+    "incorporated": "March 27, 1890"
+  },
+  {
+    "cities": "Gibson",
+    "counties": "Keokuk",
+    "population_2020": "63",
+    "population_2010": "61",
+    "sq_miles": 0.07,
+    "sq_km": 0.18,
+    "incorporated": "14-Dec-54"
+  },
+  {
+    "cities": "Gilbert",
+    "counties": "Story",
+    "population_2020": "1,211",
+    "population_2010": "1,082",
+    "sq_miles": 0.91,
+    "sq_km": 2.4,
+    "incorporated": "July 15, 1882"
+  },
+  {
+    "cities": "Gilbertville",
+    "counties": "Black Hawk",
+    "population_2020": "794",
+    "population_2010": "712",
+    "sq_miles": 0.4,
+    "sq_km": 1,
+    "incorporated": "9-Apr-17"
+  },
+  {
+    "cities": "Gillett Grove",
+    "counties": "Clay",
+    "population_2020": "30",
+    "population_2010": "49",
+    "sq_miles": 0.19,
+    "sq_km": 0.49,
+    "incorporated": "29-Aug-74"
+  },
+  {
+    "cities": "Gilman",
+    "counties": "Marshall",
+    "population_2020": "542",
+    "population_2010": "509",
+    "sq_miles": 0.54,
+    "sq_km": 1.4,
+    "incorporated": "April 24, 1876"
+  },
+  {
+    "cities": "Gilmore City",
+    "counties": "Humboldt, Pocahontas",
+    "population_2020": "487",
+    "population_2010": "504",
+    "sq_miles": 1.25,
+    "sq_km": 3.2,
+    "incorporated": "April 16, 1887"
+  },
+  {
+    "cities": "Gladbrook",
+    "counties": "Tama",
+    "population_2020": "799",
+    "population_2010": "945",
+    "sq_miles": 0.7,
+    "sq_km": 1.8,
+    "incorporated": "December 20, 1880"
+  },
+  {
+    "cities": "Glenwood",
+    "counties": "Mills",
+    "population_2020": "5,073",
+    "population_2010": "5,269",
+    "sq_miles": 2.95,
+    "sq_km": 7.6,
+    "incorporated": "January 17, 1857"
+  },
+  {
+    "cities": "Glidden",
+    "counties": "Carroll",
+    "population_2020": "1,151",
+    "population_2010": "1,146",
+    "sq_miles": 1.11,
+    "sq_km": 2.9,
+    "incorporated": "August 22, 1873"
+  },
+  {
+    "cities": "Goldfield",
+    "counties": "Wright",
+    "population_2020": "634",
+    "population_2010": "635",
+    "sq_miles": 1.19,
+    "sq_km": 3.1,
+    "incorporated": "March 19, 1885"
+  },
+  {
+    "cities": "Goodell",
+    "counties": "Hancock",
+    "population_2020": "140",
+    "population_2010": "139",
+    "sq_miles": 0.43,
+    "sq_km": 1.1,
+    "incorporated": "February 3, 1893"
+  },
+  {
+    "cities": "Goose Lake",
+    "counties": "Clinton",
+    "population_2020": "239",
+    "population_2010": "240",
+    "sq_miles": 0.32,
+    "sq_km": 0.83,
+    "incorporated": "26-Dec-08"
+  },
+  {
+    "cities": "Gowrie",
+    "counties": "Webster",
+    "population_2020": "952",
+    "population_2010": "1,037",
+    "sq_miles": 1.45,
+    "sq_km": 3.8,
+    "incorporated": "March 18, 1881"
+  },
+  {
+    "cities": "Graettinger",
+    "counties": "Palo Alto",
+    "population_2020": "832",
+    "population_2010": "844",
+    "sq_miles": 0.77,
+    "sq_km": 2,
+    "incorporated": "September 30, 1893"
+  },
+  {
+    "cities": "Graf",
+    "counties": "Dubuque",
+    "population_2020": "76",
+    "population_2010": "79",
+    "sq_miles": 0.14,
+    "sq_km": 0.36,
+    "incorporated": "30-Aug-33"
+  },
+  {
+    "cities": "Grafton",
+    "counties": "Worth",
+    "population_2020": "216",
+    "population_2010": "252",
+    "sq_miles": 0.33,
+    "sq_km": 0.85,
+    "incorporated": "April 10, 1896"
+  },
+  {
+    "cities": "Grand Junction",
+    "counties": "Greene",
+    "population_2020": "725",
+    "population_2010": "824",
+    "sq_miles": 0.97,
+    "sq_km": 2.5,
+    "incorporated": "May 6, 1872"
+  },
+  {
+    "cities": "Grand Mound",
+    "counties": "Clinton",
+    "population_2020": "615",
+    "population_2010": "642",
+    "sq_miles": 1.82,
+    "sq_km": 4.7,
+    "incorporated": "February 11, 1884"
+  },
+  {
+    "cities": "Grand River",
+    "counties": "Decatur",
+    "population_2020": "196",
+    "population_2010": "236",
+    "sq_miles": 0.21,
+    "sq_km": 0.54,
+    "incorporated": "December 21, 1899"
+  },
+  {
+    "cities": "Grandview",
+    "counties": "Louisa",
+    "population_2020": "437",
+    "population_2010": "556",
+    "sq_miles": 0.23,
+    "sq_km": 0.6,
+    "incorporated": "18-Feb-01"
+  },
+  {
+    "cities": "Granger",
+    "counties": "Dallas, Polk",
+    "population_2020": "1,654",
+    "population_2010": "1,244",
+    "sq_miles": 1.45,
+    "sq_km": 3.8,
+    "incorporated": "6-Sep-05"
+  },
+  {
+    "cities": "Grant",
+    "counties": "Montgomery",
+    "population_2020": "86",
+    "population_2010": "92",
+    "sq_miles": 0.74,
+    "sq_km": 1.9,
+    "incorporated": "27-Feb-12"
+  },
+  {
+    "cities": "Granville",
+    "counties": "Sioux",
+    "population_2020": "310",
+    "population_2010": "312",
+    "sq_miles": 0.29,
+    "sq_km": 0.75,
+    "incorporated": "June 22, 1891"
+  },
+  {
+    "cities": "Gravity",
+    "counties": "Taylor",
+    "population_2020": "154",
+    "population_2010": "188",
+    "sq_miles": 0.3,
+    "sq_km": 0.78,
+    "incorporated": "May 26, 1882"
+  },
+  {
+    "cities": "Gray",
+    "counties": "Audubon",
+    "population_2020": "61",
+    "population_2010": "63",
+    "sq_miles": 1,
+    "sq_km": 2.6,
+    "incorporated": "November 10, 1894"
+  },
+  {
+    "cities": "Greeley",
+    "counties": "Delaware",
+    "population_2020": "217",
+    "population_2010": "256",
+    "sq_miles": 0.37,
+    "sq_km": 0.96,
+    "incorporated": "July 8, 1892"
+  },
+  {
+    "cities": "Greene",
+    "counties": "ButlerFloyd",
+    "population_2020": "990",
+    "population_2010": "1,130",
+    "sq_miles": 1.14,
+    "sq_km": 3,
+    "incorporated": "July 15, 1879"
+  },
+  {
+    "cities": "Greenfield",
+    "counties": "Adair",
+    "population_2020": "2,062",
+    "population_2010": "1,982",
+    "sq_miles": 1.81,
+    "sq_km": 4.7,
+    "incorporated": "May 22, 1876"
+  },
+  {
+    "cities": "Greenville",
+    "counties": "Clay",
+    "population_2020": "71",
+    "population_2010": "75",
+    "sq_miles": 0.18,
+    "sq_km": 0.47,
+    "incorporated": "30-Dec-16"
+  },
+  {
+    "cities": "Grimes",
+    "counties": "Polk, Dallas",
+    "population_2020": "15,392",
+    "population_2010": "8,246",
+    "sq_miles": 11.84,
+    "sq_km": 30.7,
+    "incorporated": "May 7, 1894"
+  },
+  {
+    "cities": "Grinnell",
+    "counties": "Poweshiek",
+    "population_2020": "9,564",
+    "population_2010": "9,218",
+    "sq_miles": 5.6,
+    "sq_km": 15,
+    "incorporated": "April 28, 1865"
+  },
+  {
+    "cities": "Griswold",
+    "counties": "Cass",
+    "population_2020": "994",
+    "population_2010": "1,036",
+    "sq_miles": 0.62,
+    "sq_km": 1.6,
+    "incorporated": "December 13, 1885"
+  },
+  {
+    "cities": "Grundy Center",
+    "counties": "Grundy",
+    "population_2020": "2,796",
+    "population_2010": "2,706",
+    "sq_miles": 2.53,
+    "sq_km": 6.6,
+    "incorporated": "April 17, 1877"
+  },
+  {
+    "cities": "Gruver",
+    "counties": "Emmet",
+    "population_2020": "63",
+    "population_2010": "94",
+    "sq_miles": 0.13,
+    "sq_km": 0.34,
+    "incorporated": "4-Feb-13"
+  },
+  {
+    "cities": "Guernsey",
+    "counties": "Poweshiek",
+    "population_2020": "63",
+    "population_2010": "63",
+    "sq_miles": 0.18,
+    "sq_km": 0.47,
+    "incorporated": "4-Sep-06"
+  },
+  {
+    "cities": "Guthrie Center",
+    "counties": "Guthrie",
+    "population_2020": "1,593",
+    "population_2010": "1,569",
+    "sq_miles": 2.47,
+    "sq_km": 6.4,
+    "incorporated": "June 25, 1880"
+  },
+  {
+    "cities": "Guttenberg",
+    "counties": "Clayton",
+    "population_2020": "1,817",
+    "population_2010": "1,919",
+    "sq_miles": 2.09,
+    "sq_km": 5.4,
+    "incorporated": "January 27, 1857"
+  },
+  {
+    "cities": "Halbur",
+    "counties": "Carroll",
+    "population_2020": "243",
+    "population_2010": "246",
+    "sq_miles": 0.19,
+    "sq_km": 0.49,
+    "incorporated": "22-Apr-02"
+  },
+  {
+    "cities": "Hamburg",
+    "counties": "Fremont",
+    "population_2020": "890",
+    "population_2010": "1,187",
+    "sq_miles": 1.1,
+    "sq_km": 2.8,
+    "incorporated": "April 1, 1867"
+  },
+  {
+    "cities": "Hamilton",
+    "counties": "Marion",
+    "population_2020": "119",
+    "population_2010": "130",
+    "sq_miles": 0.54,
+    "sq_km": 1.4,
+    "incorporated": "11-Apr-00"
+  },
+  {
+    "cities": "Hampton",
+    "counties": "Franklin",
+    "population_2020": "4,337",
+    "population_2010": "4,461",
+    "sq_miles": 4.43,
+    "sq_km": 11.5,
+    "incorporated": "November 19, 1870"
+  },
+  {
+    "cities": "Hancock",
+    "counties": "Pottawattamie",
+    "population_2020": "200",
+    "population_2010": "196",
+    "sq_miles": 0.74,
+    "sq_km": 1.9,
+    "incorporated": "May 16, 1891"
+  },
+  {
+    "cities": "Hanlontown",
+    "counties": "Worth",
+    "population_2020": "206",
+    "population_2010": "226",
+    "sq_miles": 0.97,
+    "sq_km": 2.5,
+    "incorporated": "18-Jan-02"
+  },
+  {
+    "cities": "Hansell",
+    "counties": "Franklin",
+    "population_2020": "82",
+    "population_2010": "98",
+    "sq_miles": 0.23,
+    "sq_km": 0.6,
+    "incorporated": "7-May-18"
+  },
+  {
+    "cities": "Harcourt",
+    "counties": "Webster",
+    "population_2020": "264",
+    "population_2010": "303",
+    "sq_miles": 1,
+    "sq_km": 2.6,
+    "incorporated": "February 11, 1896"
+  },
+  {
+    "cities": "Hardy",
+    "counties": "Humboldt",
+    "population_2020": "57",
+    "population_2010": "47",
+    "sq_miles": 0.44,
+    "sq_km": 1.1,
+    "incorporated": "13-Apr-15"
+  },
+  {
+    "cities": "Harlan",
+    "counties": "Shelby",
+    "population_2020": "4,893",
+    "population_2010": "5,106",
+    "sq_miles": 4.39,
+    "sq_km": 11.4,
+    "incorporated": "April 25, 1879"
+  },
+  {
+    "cities": "Harper",
+    "counties": "Keokuk",
+    "population_2020": "118",
+    "population_2010": "114",
+    "sq_miles": 0.09,
+    "sq_km": 0.23,
+    "incorporated": "November 17, 1879"
+  },
+  {
+    "cities": "Harpers Ferry",
+    "counties": "Allamakee",
+    "population_2020": "262",
+    "population_2010": "328",
+    "sq_miles": 0.63,
+    "sq_km": 1.6,
+    "incorporated": "24-Dec-01"
+  },
+  {
+    "cities": "Harris",
+    "counties": "Osceola",
+    "population_2020": "151",
+    "population_2010": "170",
+    "sq_miles": 0.79,
+    "sq_km": 2,
+    "incorporated": "1903"
+  },
+  {
+    "cities": "Hartford",
+    "counties": "Warren",
+    "population_2020": "733",
+    "population_2010": "771",
+    "sq_miles": 1.03,
+    "sq_km": 2.7,
+    "incorporated": "29-Jun-13"
+  },
+  {
+    "cities": "Hartley",
+    "counties": "O'Brien",
+    "population_2020": "1,605",
+    "population_2010": "1,672",
+    "sq_miles": 1.3,
+    "sq_km": 3.4,
+    "incorporated": "July 24, 1888"
+  },
+  {
+    "cities": "Hartwick",
+    "counties": "Poweshiek",
+    "population_2020": "92",
+    "population_2010": "86",
+    "sq_miles": 0.13,
+    "sq_km": 0.34,
+    "incorporated": "1912"
+  },
+  {
+    "cities": "Harvey",
+    "counties": "Marion",
+    "population_2020": "236",
+    "population_2010": "235",
+    "sq_miles": 0.68,
+    "sq_km": 1.8,
+    "incorporated": "12-Dec-03"
+  },
+  {
+    "cities": "Hastings",
+    "counties": "Mills",
+    "population_2020": "152",
+    "population_2010": "152",
+    "sq_miles": 0.41,
+    "sq_km": 1.1,
+    "incorporated": "May 26, 1879"
+  },
+  {
+    "cities": "Havelock",
+    "counties": "Pocahontas",
+    "population_2020": "130",
+    "population_2010": "138",
+    "sq_miles": 0.57,
+    "sq_km": 1.5,
+    "incorporated": "February 16, 1892"
+  },
+  {
+    "cities": "Haverhill",
+    "counties": "Marshall",
+    "population_2020": "165",
+    "population_2010": "173",
+    "sq_miles": 0.13,
+    "sq_km": 0.34,
+    "incorporated": "12-Jul-68"
+  },
+  {
+    "cities": "Hawarden",
+    "counties": "Sioux",
+    "population_2020": "2,700",
+    "population_2010": "2,538",
+    "sq_miles": 2.89,
+    "sq_km": 7.5,
+    "incorporated": "March 18, 1887"
+  },
+  {
+    "cities": "Hawkeye",
+    "counties": "Fayette",
+    "population_2020": "438",
+    "population_2010": "449",
+    "sq_miles": 0.67,
+    "sq_km": 1.7,
+    "incorporated": "April 9, 1895"
+  },
+  {
+    "cities": "Hayesville",
+    "counties": "Keokuk",
+    "population_2020": "41",
+    "population_2010": "50",
+    "sq_miles": 0.25,
+    "sq_km": 0.65,
+    "incorporated": "13-Oct-16"
+  },
+  {
+    "cities": "Hazleton",
+    "counties": "Buchanan",
+    "population_2020": "713",
+    "population_2010": "823",
+    "sq_miles": 0.75,
+    "sq_km": 1.9,
+    "incorporated": "June 22, 1892"
+  },
+  {
+    "cities": "Hedrick",
+    "counties": "Keokuk",
+    "population_2020": "728",
+    "population_2010": "764",
+    "sq_miles": 1.53,
+    "sq_km": 4,
+    "incorporated": "April 23, 1883"
+  },
+  {
+    "cities": "Henderson",
+    "counties": "Mills",
+    "population_2020": "144",
+    "population_2010": "185",
+    "sq_miles": 0.21,
+    "sq_km": 0.54,
+    "incorporated": "May 18, 1893"
+  },
+  {
+    "cities": "Hepburn",
+    "counties": "Page",
+    "population_2020": "26",
+    "population_2010": "23",
+    "sq_miles": 0.08,
+    "sq_km": 0.21,
+    "incorporated": "January 13, 1883"
+  },
+  {
+    "cities": "Hiawatha",
+    "counties": "Linn",
+    "population_2020": "7,183",
+    "population_2010": "7,024",
+    "sq_miles": 4.23,
+    "sq_km": 11,
+    "incorporated": "12-Jun-50"
+  },
+  {
+    "cities": "Hills",
+    "counties": "Johnson",
+    "population_2020": "863",
+    "population_2010": "703",
+    "sq_miles": 0.63,
+    "sq_km": 1.6,
+    "incorporated": "1906"
+  },
+  {
+    "cities": "Hillsboro",
+    "counties": "Henry",
+    "population_2020": "163",
+    "population_2010": "180",
+    "sq_miles": 0.51,
+    "sq_km": 1.3,
+    "incorporated": "19-Jul-16"
+  },
+  {
+    "cities": "Hinton",
+    "counties": "Plymouth",
+    "population_2020": "935",
+    "population_2010": "928",
+    "sq_miles": 0.69,
+    "sq_km": 1.8,
+    "incorporated": "6-Jun-08"
+  },
+  {
+    "cities": "Holland",
+    "counties": "Grundy",
+    "population_2020": "269",
+    "population_2010": "282",
+    "sq_miles": 0.25,
+    "sq_km": 0.65,
+    "incorporated": "June 29, 1897"
+  },
+  {
+    "cities": "Holstein",
+    "counties": "Ida",
+    "population_2020": "1,501",
+    "population_2010": "1,396",
+    "sq_miles": 1.49,
+    "sq_km": 3.9,
+    "incorporated": "April 25, 1883"
+  },
+  {
+    "cities": "Holy Cross",
+    "counties": "Dubuque",
+    "population_2020": "356",
+    "population_2010": "374",
+    "sq_miles": 0.34,
+    "sq_km": 0.88,
+    "incorporated": "August 20, 1898"
+  },
+  {
+    "cities": "Hopkinton",
+    "counties": "Delaware",
+    "population_2020": "622",
+    "population_2010": "628",
+    "sq_miles": 0.62,
+    "sq_km": 1.6,
+    "incorporated": "March 3, 1874"
+  },
+  {
+    "cities": "Hornick",
+    "counties": "Woodbury",
+    "population_2020": "255",
+    "population_2010": "225",
+    "sq_miles": 0.25,
+    "sq_km": 0.65,
+    "incorporated": "June 23, 1896"
+  },
+  {
+    "cities": "Hospers",
+    "counties": "Sioux",
+    "population_2020": "718",
+    "population_2010": "698",
+    "sq_miles": 0.48,
+    "sq_km": 1.2,
+    "incorporated": "December 6, 1890"
+  },
+  {
+    "cities": "Houghton",
+    "counties": "Lee",
+    "population_2020": "141",
+    "population_2010": "146",
+    "sq_miles": 0.31,
+    "sq_km": 0.8,
+    "incorporated": "19-Feb-62"
+  },
+  {
+    "cities": "Hubbard",
+    "counties": "Hardin",
+    "population_2020": "860",
+    "population_2010": "845",
+    "sq_miles": 1.84,
+    "sq_km": 4.8,
+    "incorporated": "November 1, 1881"
+  },
+  {
+    "cities": "Hudson",
+    "counties": "Black Hawk",
+    "population_2020": "2,546",
+    "population_2010": "2,282",
+    "sq_miles": 8.4,
+    "sq_km": 22,
+    "incorporated": "July 1, 1893"
+  },
+  {
+    "cities": "Hull",
+    "counties": "Sioux",
+    "population_2020": "2,384",
+    "population_2010": "2,146",
+    "sq_miles": 1.2,
+    "sq_km": 3.1,
+    "incorporated": "May 15, 1886"
+  },
+  {
+    "cities": "Humboldt",
+    "counties": "Humboldt",
+    "population_2020": "4,792",
+    "population_2010": "4,690",
+    "sq_miles": 4.64,
+    "sq_km": 12,
+    "incorporated": "March 22, 1874"
+  },
+  {
+    "cities": "Humeston",
+    "counties": "Wayne",
+    "population_2020": "465",
+    "population_2010": "494",
+    "sq_miles": 0.61,
+    "sq_km": 1.6,
+    "incorporated": "March 4, 1881"
+  },
+  {
+    "cities": "Huxley",
+    "counties": "Story",
+    "population_2020": "4,244",
+    "population_2010": "3,317",
+    "sq_miles": 3.15,
+    "sq_km": 8.2,
+    "incorporated": "27-Aug-02"
+  },
+  {
+    "cities": "Ida Grove",
+    "counties": "Ida",
+    "population_2020": "2,051",
+    "population_2010": "2,142",
+    "sq_miles": 2.1,
+    "sq_km": 5.4,
+    "incorporated": "May 31, 1878"
+  },
+  {
+    "cities": "Imogene",
+    "counties": "Fremont",
+    "population_2020": "39",
+    "population_2010": "72",
+    "sq_miles": 0.2,
+    "sq_km": 0.52,
+    "incorporated": "February 18, 1881"
+  },
+  {
+    "cities": "Independence",
+    "counties": "Buchanan",
+    "population_2020": "6,064",
+    "population_2010": "5,966",
+    "sq_miles": 6.08,
+    "sq_km": 15.7,
+    "incorporated": "October 15, 1864"
+  },
+  {
+    "cities": "Indianola",
+    "counties": "Warren",
+    "population_2020": "15,833",
+    "population_2010": "14,782",
+    "sq_miles": 11.25,
+    "sq_km": 29.1,
+    "incorporated": "October 5, 1863"
+  },
+  {
+    "cities": "Inwood",
+    "counties": "Lyon",
+    "population_2020": "928",
+    "population_2010": "814",
+    "sq_miles": 1.34,
+    "sq_km": 3.5,
+    "incorporated": "April 25, 1893"
+  },
+  {
+    "cities": "Ionia",
+    "counties": "Chickasaw",
+    "population_2020": "226",
+    "population_2010": "291",
+    "sq_miles": 0.55,
+    "sq_km": 1.4,
+    "incorporated": "April 23, 1891"
+  },
+  {
+    "cities": "Iowa City",
+    "counties": "Johnson",
+    "population_2020": "74,828",
+    "population_2010": "67,862",
+    "sq_miles": 25.01,
+    "sq_km": 64.8,
+    "incorporated": "January 24, 1853"
+  },
+  {
+    "cities": "Iowa Falls",
+    "counties": "Hardin",
+    "population_2020": "5,106",
+    "population_2010": "5,238",
+    "sq_miles": 5.36,
+    "sq_km": 13.9,
+    "incorporated": "May 4, 1869"
+  },
+  {
+    "cities": "Ireton",
+    "counties": "Sioux",
+    "population_2020": "590",
+    "population_2010": "609",
+    "sq_miles": 1.01,
+    "sq_km": 2.6,
+    "incorporated": "October 13, 1890"
+  },
+  {
+    "cities": "Irwin",
+    "counties": "Shelby",
+    "population_2020": "319",
+    "population_2010": "341",
+    "sq_miles": 0.6,
+    "sq_km": 1.6,
+    "incorporated": "May 20, 1892"
+  },
+  {
+    "cities": "Jackson Junction",
+    "counties": "Winneshiek",
+    "population_2020": "37",
+    "population_2010": "58",
+    "sq_miles": 5.99,
+    "sq_km": 15.5,
+    "incorporated": "January 9, 1897"
+  },
+  {
+    "cities": "Jamaica",
+    "counties": "Guthrie",
+    "population_2020": "195",
+    "population_2010": "224",
+    "sq_miles": 0.46,
+    "sq_km": 1.2,
+    "incorporated": "4-Jan-01"
+  },
+  {
+    "cities": "Janesville",
+    "counties": "Bremer, Black Hawk",
+    "population_2020": "1,034",
+    "population_2010": "930",
+    "sq_miles": 1.44,
+    "sq_km": 3.7,
+    "incorporated": "October 29, 1895"
+  },
+  {
+    "cities": "Jefferson",
+    "counties": "Greene",
+    "population_2020": "4,182",
+    "population_2010": "4,345",
+    "sq_miles": 5.97,
+    "sq_km": 15.5,
+    "incorporated": "November 20, 1871"
+  },
+  {
+    "cities": "Jesup",
+    "counties": "Buchanan, Black Hawk",
+    "population_2020": "2,508",
+    "population_2010": "2,520",
+    "sq_miles": 1.78,
+    "sq_km": 4.6,
+    "incorporated": "December 21, 1875"
+  },
+  {
+    "cities": "Jewell Junction",
+    "counties": "Hamilton",
+    "population_2020": "1,216",
+    "population_2010": "1,215",
+    "sq_miles": 3.87,
+    "sq_km": 10,
+    "incorporated": "October 22, 1880"
+  },
+  {
+    "cities": "Johnston",
+    "counties": "Polk",
+    "population_2020": "24,064",
+    "population_2010": "17,278",
+    "sq_miles": 17.16,
+    "sq_km": 44.4,
+    "incorporated": "19-Sep-69"
+  },
+  {
+    "cities": "Joice",
+    "counties": "Worth",
+    "population_2020": "208",
+    "population_2010": "222",
+    "sq_miles": 1,
+    "sq_km": 2.6,
+    "incorporated": "4-Jun-13"
+  },
+  {
+    "cities": "Jolley",
+    "counties": "Calhoun",
+    "population_2020": "28",
+    "population_2010": "41",
+    "sq_miles": 0.11,
+    "sq_km": 0.28,
+    "incorporated": "November 16, 1895"
+  },
+  {
+    "cities": "Kalona",
+    "counties": "Washington",
+    "population_2020": "2,630",
+    "population_2010": "2,363",
+    "sq_miles": 2.04,
+    "sq_km": 5.3,
+    "incorporated": "May 22, 1890"
+  },
+  {
+    "cities": "Kamrar",
+    "counties": "Hamilton",
+    "population_2020": "179",
+    "population_2010": "199",
+    "sq_miles": 0.86,
+    "sq_km": 2.2,
+    "incorporated": "June 6, 1896"
+  },
+  {
+    "cities": "Kanawha",
+    "counties": "Hancock",
+    "population_2020": "658",
+    "population_2010": "652",
+    "sq_miles": 2.01,
+    "sq_km": 5.2,
+    "incorporated": "18-Apr-02"
+  },
+  {
+    "cities": "Kellerton",
+    "counties": "Ringgold",
+    "population_2020": "243",
+    "population_2010": "315",
+    "sq_miles": 0.66,
+    "sq_km": 1.7,
+    "incorporated": "December 3, 1881"
+  },
+  {
+    "cities": "Kelley",
+    "counties": "Story",
+    "population_2020": "304",
+    "population_2010": "309",
+    "sq_miles": 0.68,
+    "sq_km": 1.8,
+    "incorporated": "31-Jan-00"
+  },
+  {
+    "cities": "Kellogg",
+    "counties": "Jasper",
+    "population_2020": "606",
+    "population_2010": "599",
+    "sq_miles": 0.37,
+    "sq_km": 0.96,
+    "incorporated": "February 6, 1874"
+  },
+  {
+    "cities": "Kensett",
+    "counties": "Worth",
+    "population_2020": "257",
+    "population_2010": "266",
+    "sq_miles": 1.53,
+    "sq_km": 4,
+    "incorporated": "February 10, 1894"
+  },
+  {
+    "cities": "Keokuk",
+    "counties": "Lee",
+    "population_2020": "9,900",
+    "population_2010": "10,780",
+    "sq_miles": 9.13,
+    "sq_km": 23.6,
+    "incorporated": "December 13, 1848"
+  },
+  {
+    "cities": "Keomah Village",
+    "counties": "Mahaska",
+    "population_2020": "110",
+    "population_2010": "84",
+    "sq_miles": 0.03,
+    "sq_km": 0.078,
+    "incorporated": "August 3, 1973[b]"
+  },
+  {
+    "cities": "Keosauqua",
+    "counties": "Van Buren",
+    "population_2020": "936",
+    "population_2010": "1,006",
+    "sq_miles": 1.45,
+    "sq_km": 3.8,
+    "incorporated": "February 6, 1851"
+  },
+  {
+    "cities": "Keota",
+    "counties": "Keokuk",
+    "population_2020": "897",
+    "population_2010": "1,009",
+    "sq_miles": 0.63,
+    "sq_km": 1.6,
+    "incorporated": "December 18, 1873"
+  },
+  {
+    "cities": "Keswick",
+    "counties": "Keokuk",
+    "population_2020": "242",
+    "population_2010": "246",
+    "sq_miles": 0.43,
+    "sq_km": 1.1,
+    "incorporated": "5-Jul-12"
+  },
+  {
+    "cities": "Keystone",
+    "counties": "Benton",
+    "population_2020": "599",
+    "population_2010": "622",
+    "sq_miles": 0.45,
+    "sq_km": 1.2,
+    "incorporated": "December 15, 1893"
+  },
+  {
+    "cities": "Kimballton",
+    "counties": "Audubon",
+    "population_2020": "291",
+    "population_2010": "322",
+    "sq_miles": 0.77,
+    "sq_km": 2,
+    "incorporated": "5-Jun-80"
+  },
+  {
+    "cities": "Kingsley",
+    "counties": "Plymouth",
+    "population_2020": "1,396",
+    "population_2010": "1,411",
+    "sq_miles": 1.61,
+    "sq_km": 4.2,
+    "incorporated": "January 15, 1884"
+  },
+  {
+    "cities": "Kinross",
+    "counties": "Keokuk",
+    "population_2020": "80",
+    "population_2010": "73",
+    "sq_miles": 0.2,
+    "sq_km": 0.52,
+    "incorporated": "September 10, 1898"
+  },
+  {
+    "cities": "Kirkman",
+    "counties": "Shelby",
+    "population_2020": "56",
+    "population_2010": "64",
+    "sq_miles": 0.28,
+    "sq_km": 0.73,
+    "incorporated": "July 6, 1892"
+  },
+  {
+    "cities": "Kirkville",
+    "counties": "Wapello",
+    "population_2020": "157",
+    "population_2010": "167",
+    "sq_miles": 0.56,
+    "sq_km": 1.5,
+    "incorporated": "December 2, 1883"
+  },
+  {
+    "cities": "Kiron",
+    "counties": "Crawford",
+    "population_2020": "267",
+    "population_2010": "279",
+    "sq_miles": 0.21,
+    "sq_km": 0.54,
+    "incorporated": "22-Jun-00"
+  },
+  {
+    "cities": "Klemme",
+    "counties": "Hancock",
+    "population_2020": "441",
+    "population_2010": "507",
+    "sq_miles": 0.51,
+    "sq_km": 1.3,
+    "incorporated": "February 9, 1899"
+  },
+  {
+    "cities": "Knierim",
+    "counties": "Calhoun",
+    "population_2020": "53",
+    "population_2010": "60",
+    "sq_miles": 1.01,
+    "sq_km": 2.6,
+    "incorporated": "13-Jun-01"
+  },
+  {
+    "cities": "Knoxville",
+    "counties": "Marion",
+    "population_2020": "7,595",
+    "population_2010": "7,313",
+    "sq_miles": 4.63,
+    "sq_km": 12,
+    "incorporated": "January 24, 1855"
+  },
+  {
+    "cities": "La Motte",
+    "counties": "Jackson",
+    "population_2020": "237",
+    "population_2010": "260",
+    "sq_miles": 0.46,
+    "sq_km": 1.2,
+    "incorporated": "May 24, 1879"
+  },
+  {
+    "cities": "La Porte City",
+    "counties": "Black Hawk",
+    "population_2020": "2,284",
+    "population_2010": "2,285",
+    "sq_miles": 2.55,
+    "sq_km": 6.6,
+    "incorporated": "January 31, 1871"
+  },
+  {
+    "cities": "Lacona",
+    "counties": "Warren",
+    "population_2020": "345",
+    "population_2010": "361",
+    "sq_miles": 0.36,
+    "sq_km": 0.93,
+    "incorporated": "November 25, 1881"
+  },
+  {
+    "cities": "Ladora",
+    "counties": "Iowa",
+    "population_2020": "229",
+    "population_2010": "283",
+    "sq_miles": 0.3,
+    "sq_km": 0.78,
+    "incorporated": "December 27, 1879"
+  },
+  {
+    "cities": "Lake City",
+    "counties": "Calhoun",
+    "population_2020": "1,731",
+    "population_2010": "1,727",
+    "sq_miles": 4.81,
+    "sq_km": 12.5,
+    "incorporated": "March 14, 1887"
+  },
+  {
+    "cities": "Lake Mills",
+    "counties": "Winnebago",
+    "population_2020": "2,143",
+    "population_2010": "2,027",
+    "sq_miles": 2.7,
+    "sq_km": 7,
+    "incorporated": "June 7, 1880"
+  },
+  {
+    "cities": "Lake Park",
+    "counties": "Dickinson",
+    "population_2020": "1,167",
+    "population_2010": "1,105",
+    "sq_miles": 1.55,
+    "sq_km": 4,
+    "incorporated": "July 1, 1892"
+  },
+  {
+    "cities": "Lake View",
+    "counties": "Sac",
+    "population_2020": "1,113",
+    "population_2010": "1,142",
+    "sq_miles": 2.11,
+    "sq_km": 5.5,
+    "incorporated": "October 29, 1887"
+  },
+  {
+    "cities": "Lakeside",
+    "counties": "Buena Vista",
+    "population_2020": "700",
+    "population_2010": "596",
+    "sq_miles": 0.18,
+    "sq_km": 0.47,
+    "incorporated": "15-Jul-33"
+  },
+  {
+    "cities": "Lakota",
+    "counties": "Kossuth",
+    "population_2020": "267",
+    "population_2010": "255",
+    "sq_miles": 0.19,
+    "sq_km": 0.49,
+    "incorporated": "1-Oct-18"
+  },
+  {
+    "cities": "Lambs Grove",
+    "counties": "Jasper",
+    "population_2020": "174",
+    "population_2010": "172",
+    "sq_miles": 0.1,
+    "sq_km": 0.26,
+    "incorporated": "29-Dec-52"
+  },
+  {
+    "cities": "Lamoni",
+    "counties": "Decatur",
+    "population_2020": "1,969",
+    "population_2010": "2,324",
+    "sq_miles": 3.33,
+    "sq_km": 8.6,
+    "incorporated": "October 15, 1885"
+  },
+  {
+    "cities": "Lamont",
+    "counties": "Buchanan",
+    "population_2020": "429",
+    "population_2010": "461",
+    "sq_miles": 0.58,
+    "sq_km": 1.5,
+    "incorporated": "December 10, 1892"
+  },
+  {
+    "cities": "Lanesboro",
+    "counties": "Carroll",
+    "population_2020": "119",
+    "population_2010": "121",
+    "sq_miles": 0.74,
+    "sq_km": 1.9,
+    "incorporated": "30-Apr-03"
+  },
+  {
+    "cities": "Lansing",
+    "counties": "Allamakee",
+    "population_2020": "968",
+    "population_2010": "999",
+    "sq_miles": 1.08,
+    "sq_km": 2.8,
+    "incorporated": "July 1, 1867"
+  },
+  {
+    "cities": "Larchwood",
+    "counties": "Lyon",
+    "population_2020": "926",
+    "population_2010": "866",
+    "sq_miles": 0.99,
+    "sq_km": 2.6,
+    "incorporated": "January 6, 1892"
+  },
+  {
+    "cities": "Larrabee",
+    "counties": "Cherokee",
+    "population_2020": "123",
+    "population_2010": "132",
+    "sq_miles": 0.12,
+    "sq_km": 0.31,
+    "incorporated": "July 25, 1896"
+  },
+  {
+    "cities": "Latimer",
+    "counties": "Franklin",
+    "population_2020": "477",
+    "population_2010": "507",
+    "sq_miles": 2.4,
+    "sq_km": 6.2,
+    "incorporated": "17-Apr-01"
+  },
+  {
+    "cities": "Laurel",
+    "counties": "Marshall",
+    "population_2020": "220",
+    "population_2010": "239",
+    "sq_miles": 0.25,
+    "sq_km": 0.65,
+    "incorporated": "23-Apr-03"
+  },
+  {
+    "cities": "Laurens",
+    "counties": "Pocahontas",
+    "population_2020": "1,264",
+    "population_2010": "1,258",
+    "sq_miles": 0.73,
+    "sq_km": 1.9,
+    "incorporated": "April 30, 1890"
+  },
+  {
+    "cities": "Lawler",
+    "counties": "Chickasaw",
+    "population_2020": "406",
+    "population_2010": "439",
+    "sq_miles": 0.88,
+    "sq_km": 2.3,
+    "incorporated": "April 28, 1873"
+  },
+  {
+    "cities": "Lawton",
+    "counties": "Woodbury",
+    "population_2020": "943",
+    "population_2010": "908",
+    "sq_miles": 0.71,
+    "sq_km": 1.8,
+    "incorporated": "1906"
+  },
+  {
+    "cities": "Le Claire",
+    "counties": "Scott",
+    "population_2020": "4,710",
+    "population_2010": "3,765",
+    "sq_miles": 4.67,
+    "sq_km": 12.1,
+    "incorporated": "January 13, 1855"
+  },
+  {
+    "cities": "Le Grand",
+    "counties": "Marshall, Tama",
+    "population_2020": "905",
+    "population_2010": "938",
+    "sq_miles": 1.04,
+    "sq_km": 2.7,
+    "incorporated": "May 9, 1891"
+  },
+  {
+    "cities": "Le Mars",
+    "counties": "Plymouth",
+    "population_2020": "10,571",
+    "population_2010": "9,826",
+    "sq_miles": 8.96,
+    "sq_km": 23.2,
+    "incorporated": "May 25, 1881"
+  },
+  {
+    "cities": "Le Roy",
+    "counties": "Decatur",
+    "population_2020": "11",
+    "population_2010": "15",
+    "sq_miles": 0.33,
+    "sq_km": 0.85,
+    "incorporated": "6-May-04"
+  },
+  {
+    "cities": "Ledyard",
+    "counties": "Kossuth",
+    "population_2020": "121",
+    "population_2010": "130",
+    "sq_miles": 0.33,
+    "sq_km": 0.85,
+    "incorporated": "April 16, 1895"
+  },
+  {
+    "cities": "Lehigh",
+    "counties": "Webster",
+    "population_2020": "395",
+    "population_2010": "416",
+    "sq_miles": 2.09,
+    "sq_km": 5.4,
+    "incorporated": "February 10, 1883"
+  },
+  {
+    "cities": "Leighton",
+    "counties": "Mahaska",
+    "population_2020": "158",
+    "population_2010": "162",
+    "sq_miles": 0.1,
+    "sq_km": 0.26,
+    "incorporated": "21-Sep-09"
+  },
+  {
+    "cities": "Leland",
+    "counties": "Winnebago",
+    "population_2020": "249",
+    "population_2010": "289",
+    "sq_miles": 1.33,
+    "sq_km": 3.4,
+    "incorporated": "February 28, 1895"
+  },
+  {
+    "cities": "Lenox",
+    "counties": "Taylor, Adams",
+    "population_2020": "1,339",
+    "population_2010": "1,407",
+    "sq_miles": 1.98,
+    "sq_km": 5.1,
+    "incorporated": "July 2, 1875"
+  },
+  {
+    "cities": "Leon",
+    "counties": "Decatur",
+    "population_2020": "1,822",
+    "population_2010": "1,977",
+    "sq_miles": 3.17,
+    "sq_km": 8.2,
+    "incorporated": "May 2, 1867"
+  },
+  {
+    "cities": "Lester",
+    "counties": "Lyon",
+    "population_2020": "296",
+    "population_2010": "294",
+    "sq_miles": 1.82,
+    "sq_km": 4.7,
+    "incorporated": "December 26, 1892"
+  },
+  {
+    "cities": "Letts",
+    "counties": "Louisa",
+    "population_2020": "363",
+    "population_2010": "384",
+    "sq_miles": 0.59,
+    "sq_km": 1.5,
+    "incorporated": "July 28, 1877"
+  },
+  {
+    "cities": "Lewis",
+    "counties": "Cass",
+    "population_2020": "357",
+    "population_2010": "433",
+    "sq_miles": 0.5,
+    "sq_km": 1.3,
+    "incorporated": "May 14, 1874"
+  },
+  {
+    "cities": "Libertyville",
+    "counties": "Jefferson",
+    "population_2020": "274",
+    "population_2010": "315",
+    "sq_miles": 0.49,
+    "sq_km": 1.3,
+    "incorporated": "15-Apr-16"
+  },
+  {
+    "cities": "Lidderdale",
+    "counties": "Carroll",
+    "population_2020": "166",
+    "population_2010": "180",
+    "sq_miles": 2.42,
+    "sq_km": 6.3,
+    "incorporated": "27-Nov-05"
+  },
+  {
+    "cities": "Lime Springs",
+    "counties": "Howard",
+    "population_2020": "473",
+    "population_2010": "505",
+    "sq_miles": 1.02,
+    "sq_km": 2.6,
+    "incorporated": "April 17, 1876"
+  },
+  {
+    "cities": "Lincoln",
+    "counties": "Tama",
+    "population_2020": "121",
+    "population_2010": "162",
+    "sq_miles": 0.46,
+    "sq_km": 1.2,
+    "incorporated": "September 10, 1913[c]"
+  },
+  {
+    "cities": "Linden",
+    "counties": "Dallas",
+    "population_2020": "200",
+    "population_2010": "199",
+    "sq_miles": 0.79,
+    "sq_km": 2,
+    "incorporated": "January 12, 1893"
+  },
+  {
+    "cities": "Lineville",
+    "counties": "Wayne",
+    "population_2020": "195",
+    "population_2010": "217",
+    "sq_miles": 0.9,
+    "sq_km": 2.3,
+    "incorporated": "November 6, 1871"
+  },
+  {
+    "cities": "Linn Grove",
+    "counties": "Buena Vista",
+    "population_2020": "163",
+    "population_2010": "154",
+    "sq_miles": 0.58,
+    "sq_km": 1.5,
+    "incorporated": "4-Mar-12"
+  },
+  {
+    "cities": "Lisbon",
+    "counties": "Linn",
+    "population_2020": "2,223",
+    "population_2010": "2,152",
+    "sq_miles": 2.14,
+    "sq_km": 5.5,
+    "incorporated": "February 10, 1875"
+  },
+  {
+    "cities": "Liscomb",
+    "counties": "Marshall",
+    "population_2020": "291",
+    "population_2010": "301",
+    "sq_miles": 0.98,
+    "sq_km": 2.5,
+    "incorporated": "March 23, 1874"
+  },
+  {
+    "cities": "Little Rock",
+    "counties": "Lyon",
+    "population_2020": "439",
+    "population_2010": "459",
+    "sq_miles": 0.8,
+    "sq_km": 2.1,
+    "incorporated": "November 26, 1894"
+  },
+  {
+    "cities": "Little Sioux",
+    "counties": "Harrison",
+    "population_2020": "166",
+    "population_2010": "170",
+    "sq_miles": 0.37,
+    "sq_km": 0.96,
+    "incorporated": "November 26, 1883"
+  },
+  {
+    "cities": "Livermore",
+    "counties": "Humboldt",
+    "population_2020": "381",
+    "population_2010": "384",
+    "sq_miles": 0.7,
+    "sq_km": 1.8,
+    "incorporated": "March 11, 1882"
+  },
+  {
+    "cities": "Lockridge",
+    "counties": "Jefferson",
+    "population_2020": "244",
+    "population_2010": "268",
+    "sq_miles": 0.74,
+    "sq_km": 1.9,
+    "incorporated": "17-Jun-13"
+  },
+  {
+    "cities": "Logan",
+    "counties": "Harrison",
+    "population_2020": "1,397",
+    "population_2010": "1,534",
+    "sq_miles": 1,
+    "sq_km": 2.6,
+    "incorporated": "April 22, 1876"
+  },
+  {
+    "cities": "Lohrville",
+    "counties": "Calhoun",
+    "population_2020": "381",
+    "population_2010": "368",
+    "sq_miles": 2.14,
+    "sq_km": 5.5,
+    "incorporated": "December 14, 1882"
+  },
+  {
+    "cities": "Lone Rock",
+    "counties": "Kossuth",
+    "population_2020": "146",
+    "population_2010": "146",
+    "sq_miles": 0.12,
+    "sq_km": 0.31,
+    "incorporated": "5-Aug-15"
+  },
+  {
+    "cities": "Lone Tree",
+    "counties": "Johnson",
+    "population_2020": "1,357",
+    "population_2010": "1,300",
+    "sq_miles": 1.04,
+    "sq_km": 2.7,
+    "incorporated": "May 20, 1890"
+  },
+  {
+    "cities": "Long Grove",
+    "counties": "Scott",
+    "population_2020": "838",
+    "population_2010": "808",
+    "sq_miles": 1.02,
+    "sq_km": 2.6,
+    "incorporated": "1-Aug-12"
+  },
+  {
+    "cities": "Lorimor",
+    "counties": "Union",
+    "population_2020": "386",
+    "population_2010": "360",
+    "sq_miles": 0.38,
+    "sq_km": 0.98,
+    "incorporated": "December 16, 1892"
+  },
+  {
+    "cities": "Lost Nation",
+    "counties": "Clinton",
+    "population_2020": "434",
+    "population_2010": "446",
+    "sq_miles": 0.64,
+    "sq_km": 1.7,
+    "incorporated": "9-Jun-03"
+  },
+  {
+    "cities": "Lovilia",
+    "counties": "Monroe",
+    "population_2020": "472",
+    "population_2010": "538",
+    "sq_miles": 0.5,
+    "sq_km": 1.3,
+    "incorporated": "21-Apr-33"
+  },
+  {
+    "cities": "Low Moor",
+    "counties": "Clinton",
+    "population_2020": "250",
+    "population_2010": "288",
+    "sq_miles": 0.46,
+    "sq_km": 1.2,
+    "incorporated": "February 10, 1897"
+  },
+  {
+    "cities": "Lowden",
+    "counties": "Cedar",
+    "population_2020": "807",
+    "population_2010": "789",
+    "sq_miles": 1.02,
+    "sq_km": 2.6,
+    "incorporated": "March 12, 1869"
+  },
+  {
+    "cities": "Lu Verne",
+    "counties": "Kossuth, Humboldt",
+    "population_2020": "258",
+    "population_2010": "261",
+    "sq_miles": 2.26,
+    "sq_km": 5.9,
+    "incorporated": "July 6, 1887"
+  },
+  {
+    "cities": "Luana",
+    "counties": "Clayton",
+    "population_2020": "301",
+    "population_2010": "269",
+    "sq_miles": 1.05,
+    "sq_km": 2.7,
+    "incorporated": "29-May-11"
+  },
+  {
+    "cities": "Lucas",
+    "counties": "Lucas",
+    "population_2020": "172",
+    "population_2010": "216",
+    "sq_miles": 0.97,
+    "sq_km": 2.5,
+    "incorporated": "March 18, 1887"
+  },
+  {
+    "cities": "Luther",
+    "counties": "Boone",
+    "population_2020": "152",
+    "population_2010": "122",
+    "sq_miles": 0.77,
+    "sq_km": 2,
+    "incorporated": "29-Dec-03"
+  },
+  {
+    "cities": "Luxemburg",
+    "counties": "Dubuque",
+    "population_2020": "245",
+    "population_2010": "240",
+    "sq_miles": 0.46,
+    "sq_km": 1.2,
+    "incorporated": "2-Jan-12"
+  },
+  {
+    "cities": "Luzerne",
+    "counties": "Benton",
+    "population_2020": "112",
+    "population_2010": "96",
+    "sq_miles": 0.12,
+    "sq_km": 0.31,
+    "incorporated": "October 24, 1895"
+  },
+  {
+    "cities": "Lynnville",
+    "counties": "Jasper",
+    "population_2020": "380",
+    "population_2010": "379",
+    "sq_miles": 1.11,
+    "sq_km": 2.9,
+    "incorporated": "August 9, 1875"
+  },
+  {
+    "cities": "Lytton",
+    "counties": "Sac, Calhoun",
+    "population_2020": "282",
+    "population_2010": "315",
+    "sq_miles": 0.2,
+    "sq_km": 0.52,
+    "incorporated": "21-Jul-11"
+  },
+  {
+    "cities": "Macedonia",
+    "counties": "Pottawattamie",
+    "population_2020": "267",
+    "population_2010": "246",
+    "sq_miles": 0.33,
+    "sq_km": 0.85,
+    "incorporated": "June 21, 1892"
+  },
+  {
+    "cities": "Macksburg",
+    "counties": "Madison",
+    "population_2020": "97",
+    "population_2010": "113",
+    "sq_miles": 1.99,
+    "sq_km": 5.2,
+    "incorporated": "December 24, 1876"
+  },
+  {
+    "cities": "Madrid",
+    "counties": "Boone",
+    "population_2020": "2,802",
+    "population_2010": "2,543",
+    "sq_miles": 1.19,
+    "sq_km": 3.1,
+    "incorporated": "June 9, 1883"
+  },
+  {
+    "cities": "Magnolia",
+    "counties": "Harrison",
+    "population_2020": "190",
+    "population_2010": "183",
+    "sq_miles": 0.57,
+    "sq_km": 1.5,
+    "incorporated": "30-Nov-09"
+  },
+  {
+    "cities": "Maharishi Vedic City",
+    "counties": "Jefferson",
+    "population_2020": "277",
+    "population_2010": "259",
+    "sq_miles": 3.36,
+    "sq_km": 8.7,
+    "incorporated": "July 25, 2001[d]"
+  },
+  {
+    "cities": "Malcom",
+    "counties": "Poweshiek",
+    "population_2020": "270",
+    "population_2010": "287",
+    "sq_miles": 0.61,
+    "sq_km": 1.6,
+    "incorporated": "April 23, 1872"
+  },
+  {
+    "cities": "Mallard",
+    "counties": "Palo Alto",
+    "population_2020": "257",
+    "population_2010": "274",
+    "sq_miles": 0.41,
+    "sq_km": 1.1,
+    "incorporated": "June 25, 1895"
+  },
+  {
+    "cities": "Maloy",
+    "counties": "Ringgold",
+    "population_2020": "22",
+    "population_2010": "29",
+    "sq_miles": 0.62,
+    "sq_km": 1.6,
+    "incorporated": "18-Jun-01"
+  },
+  {
+    "cities": "Malvern",
+    "counties": "Mills",
+    "population_2020": "1,046",
+    "population_2010": "1,142",
+    "sq_miles": 1.19,
+    "sq_km": 3.1,
+    "incorporated": "February 24, 1872"
+  },
+  {
+    "cities": "Manchester",
+    "counties": "Delaware",
+    "population_2020": "5,065",
+    "population_2010": "5,179",
+    "sq_miles": 4.68,
+    "sq_km": 12.1,
+    "incorporated": "March 19, 1864"
+  },
+  {
+    "cities": "Manilla",
+    "counties": "Crawford",
+    "population_2020": "775",
+    "population_2010": "776",
+    "sq_miles": 1.03,
+    "sq_km": 2.7,
+    "incorporated": "October 3, 1887"
+  },
+  {
+    "cities": "Manly",
+    "counties": "Worth",
+    "population_2020": "1,256",
+    "population_2010": "1,323",
+    "sq_miles": 1.47,
+    "sq_km": 3.8,
+    "incorporated": "November 19, 1898"
+  },
+  {
+    "cities": "Manning",
+    "counties": "Carroll",
+    "population_2020": "1,455",
+    "population_2010": "1,500",
+    "sq_miles": 2.49,
+    "sq_km": 6.4,
+    "incorporated": "February 17, 1882"
+  },
+  {
+    "cities": "Manson",
+    "counties": "Calhoun",
+    "population_2020": "1,709",
+    "population_2010": "1,690",
+    "sq_miles": 3.18,
+    "sq_km": 8.2,
+    "incorporated": "May 5, 1877"
+  },
+  {
+    "cities": "Mapleton",
+    "counties": "Monona",
+    "population_2020": "1,165",
+    "population_2010": "1,224",
+    "sq_miles": 1.6,
+    "sq_km": 4.1,
+    "incorporated": "May 10, 1870"
+  },
+  {
+    "cities": "Maquoketa",
+    "counties": "Jackson, Clinton",
+    "population_2020": "6,128",
+    "population_2010": "6,141",
+    "sq_miles": 4.33,
+    "sq_km": 11.2,
+    "incorporated": "January 27, 1857"
+  },
+  {
+    "cities": "Marathon",
+    "counties": "Buena Vista",
+    "population_2020": "230",
+    "population_2010": "237",
+    "sq_miles": 0.74,
+    "sq_km": 1.9,
+    "incorporated": "October 31, 1892"
+  },
+  {
+    "cities": "Marble Rock",
+    "counties": "Floyd",
+    "population_2020": "271",
+    "population_2010": "307",
+    "sq_miles": 0.83,
+    "sq_km": 2.1,
+    "incorporated": "February 8, 1881"
+  },
+  {
+    "cities": "Marcus",
+    "counties": "Cherokee",
+    "population_2020": "1,079",
+    "population_2010": "1,117",
+    "sq_miles": 1.54,
+    "sq_km": 4,
+    "incorporated": "May 15, 1882"
+  },
+  {
+    "cities": "Marengo",
+    "counties": "Iowa",
+    "population_2020": "2,435",
+    "population_2010": "2,528",
+    "sq_miles": 2.08,
+    "sq_km": 5.4,
+    "incorporated": "July 4, 1859"
+  },
+  {
+    "cities": "Marion",
+    "counties": "Linn",
+    "population_2020": "41,535",
+    "population_2010": "34,768",
+    "sq_miles": 16.05,
+    "sq_km": 41.6,
+    "incorporated": "August 10, 1865"
+  },
+  {
+    "cities": "Marne",
+    "counties": "Cass",
+    "population_2020": "110",
+    "population_2010": "120",
+    "sq_miles": 0.57,
+    "sq_km": 1.5,
+    "incorporated": "May 10, 1892"
+  },
+  {
+    "cities": "Marquette",
+    "counties": "Clayton",
+    "population_2020": "429",
+    "population_2010": "375",
+    "sq_miles": 1.74,
+    "sq_km": 4.5,
+    "incorporated": "June 2, 1874"
+  },
+  {
+    "cities": "Marshalltown",
+    "counties": "Marshall",
+    "population_2020": "27,591",
+    "population_2010": "27,552",
+    "sq_miles": 19.28,
+    "sq_km": 49.9,
+    "incorporated": "5-Mar-23"
+  },
+  {
+    "cities": "Martelle",
+    "counties": "Jones",
+    "population_2020": "249",
+    "population_2010": "255",
+    "sq_miles": 0.34,
+    "sq_km": 0.88,
+    "incorporated": "April 28, 1899"
+  },
+  {
+    "cities": "Martensdale",
+    "counties": "Warren",
+    "population_2020": "421",
+    "population_2010": "465",
+    "sq_miles": 0.39,
+    "sq_km": 1,
+    "incorporated": "29-Oct-20"
+  },
+  {
+    "cities": "Martinsburg",
+    "counties": "Keokuk",
+    "population_2020": "110",
+    "population_2010": "112",
+    "sq_miles": 0.38,
+    "sq_km": 0.98,
+    "incorporated": "December 30, 1887"
+  },
+  {
+    "cities": "Marysville",
+    "counties": "Marion",
+    "population_2020": "44",
+    "population_2010": "66",
+    "sq_miles": 0.37,
+    "sq_km": 0.96,
+    "incorporated": "July 31, 1875"
+  },
+  {
+    "cities": "Mason City",
+    "counties": "Cerro Gordo",
+    "population_2020": "27,338",
+    "population_2010": "28,079",
+    "sq_miles": 27.81,
+    "sq_km": 72,
+    "incorporated": "December 21, 1869"
+  },
+  {
+    "cities": "Masonville",
+    "counties": "Delaware",
+    "population_2020": "99",
+    "population_2010": "127",
+    "sq_miles": 0.33,
+    "sq_km": 0.85,
+    "incorporated": "28-Jun-01"
+  },
+  {
+    "cities": "Massena",
+    "counties": "Cass",
+    "population_2020": "359",
+    "population_2010": "355",
+    "sq_miles": 0.69,
+    "sq_km": 1.8,
+    "incorporated": "January 18, 1887"
+  },
+  {
+    "cities": "Matlock",
+    "counties": "Sioux",
+    "population_2020": "74",
+    "population_2010": "87",
+    "sq_miles": 0.37,
+    "sq_km": 0.96,
+    "incorporated": "July 5, 1897"
+  },
+  {
+    "cities": "Maurice",
+    "counties": "Sioux",
+    "population_2020": "265",
+    "population_2010": "275",
+    "sq_miles": 0.55,
+    "sq_km": 1.4,
+    "incorporated": "May 23, 1891"
+  },
+  {
+    "cities": "Maxwell",
+    "counties": "Story",
+    "population_2020": "859",
+    "population_2010": "920",
+    "sq_miles": 1.11,
+    "sq_km": 2.9,
+    "incorporated": "December 17, 1883"
+  },
+  {
+    "cities": "Maynard",
+    "counties": "Fayette",
+    "population_2020": "476",
+    "population_2010": "518",
+    "sq_miles": 0.99,
+    "sq_km": 2.6,
+    "incorporated": "June 9, 1887"
+  },
+  {
+    "cities": "Maysville",
+    "counties": "Scott",
+    "population_2020": "156",
+    "population_2010": "176",
+    "sq_miles": 0.27,
+    "sq_km": 0.7,
+    "incorporated": "21-Jun-09"
+  },
+  {
+    "cities": "McCallsburg",
+    "counties": "Story",
+    "population_2020": "353",
+    "population_2010": "333",
+    "sq_miles": 0.53,
+    "sq_km": 1.4,
+    "incorporated": "25-Feb-01"
+  },
+  {
+    "cities": "McCausland",
+    "counties": "Scott",
+    "population_2020": "313",
+    "population_2010": "291",
+    "sq_miles": 0.54,
+    "sq_km": 1.4,
+    "incorporated": "28-May-09"
+  },
+  {
+    "cities": "McClelland",
+    "counties": "Pottawattamie",
+    "population_2020": "146",
+    "population_2010": "151",
+    "sq_miles": 0.17,
+    "sq_km": 0.44,
+    "incorporated": "14-Dec-04"
+  },
+  {
+    "cities": "McGregor",
+    "counties": "Clayton",
+    "population_2020": "742",
+    "population_2010": "871",
+    "sq_miles": 1.3,
+    "sq_km": 3.4,
+    "incorporated": "March 7, 1859"
+  },
+  {
+    "cities": "McIntire",
+    "counties": "Mitchell",
+    "population_2020": "113",
+    "population_2010": "122",
+    "sq_miles": 1.01,
+    "sq_km": 2.6,
+    "incorporated": "July 9, 1894"
+  },
+  {
+    "cities": "Mechanicsville",
+    "counties": "Cedar",
+    "population_2020": "1,020",
+    "population_2010": "1,146",
+    "sq_miles": 0.83,
+    "sq_km": 2.1,
+    "incorporated": "November 25, 1867"
+  },
+  {
+    "cities": "Mediapolis",
+    "counties": "Des Moines",
+    "population_2020": "1,688",
+    "population_2010": "1,560",
+    "sq_miles": 1.2,
+    "sq_km": 3.1,
+    "incorporated": "June 14, 1875"
+  },
+  {
+    "cities": "Melbourne",
+    "counties": "Marshall",
+    "population_2020": "786",
+    "population_2010": "830",
+    "sq_miles": 0.57,
+    "sq_km": 1.5,
+    "incorporated": "October 29, 1895"
+  },
+  {
+    "cities": "Melcher-Dallas",
+    "counties": "Marion",
+    "population_2020": "1,195",
+    "population_2010": "1,288",
+    "sq_miles": 1,
+    "sq_km": 2.6,
+    "incorporated": "26-Jun-86"
+  },
+  {
+    "cities": "Melrose",
+    "counties": "Monroe",
+    "population_2020": "110",
+    "population_2010": "112",
+    "sq_miles": 1.01,
+    "sq_km": 2.6,
+    "incorporated": "March 20, 1882"
+  },
+  {
+    "cities": "Melvin",
+    "counties": "Osceola",
+    "population_2020": "199",
+    "population_2010": "214",
+    "sq_miles": 0.18,
+    "sq_km": 0.47,
+    "incorporated": "1901"
+  },
+  {
+    "cities": "Menlo",
+    "counties": "Guthrie",
+    "population_2020": "345",
+    "population_2010": "353",
+    "sq_miles": 0.47,
+    "sq_km": 1.2,
+    "incorporated": "February 2, 1881"
+  },
+  {
+    "cities": "Meriden",
+    "counties": "Cherokee",
+    "population_2020": "161",
+    "population_2010": "159",
+    "sq_miles": 0.11,
+    "sq_km": 0.28,
+    "incorporated": "December 24, 1881"
+  },
+  {
+    "cities": "Merrill",
+    "counties": "Plymouth",
+    "population_2020": "717",
+    "population_2010": "755",
+    "sq_miles": 0.57,
+    "sq_km": 1.5,
+    "incorporated": "April 24, 1894"
+  },
+  {
+    "cities": "Meservey",
+    "counties": "Cerro Gordo",
+    "population_2020": "222",
+    "population_2010": "256",
+    "sq_miles": 1.51,
+    "sq_km": 3.9,
+    "incorporated": "August 24, 1893"
+  },
+  {
+    "cities": "Middletown",
+    "counties": "Des Moines",
+    "population_2020": "363",
+    "population_2010": "318",
+    "sq_miles": 0.61,
+    "sq_km": 1.6,
+    "incorporated": "11-May-14"
+  },
+  {
+    "cities": "Miles",
+    "counties": "Jackson",
+    "population_2020": "408",
+    "population_2010": "445",
+    "sq_miles": 1.15,
+    "sq_km": 3,
+    "incorporated": "May 4, 1893"
+  },
+  {
+    "cities": "Milford",
+    "counties": "Dickinson",
+    "population_2020": "3,321",
+    "population_2010": "2,898",
+    "sq_miles": 2.28,
+    "sq_km": 5.9,
+    "incorporated": "January 12, 1892"
+  },
+  {
+    "cities": "Millersburg",
+    "counties": "Iowa",
+    "population_2020": "135",
+    "population_2010": "159",
+    "sq_miles": 0.14,
+    "sq_km": 0.36,
+    "incorporated": "12-Jan-11"
+  },
+  {
+    "cities": "Millerton",
+    "counties": "Wayne",
+    "population_2020": "36",
+    "population_2010": "45",
+    "sq_miles": 0.21,
+    "sq_km": 0.54,
+    "incorporated": "26-Apr-15"
+  },
+  {
+    "cities": "Milo",
+    "counties": "Warren",
+    "population_2020": "778",
+    "population_2010": "775",
+    "sq_miles": 0.62,
+    "sq_km": 1.6,
+    "incorporated": "November 4, 1880"
+  },
+  {
+    "cities": "Milton",
+    "counties": "Van Buren",
+    "population_2020": "380",
+    "population_2010": "443",
+    "sq_miles": 2.51,
+    "sq_km": 6.5,
+    "incorporated": "May 20, 1878"
+  },
+  {
+    "cities": "Minburn",
+    "counties": "Dallas",
+    "population_2020": "325",
+    "population_2010": "365",
+    "sq_miles": 0.28,
+    "sq_km": 0.73,
+    "incorporated": "May 24, 1892"
+  },
+  {
+    "cities": "Minden",
+    "counties": "Pottawattamie",
+    "population_2020": "600",
+    "population_2010": "599",
+    "sq_miles": 0.42,
+    "sq_km": 1.1,
+    "incorporated": "October 6, 1880"
+  },
+  {
+    "cities": "Mingo",
+    "counties": "Jasper",
+    "population_2020": "302",
+    "population_2010": "302",
+    "sq_miles": 0.61,
+    "sq_km": 1.6,
+    "incorporated": "13-Feb-03"
+  },
+  {
+    "cities": "Missouri Valley",
+    "counties": "Harrison",
+    "population_2020": "2,678",
+    "population_2010": "2,838",
+    "sq_miles": 3.13,
+    "sq_km": 8.1,
+    "incorporated": "October 30, 1871"
+  },
+  {
+    "cities": "Mitchell",
+    "counties": "Mitchell",
+    "population_2020": "124",
+    "population_2010": "138",
+    "sq_miles": 0.54,
+    "sq_km": 1.4,
+    "incorporated": "May 27, 1879"
+  },
+  {
+    "cities": "Mitchellville",
+    "counties": "PolkJasper",
+    "population_2020": "2,485",
+    "population_2010": "2,254",
+    "sq_miles": 2.33,
+    "sq_km": 6,
+    "incorporated": "September 30, 1875"
+  },
+  {
+    "cities": "Modale",
+    "counties": "Harrison",
+    "population_2020": "273",
+    "population_2010": "283",
+    "sq_miles": 1.05,
+    "sq_km": 2.7,
+    "incorporated": "April 22, 1882"
+  },
+  {
+    "cities": "Mondamin",
+    "counties": "Harrison",
+    "population_2020": "339",
+    "population_2010": "402",
+    "sq_miles": 0.45,
+    "sq_km": 1.2,
+    "incorporated": "December 23, 1881"
+  },
+  {
+    "cities": "Monmouth",
+    "counties": "Jackson",
+    "population_2020": "129",
+    "population_2010": "153",
+    "sq_miles": 0.56,
+    "sq_km": 1.5,
+    "incorporated": "July 12, 1894"
+  },
+  {
+    "cities": "Monona",
+    "counties": "Clayton",
+    "population_2020": "1,471",
+    "population_2010": "1,549",
+    "sq_miles": 1.17,
+    "sq_km": 3,
+    "incorporated": "May 11, 1897"
+  },
+  {
+    "cities": "Monroe",
+    "counties": "Jasper",
+    "population_2020": "1,967",
+    "population_2010": "1,830",
+    "sq_miles": 1.69,
+    "sq_km": 4.4,
+    "incorporated": "May 1, 1897"
+  },
+  {
+    "cities": "Montezuma",
+    "counties": "Poweshiek",
+    "population_2020": "1,442",
+    "population_2010": "1,462",
+    "sq_miles": 2.48,
+    "sq_km": 6.4,
+    "incorporated": "February 21, 1868"
+  },
+  {
+    "cities": "Monticello",
+    "counties": "Jones",
+    "population_2020": "4,040",
+    "population_2010": "3,796",
+    "sq_miles": 6.29,
+    "sq_km": 16.3,
+    "incorporated": "September 24, 1889"
+  },
+  {
+    "cities": "Montour",
+    "counties": "Tama",
+    "population_2020": "203",
+    "population_2010": "249",
+    "sq_miles": 0.46,
+    "sq_km": 1.2,
+    "incorporated": "May 4, 1883"
+  },
+  {
+    "cities": "Montrose",
+    "counties": "Lee",
+    "population_2020": "738",
+    "population_2010": "898",
+    "sq_miles": 1.12,
+    "sq_km": 2.9,
+    "incorporated": "1875"
+  },
+  {
+    "cities": "Moorhead",
+    "counties": "Monona",
+    "population_2020": "199",
+    "population_2010": "226",
+    "sq_miles": 0.32,
+    "sq_km": 0.83,
+    "incorporated": "9-Apr-00"
+  },
+  {
+    "cities": "Moorland",
+    "counties": "Webster",
+    "population_2020": "168",
+    "population_2010": "169",
+    "sq_miles": 1.48,
+    "sq_km": 3.8,
+    "incorporated": "6-Oct-02"
+  },
+  {
+    "cities": "Moravia",
+    "counties": "Appanoose, Monroe",
+    "population_2020": "637",
+    "population_2010": "665",
+    "sq_miles": 1.12,
+    "sq_km": 2.9,
+    "incorporated": "September 26, 1881"
+  },
+  {
+    "cities": "Morley",
+    "counties": "Jones",
+    "population_2020": "96",
+    "population_2010": "115",
+    "sq_miles": 0.09,
+    "sq_km": 0.23,
+    "incorporated": "26-Jan-25"
+  },
+  {
+    "cities": "Morning Sun",
+    "counties": "Louisa",
+    "population_2020": "752",
+    "population_2010": "836",
+    "sq_miles": 0.8,
+    "sq_km": 2.1,
+    "incorporated": "June 3, 1867"
+  },
+  {
+    "cities": "Morrison",
+    "counties": "Grundy",
+    "population_2020": "98",
+    "population_2010": "94",
+    "sq_miles": 0.1,
+    "sq_km": 0.26,
+    "incorporated": "April 24, 1884"
+  },
+  {
+    "cities": "Moulton",
+    "counties": "Appanoose",
+    "population_2020": "607",
+    "population_2010": "605",
+    "sq_miles": 1.01,
+    "sq_km": 2.6,
+    "incorporated": "February 24, 1869"
+  },
+  {
+    "cities": "Mount Auburn",
+    "counties": "Benton",
+    "population_2020": "162",
+    "population_2010": "150",
+    "sq_miles": 0.28,
+    "sq_km": 0.73,
+    "incorporated": "19-Nov-06"
+  },
+  {
+    "cities": "Mount Ayr",
+    "counties": "Ringgold",
+    "population_2020": "1,623",
+    "population_2010": "1,691",
+    "sq_miles": 2.67,
+    "sq_km": 6.9,
+    "incorporated": "June 8, 1875"
+  },
+  {
+    "cities": "Mount Pleasant",
+    "counties": "Henry",
+    "population_2020": "9,274",
+    "population_2010": "8,668",
+    "sq_miles": 8.51,
+    "sq_km": 22,
+    "incorporated": "July 15, 1856"
+  },
+  {
+    "cities": "Mount Vernon",
+    "counties": "Linn",
+    "population_2020": "4,527",
+    "population_2010": "4,506",
+    "sq_miles": 3.49,
+    "sq_km": 9,
+    "incorporated": "July 7, 1869"
+  },
+  {
+    "cities": "Moville",
+    "counties": "Woodbury",
+    "population_2020": "1,687",
+    "population_2010": "1,618",
+    "sq_miles": 0.89,
+    "sq_km": 2.3,
+    "incorporated": "August 13, 1889"
+  },
+  {
+    "cities": "Murray",
+    "counties": "Clarke",
+    "population_2020": "684",
+    "population_2010": "756",
+    "sq_miles": 0.79,
+    "sq_km": 2,
+    "incorporated": "October 21, 1880"
+  },
+  {
+    "cities": "Muscatine",
+    "counties": "Muscatine",
+    "population_2020": "23,797",
+    "population_2010": "22,886",
+    "sq_miles": 17.3,
+    "sq_km": 45,
+    "incorporated": "February 1, 1851"
+  },
+  {
+    "cities": "Mystic",
+    "counties": "Appanoose",
+    "population_2020": "322",
+    "population_2010": "425",
+    "sq_miles": 2.92,
+    "sq_km": 7.6,
+    "incorporated": "October 29, 1889"
+  },
+  {
+    "cities": "Nashua",
+    "counties": "Chickasaw, Floyd",
+    "population_2020": "1,551",
+    "population_2010": "1,663",
+    "sq_miles": 2.88,
+    "sq_km": 7.5,
+    "incorporated": "January 29, 1857"
+  },
+  {
+    "cities": "Nemaha",
+    "counties": "Sac",
+    "population_2020": "66",
+    "population_2010": "85",
+    "sq_miles": 0.07,
+    "sq_km": 0.18,
+    "incorporated": "27-Jan-15"
+  },
+  {
+    "cities": "Neola",
+    "counties": "Pottawattamie",
+    "population_2020": "918",
+    "population_2010": "842",
+    "sq_miles": 0.46,
+    "sq_km": 1.2,
+    "incorporated": "March 7, 1882"
+  },
+  {
+    "cities": "Nevada",
+    "counties": "Story",
+    "population_2020": "6,925",
+    "population_2010": "6,798",
+    "sq_miles": 5.06,
+    "sq_km": 13.1,
+    "incorporated": "October 4, 1869"
+  },
+  {
+    "cities": "New Albin",
+    "counties": "Allamakee",
+    "population_2020": "432",
+    "population_2010": "522",
+    "sq_miles": 0.24,
+    "sq_km": 0.62,
+    "incorporated": "May 20, 1895"
+  },
+  {
+    "cities": "New Hampton",
+    "counties": "Chickasaw",
+    "population_2020": "3,494",
+    "population_2010": "3,571",
+    "sq_miles": 3.16,
+    "sq_km": 8.2,
+    "incorporated": "April 26, 1873"
+  },
+  {
+    "cities": "New Hartford",
+    "counties": "Butler",
+    "population_2020": "570",
+    "population_2010": "516",
+    "sq_miles": 0.5,
+    "sq_km": 1.3,
+    "incorporated": "December 7, 1883"
+  },
+  {
+    "cities": "New Liberty",
+    "counties": "Scott",
+    "population_2020": "138",
+    "population_2010": "137",
+    "sq_miles": 0.1,
+    "sq_km": 0.26,
+    "incorporated": "26-Jun-09"
+  },
+  {
+    "cities": "New London",
+    "counties": "Henry",
+    "population_2020": "1,910",
+    "population_2010": "1,897",
+    "sq_miles": 1.01,
+    "sq_km": 2.6,
+    "incorporated": "October 22, 1860"
+  },
+  {
+    "cities": "New Market",
+    "counties": "Taylor",
+    "population_2020": "385",
+    "population_2010": "415",
+    "sq_miles": 0.44,
+    "sq_km": 1.1,
+    "incorporated": "December 9, 1882"
+  },
+  {
+    "cities": "New Providence",
+    "counties": "Hardin",
+    "population_2020": "236",
+    "population_2010": "228",
+    "sq_miles": 1.01,
+    "sq_km": 2.6,
+    "incorporated": "January 30, 1893"
+  },
+  {
+    "cities": "New Sharon",
+    "counties": "Mahaska",
+    "population_2020": "1,262",
+    "population_2010": "1,293",
+    "sq_miles": 0.94,
+    "sq_km": 2.4,
+    "incorporated": "1871"
+  },
+  {
+    "cities": "New Vienna",
+    "counties": "Dubuque",
+    "population_2020": "382",
+    "population_2010": "407",
+    "sq_miles": 0.44,
+    "sq_km": 1.1,
+    "incorporated": "July 17, 1895"
+  },
+  {
+    "cities": "New Virginia",
+    "counties": "Warren",
+    "population_2020": "498",
+    "population_2010": "489",
+    "sq_miles": 0.46,
+    "sq_km": 1.2,
+    "incorporated": "27-Apr-01"
+  },
+  {
+    "cities": "Newell",
+    "counties": "Buena Vista",
+    "population_2020": "906",
+    "population_2010": "876",
+    "sq_miles": 1.27,
+    "sq_km": 3.3,
+    "incorporated": "September 30, 1876"
+  },
+  {
+    "cities": "Newhall",
+    "counties": "Benton",
+    "population_2020": "876",
+    "population_2010": "875",
+    "sq_miles": 0.32,
+    "sq_km": 0.83,
+    "incorporated": "3-Jun-12"
+  },
+  {
+    "cities": "Newton",
+    "counties": "Jasper",
+    "population_2020": "15,760",
+    "population_2010": "15,254",
+    "sq_miles": 11.19,
+    "sq_km": 29,
+    "incorporated": "January 26, 1857"
+  },
+  {
+    "cities": "Nichols",
+    "counties": "Muscatine",
+    "population_2020": "340",
+    "population_2010": "374",
+    "sq_miles": 0.23,
+    "sq_km": 0.6,
+    "incorporated": "March 15, 1884"
+  },
+  {
+    "cities": "Nodaway",
+    "counties": "Adams",
+    "population_2020": "74",
+    "population_2010": "114",
+    "sq_miles": 0.54,
+    "sq_km": 1.4,
+    "incorporated": "28-May-00"
+  },
+  {
+    "cities": "Nora Springs",
+    "counties": "Floyd, Cerro Gordo",
+    "population_2020": "1,369",
+    "population_2010": "1,431",
+    "sq_miles": 2.19,
+    "sq_km": 5.7,
+    "incorporated": "September 17, 1874"
+  },
+  {
+    "cities": "North Buena Vista",
+    "counties": "Clayton",
+    "population_2020": "109",
+    "population_2010": "121",
+    "sq_miles": 1,
+    "sq_km": 2.6,
+    "incorporated": "25-Oct-07"
+  },
+  {
+    "cities": "North English",
+    "counties": "Iowa, Keokuk",
+    "population_2020": "1,065",
+    "population_2010": "1,041",
+    "sq_miles": 0.55,
+    "sq_km": 1.4,
+    "incorporated": "March 13, 1891"
+  },
+  {
+    "cities": "North Liberty",
+    "counties": "Johnson",
+    "population_2020": "20,479",
+    "population_2010": "13,374",
+    "sq_miles": 7.83,
+    "sq_km": 20.3,
+    "incorporated": "10-Nov-13"
+  },
+  {
+    "cities": "North Washington",
+    "counties": "Chickasaw",
+    "population_2020": "112",
+    "population_2010": "117",
+    "sq_miles": 0.2,
+    "sq_km": 0.52,
+    "incorporated": "16-Apr-04"
+  },
+  {
+    "cities": "Northboro",
+    "counties": "Page",
+    "population_2020": "52",
+    "population_2010": "58",
+    "sq_miles": 0.26,
+    "sq_km": 0.67,
+    "incorporated": "14-Oct-02"
+  },
+  {
+    "cities": "Northwood",
+    "counties": "Worth",
+    "population_2020": "2,072",
+    "population_2010": "1,931",
+    "sq_miles": 3.76,
+    "sq_km": 9.7,
+    "incorporated": "June 7, 1875"
+  },
+  {
+    "cities": "Norwalk",
+    "counties": "Warren, Polk",
+    "population_2020": "12,799",
+    "population_2010": "8,945",
+    "sq_miles": 10.74,
+    "sq_km": 27.8,
+    "incorporated": "15-Jun-01"
+  },
+  {
+    "cities": "Norway",
+    "counties": "Benton",
+    "population_2020": "466",
+    "population_2010": "545",
+    "sq_miles": 0.45,
+    "sq_km": 1.2,
+    "incorporated": "December 20, 1894"
+  },
+  {
+    "cities": "Numa",
+    "counties": "Appanoose",
+    "population_2020": "68",
+    "population_2010": "92",
+    "sq_miles": 0.44,
+    "sq_km": 1.1,
+    "incorporated": "9-Nov-09"
+  },
+  {
+    "cities": "Oakland",
+    "counties": "Pottawattamie",
+    "population_2020": "1,524",
+    "population_2010": "1,527",
+    "sq_miles": 1.42,
+    "sq_km": 3.7,
+    "incorporated": "March 14, 1882"
+  },
+  {
+    "cities": "Oakland Acres",
+    "counties": "Jasper",
+    "population_2020": "176",
+    "population_2010": "156",
+    "sq_miles": 0.28,
+    "sq_km": 0.73,
+    "incorporated": "January 22, 1875"
+  },
+  {
+    "cities": "Oakville",
+    "counties": "Louisa",
+    "population_2020": "200",
+    "population_2010": "173",
+    "sq_miles": 0.42,
+    "sq_km": 1.1,
+    "incorporated": "27-Oct-02"
+  },
+  {
+    "cities": "Ocheyedan",
+    "counties": "Osceola",
+    "population_2020": "439",
+    "population_2010": "490",
+    "sq_miles": 1.16,
+    "sq_km": 3,
+    "incorporated": "February 20, 1892"
+  },
+  {
+    "cities": "Odebolt",
+    "counties": "Sac",
+    "population_2020": "994",
+    "population_2010": "1,013",
+    "sq_miles": 1.05,
+    "sq_km": 2.7,
+    "incorporated": "June 17, 1878"
+  },
+  {
+    "cities": "Oelwein",
+    "counties": "Fayette",
+    "population_2020": "5,920",
+    "population_2010": "6,415",
+    "sq_miles": 4.81,
+    "sq_km": 12.5,
+    "incorporated": "November 29, 1887"
+  },
+  {
+    "cities": "Ogden",
+    "counties": "Boone",
+    "population_2020": "2,007",
+    "population_2010": "2,044",
+    "sq_miles": 1.37,
+    "sq_km": 3.5,
+    "incorporated": "April 29, 1878"
+  },
+  {
+    "cities": "Okoboji",
+    "counties": "Dickinson",
+    "population_2020": "768",
+    "population_2010": "807",
+    "sq_miles": 1.85,
+    "sq_km": 4.8,
+    "incorporated": "28-Jul-22"
+  },
+  {
+    "cities": "Olds",
+    "counties": "Henry",
+    "population_2020": "192",
+    "population_2010": "229",
+    "sq_miles": 0.34,
+    "sq_km": 0.88,
+    "incorporated": "12-Dec-00"
+  },
+  {
+    "cities": "Olin",
+    "counties": "Jones",
+    "population_2020": "651",
+    "population_2010": "698",
+    "sq_miles": 1.03,
+    "sq_km": 2.7,
+    "incorporated": "November 14, 1879"
+  },
+  {
+    "cities": "Ollie",
+    "counties": "Keokuk",
+    "population_2020": "201",
+    "population_2010": "215",
+    "sq_miles": 0.99,
+    "sq_km": 2.6,
+    "incorporated": "March 1, 1892"
+  },
+  {
+    "cities": "Onawa",
+    "counties": "Monona",
+    "population_2020": "2,906",
+    "population_2010": "2,998",
+    "sq_miles": 5.19,
+    "sq_km": 13.4,
+    "incorporated": "March 22, 1859"
+  },
+  {
+    "cities": "Onslow",
+    "counties": "Jones",
+    "population_2020": "201",
+    "population_2010": "197",
+    "sq_miles": 0.22,
+    "sq_km": 0.57,
+    "incorporated": "June 20, 1888"
+  },
+  {
+    "cities": "Orange City",
+    "counties": "Sioux",
+    "population_2020": "6,267",
+    "population_2010": "6,004",
+    "sq_miles": 3.94,
+    "sq_km": 10.2,
+    "incorporated": "February 29, 1884"
+  },
+  {
+    "cities": "Orchard",
+    "counties": "Mitchell",
+    "population_2020": "68",
+    "population_2010": "71",
+    "sq_miles": 0.09,
+    "sq_km": 0.23,
+    "incorporated": "10-Jul-13"
+  },
+  {
+    "cities": "Orient",
+    "counties": "Adair",
+    "population_2020": "368",
+    "population_2010": "408",
+    "sq_miles": 0.45,
+    "sq_km": 1.2,
+    "incorporated": "March 21, 1882"
+  },
+  {
+    "cities": "Orleans",
+    "counties": "Dickinson",
+    "population_2020": "521",
+    "population_2010": "608",
+    "sq_miles": 1.08,
+    "sq_km": 2.8,
+    "incorporated": "July 3, 1895"
+  },
+  {
+    "cities": "Osage",
+    "counties": "Mitchell",
+    "population_2020": "3,627",
+    "population_2010": "3,619",
+    "sq_miles": 2.24,
+    "sq_km": 5.8,
+    "incorporated": "April 14, 1871"
+  },
+  {
+    "cities": "Osceola",
+    "counties": "Clarke",
+    "population_2020": "5,415",
+    "population_2010": "4,929",
+    "sq_miles": 6.48,
+    "sq_km": 16.8,
+    "incorporated": "December 24, 1866"
+  },
+  {
+    "cities": "Oskaloosa",
+    "counties": "Mahaska",
+    "population_2020": "11,558",
+    "population_2010": "11,463",
+    "sq_miles": 7.43,
+    "sq_km": 19.2,
+    "incorporated": "February 4, 1875"
+  },
+  {
+    "cities": "Ossian",
+    "counties": "Winneshiek",
+    "population_2020": "802",
+    "population_2010": "845",
+    "sq_miles": 1.11,
+    "sq_km": 2.9,
+    "incorporated": "February 10, 1876"
+  },
+  {
+    "cities": "Osterdock",
+    "counties": "Clayton",
+    "population_2020": "43",
+    "population_2010": "59",
+    "sq_miles": 0.46,
+    "sq_km": 1.2,
+    "incorporated": "16-Apr-04"
+  },
+  {
+    "cities": "Otho",
+    "counties": "Webster",
+    "population_2020": "429",
+    "population_2010": "542",
+    "sq_miles": 0.46,
+    "sq_km": 1.2,
+    "incorporated": "3-Jun-54"
+  },
+  {
+    "cities": "Oto",
+    "counties": "Woodbury",
+    "population_2020": "72",
+    "population_2010": "108",
+    "sq_miles": 0.26,
+    "sq_km": 0.67,
+    "incorporated": "July 10, 1888"
+  },
+  {
+    "cities": "Ottosen",
+    "counties": "Humboldt",
+    "population_2020": "40",
+    "population_2010": "55",
+    "sq_miles": 0.57,
+    "sq_km": 1.5,
+    "incorporated": "16-Jul-09"
+  },
+  {
+    "cities": "Ottumwa",
+    "counties": "Wapello",
+    "population_2020": "25,529",
+    "population_2010": "25,023",
+    "sq_miles": 15.86,
+    "sq_km": 41.1,
+    "incorporated": "February 2, 1888"
+  },
+  {
+    "cities": "Owasa",
+    "counties": "Hardin",
+    "population_2020": "34",
+    "population_2010": "43",
+    "sq_miles": 0.56,
+    "sq_km": 1.5,
+    "incorporated": "18-Mar-20"
+  },
+  {
+    "cities": "Oxford",
+    "counties": "Johnson",
+    "population_2020": "722",
+    "population_2010": "807",
+    "sq_miles": 0.91,
+    "sq_km": 2.4,
+    "incorporated": "April 8, 1881"
+  },
+  {
+    "cities": "Oxford Junction",
+    "counties": "Jones",
+    "population_2020": "424",
+    "population_2010": "496",
+    "sq_miles": 0.69,
+    "sq_km": 1.8,
+    "incorporated": "January 15, 1884"
+  },
+  {
+    "cities": "Oyens",
+    "counties": "Plymouth",
+    "population_2020": "92",
+    "population_2010": "103",
+    "sq_miles": 0.09,
+    "sq_km": 0.23,
+    "incorporated": "29-Jan-09"
+  },
+  {
+    "cities": "Pacific Junction",
+    "counties": "Mills",
+    "population_2020": "96",
+    "population_2010": "471",
+    "sq_miles": 0.76,
+    "sq_km": 2,
+    "incorporated": "January 11, 1882"
+  },
+  {
+    "cities": "Packwood",
+    "counties": "Jefferson",
+    "population_2020": "183",
+    "population_2010": "204",
+    "sq_miles": 0.76,
+    "sq_km": 2,
+    "incorporated": "May 7, 1894"
+  },
+  {
+    "cities": "Palmer",
+    "counties": "Pocahontas",
+    "population_2020": "138",
+    "population_2010": "165",
+    "sq_miles": 0.42,
+    "sq_km": 1.1,
+    "incorporated": "21-May-01"
+  },
+  {
+    "cities": "Palo",
+    "counties": "Linn",
+    "population_2020": "1,407",
+    "population_2010": "1,026",
+    "sq_miles": 1.43,
+    "sq_km": 3.7,
+    "incorporated": "25-Apr-05"
+  },
+  {
+    "cities": "Panama",
+    "counties": "Shelby",
+    "population_2020": "235",
+    "population_2010": "221",
+    "sq_miles": 0.29,
+    "sq_km": 0.75,
+    "incorporated": "May 17, 1886"
+  },
+  {
+    "cities": "Panora",
+    "counties": "Guthrie",
+    "population_2020": "1,091",
+    "population_2010": "1,124",
+    "sq_miles": 1.8,
+    "sq_km": 4.7,
+    "incorporated": "July 6, 1872"
+  },
+  {
+    "cities": "Panorama Park",
+    "counties": "Scott",
+    "population_2020": "139",
+    "population_2010": "129",
+    "sq_miles": 0.05,
+    "sq_km": 0.13,
+    "incorporated": "7-Jul-53"
+  },
+  {
+    "cities": "Parkersburg",
+    "counties": "Butler",
+    "population_2020": "2,015",
+    "population_2010": "1,870",
+    "sq_miles": 1.42,
+    "sq_km": 3.7,
+    "incorporated": "December 7, 1874"
+  },
+  {
+    "cities": "Parnell",
+    "counties": "Iowa",
+    "population_2020": "194",
+    "population_2010": "193",
+    "sq_miles": 0.17,
+    "sq_km": 0.44,
+    "incorporated": "March 24, 1891"
+  },
+  {
+    "cities": "Paton",
+    "counties": "Greene",
+    "population_2020": "221",
+    "population_2010": "236",
+    "sq_miles": 0.56,
+    "sq_km": 1.5,
+    "incorporated": "February 20, 1884"
+  },
+  {
+    "cities": "Patterson",
+    "counties": "Madison",
+    "population_2020": "176",
+    "population_2010": "130",
+    "sq_miles": 0.2,
+    "sq_km": 0.52,
+    "incorporated": "December 7, 1877"
+  },
+  {
+    "cities": "Paullina",
+    "counties": "O'Brien",
+    "population_2020": "982",
+    "population_2010": "1,056",
+    "sq_miles": 0.85,
+    "sq_km": 2.2,
+    "incorporated": "October 30, 1883"
+  },
+  {
+    "cities": "Pella",
+    "counties": "Marion",
+    "population_2020": "10,464",
+    "population_2010": "10,352",
+    "sq_miles": 8.73,
+    "sq_km": 22.6,
+    "incorporated": "April 10, 1868"
+  },
+  {
+    "cities": "Peosta",
+    "counties": "Dubuque",
+    "population_2020": "1,908",
+    "population_2010": "1,377",
+    "sq_miles": 1.97,
+    "sq_km": 5.1,
+    "incorporated": "16-Jun-33"
+  },
+  {
+    "cities": "Perry",
+    "counties": "Dallas",
+    "population_2020": "7,836",
+    "population_2010": "7,702",
+    "sq_miles": 4.17,
+    "sq_km": 10.8,
+    "incorporated": "May 18, 1875"
+  },
+  {
+    "cities": "Persia",
+    "counties": "Harrison",
+    "population_2020": "297",
+    "population_2010": "319",
+    "sq_miles": 0.47,
+    "sq_km": 1.2,
+    "incorporated": "April 30, 1891"
+  },
+  {
+    "cities": "Peterson",
+    "counties": "Clay",
+    "population_2020": "322",
+    "population_2010": "334",
+    "sq_miles": 0.31,
+    "sq_km": 0.8,
+    "incorporated": "November 12, 1886"
+  },
+  {
+    "cities": "Pierson",
+    "counties": "Woodbury",
+    "population_2020": "337",
+    "population_2010": "366",
+    "sq_miles": 0.62,
+    "sq_km": 1.6,
+    "incorporated": "November 27, 1891"
+  },
+  {
+    "cities": "Pilot Mound",
+    "counties": "Boone",
+    "population_2020": "163",
+    "population_2010": "173",
+    "sq_miles": 0.98,
+    "sq_km": 2.5,
+    "incorporated": "June 23, 1897"
+  },
+  {
+    "cities": "Pisgah",
+    "counties": "Harrison",
+    "population_2020": "249",
+    "population_2010": "251",
+    "sq_miles": 1.01,
+    "sq_km": 2.6,
+    "incorporated": "2-Jul-04"
+  },
+  {
+    "cities": "Plainfield",
+    "counties": "Bremer",
+    "population_2020": "393",
+    "population_2010": "436",
+    "sq_miles": 0.33,
+    "sq_km": 0.85,
+    "incorporated": "October 17, 1895"
+  },
+  {
+    "cities": "Plano",
+    "counties": "Appanoose",
+    "population_2020": "59",
+    "population_2010": "70",
+    "sq_miles": 0.56,
+    "sq_km": 1.5,
+    "incorporated": "5-Oct-16"
+  },
+  {
+    "cities": "Pleasant Hill",
+    "counties": "Polk",
+    "population_2020": "10,147",
+    "population_2010": "8,785",
+    "sq_miles": 9.15,
+    "sq_km": 23.7,
+    "incorporated": "12-May-56"
+  },
+  {
+    "cities": "Pleasant Plain",
+    "counties": "Jefferson",
+    "population_2020": "84",
+    "population_2010": "93",
+    "sq_miles": 1.02,
+    "sq_km": 2.6,
+    "incorporated": "12-Apr-00"
+  },
+  {
+    "cities": "Pleasanton",
+    "counties": "Decatur",
+    "population_2020": "32",
+    "population_2010": "49",
+    "sq_miles": 0.35,
+    "sq_km": 0.91,
+    "incorporated": "February 21, 1884"
+  },
+  {
+    "cities": "Pleasantville",
+    "counties": "Marion",
+    "population_2020": "1,676",
+    "population_2010": "1,694",
+    "sq_miles": 2.53,
+    "sq_km": 6.6,
+    "incorporated": "June 11, 1872"
+  },
+  {
+    "cities": "Plover",
+    "counties": "Pocahontas",
+    "population_2020": "50",
+    "population_2010": "77",
+    "sq_miles": 0.54,
+    "sq_km": 1.4,
+    "incorporated": "13-Oct-16"
+  },
+  {
+    "cities": "Plymouth",
+    "counties": "Cerro Gordo",
+    "population_2020": "375",
+    "population_2010": "382",
+    "sq_miles": 0.44,
+    "sq_km": 1.1,
+    "incorporated": "18-Oct-00"
+  },
+  {
+    "cities": "Pocahontas",
+    "counties": "Pocahontas",
+    "population_2020": "1,867",
+    "population_2010": "1,789",
+    "sq_miles": 2.02,
+    "sq_km": 5.2,
+    "incorporated": "May 16, 1892"
+  },
+  {
+    "cities": "Polk City",
+    "counties": "Polk",
+    "population_2020": "5,543",
+    "population_2010": "3,418",
+    "sq_miles": 4.32,
+    "sq_km": 11.2,
+    "incorporated": "March 13, 1875"
+  },
+  {
+    "cities": "Pomeroy",
+    "counties": "Calhoun",
+    "population_2020": "526",
+    "population_2010": "662",
+    "sq_miles": 2.04,
+    "sq_km": 5.3,
+    "incorporated": "April 22, 1880"
+  },
+  {
+    "cities": "Popejoy",
+    "counties": "Franklin",
+    "population_2020": "77",
+    "population_2010": "79",
+    "sq_miles": 0.74,
+    "sq_km": 1.9,
+    "incorporated": "24-Jul-08"
+  },
+  {
+    "cities": "Portsmouth",
+    "counties": "Shelby",
+    "population_2020": "182",
+    "population_2010": "195",
+    "sq_miles": 0.28,
+    "sq_km": 0.73,
+    "incorporated": "1883"
+  },
+  {
+    "cities": "Postville",
+    "counties": "Allamakee, Clayton",
+    "population_2020": "2,503",
+    "population_2010": "2,227",
+    "sq_miles": 2.11,
+    "sq_km": 5.5,
+    "incorporated": "March 17, 1873"
+  },
+  {
+    "cities": "Prairie City",
+    "counties": "Jasper",
+    "population_2020": "1,700",
+    "population_2010": "1,680",
+    "sq_miles": 1.2,
+    "sq_km": 3.1,
+    "incorporated": "August 7, 1874"
+  },
+  {
+    "cities": "Prairieburg",
+    "counties": "Linn",
+    "population_2020": "160",
+    "population_2010": "178",
+    "sq_miles": 0.46,
+    "sq_km": 1.2,
+    "incorporated": "30-Mar-05"
+  },
+  {
+    "cities": "Prescott",
+    "counties": "Adams",
+    "population_2020": "191",
+    "population_2010": "257",
+    "sq_miles": 0.4,
+    "sq_km": 1,
+    "incorporated": "November 26, 1890"
+  },
+  {
+    "cities": "Preston",
+    "counties": "Jackson",
+    "population_2020": "949",
+    "population_2010": "1,012",
+    "sq_miles": 0.96,
+    "sq_km": 2.5,
+    "incorporated": "November 11, 1890"
+  },
+  {
+    "cities": "Primghar",
+    "counties": "O'Brien",
+    "population_2020": "896",
+    "population_2010": "909",
+    "sq_miles": 1.38,
+    "sq_km": 3.6,
+    "incorporated": "February 15, 1888"
+  },
+  {
+    "cities": "Princeton",
+    "counties": "Scott",
+    "population_2020": "923",
+    "population_2010": "886",
+    "sq_miles": 2.56,
+    "sq_km": 6.6,
+    "incorporated": "January 29, 1857"
+  },
+  {
+    "cities": "Promise City",
+    "counties": "Wayne",
+    "population_2020": "88",
+    "population_2010": "111",
+    "sq_miles": 0.19,
+    "sq_km": 0.49,
+    "incorporated": "23-Aug-01"
+  },
+  {
+    "cities": "Protivin",
+    "counties": "Howard, Chickasaw",
+    "population_2020": "269",
+    "population_2010": "283",
+    "sq_miles": 0.48,
+    "sq_km": 1.2,
+    "incorporated": "August 1, 1894"
+  },
+  {
+    "cities": "Pulaski",
+    "counties": "Davis",
+    "population_2020": "264",
+    "population_2010": "260",
+    "sq_miles": 0.51,
+    "sq_km": 1.3,
+    "incorporated": "May 3, 1893"
+  },
+  {
+    "cities": "Quasqueton",
+    "counties": "Buchanan",
+    "population_2020": "570",
+    "population_2010": "554",
+    "sq_miles": 1.13,
+    "sq_km": 2.9,
+    "incorporated": "1-Jul-02"
+  },
+  {
+    "cities": "Quimby",
+    "counties": "Cherokee",
+    "population_2020": "249",
+    "population_2010": "319",
+    "sq_miles": 0.41,
+    "sq_km": 1.1,
+    "incorporated": "7-Jun-06"
+  },
+  {
+    "cities": "Radcliffe",
+    "counties": "Hardin",
+    "population_2020": "555",
+    "population_2010": "545",
+    "sq_miles": 1,
+    "sq_km": 2.6,
+    "incorporated": "July 8, 1891"
+  },
+  {
+    "cities": "Rake",
+    "counties": "Winnebago",
+    "population_2020": "186",
+    "population_2010": "225",
+    "sq_miles": 0.81,
+    "sq_km": 2.1,
+    "incorporated": "20-Jan-08"
+  },
+  {
+    "cities": "Ralston",
+    "counties": "Carroll, Greene",
+    "population_2020": "81",
+    "population_2010": "79",
+    "sq_miles": 1.99,
+    "sq_km": 5.2,
+    "incorporated": "31-Oct-03"
+  },
+  {
+    "cities": "Randalia",
+    "counties": "Fayette",
+    "population_2020": "50",
+    "population_2010": "68",
+    "sq_miles": 0.22,
+    "sq_km": 0.57,
+    "incorporated": "April 30, 1896"
+  },
+  {
+    "cities": "Randall",
+    "counties": "Hamilton",
+    "population_2020": "154",
+    "population_2010": "173",
+    "sq_miles": 0.41,
+    "sq_km": 1.1,
+    "incorporated": "15-Jul-40"
+  },
+  {
+    "cities": "Randolph",
+    "counties": "Fremont",
+    "population_2020": "189",
+    "population_2010": "168",
+    "sq_miles": 0.32,
+    "sq_km": 0.83,
+    "incorporated": "July 6, 1881"
+  },
+  {
+    "cities": "Rathbun",
+    "counties": "Appanoose",
+    "population_2020": "43",
+    "population_2010": "89",
+    "sq_miles": 0.22,
+    "sq_km": 0.57,
+    "incorporated": "March 1, 1894"
+  },
+  {
+    "cities": "Raymond",
+    "counties": "Black Hawk",
+    "population_2020": "759",
+    "population_2010": "788",
+    "sq_miles": 1.63,
+    "sq_km": 4.2,
+    "incorporated": "31-May-56"
+  },
+  {
+    "cities": "Readlyn",
+    "counties": "Bremer",
+    "population_2020": "845",
+    "population_2010": "808",
+    "sq_miles": 0.33,
+    "sq_km": 0.85,
+    "incorporated": "1-Feb-05"
+  },
+  {
+    "cities": "Reasnor",
+    "counties": "Jasper",
+    "population_2020": "152",
+    "population_2010": "152",
+    "sq_miles": 0.55,
+    "sq_km": 1.4,
+    "incorporated": "15-Jun-12"
+  },
+  {
+    "cities": "Red Oak",
+    "counties": "Montgomery",
+    "population_2020": "5,596",
+    "population_2010": "5,742",
+    "sq_miles": 3.95,
+    "sq_km": 10.2,
+    "incorporated": "June 28, 1869"
+  },
+  {
+    "cities": "Redding",
+    "counties": "Ringgold",
+    "population_2020": "63",
+    "population_2010": "82",
+    "sq_miles": 0.99,
+    "sq_km": 2.6,
+    "incorporated": "April 10, 1882"
+  },
+  {
+    "cities": "Redfield",
+    "counties": "Dallas",
+    "population_2020": "731",
+    "population_2010": "835",
+    "sq_miles": 1.4,
+    "sq_km": 3.6,
+    "incorporated": "March 21, 1881"
+  },
+  {
+    "cities": "Reinbeck",
+    "counties": "Grundy",
+    "population_2020": "1,662",
+    "population_2010": "1,664",
+    "sq_miles": 1.82,
+    "sq_km": 4.7,
+    "incorporated": "May 13, 1878"
+  },
+  {
+    "cities": "Rembrandt",
+    "counties": "Buena Vista",
+    "population_2020": "209",
+    "population_2010": "203",
+    "sq_miles": 0.2,
+    "sq_km": 0.52,
+    "incorporated": "12-Aug-01"
+  },
+  {
+    "cities": "Remsen",
+    "counties": "Plymouth",
+    "population_2020": "1,678",
+    "population_2010": "1,663",
+    "sq_miles": 1.27,
+    "sq_km": 3.3,
+    "incorporated": "1889"
+  },
+  {
+    "cities": "Renwick",
+    "counties": "Humboldt",
+    "population_2020": "234",
+    "population_2010": "242",
+    "sq_miles": 1,
+    "sq_km": 2.6,
+    "incorporated": "October 17, 1891"
+  },
+  {
+    "cities": "Rhodes",
+    "counties": "Marshall",
+    "population_2020": "271",
+    "population_2010": "305",
+    "sq_miles": 1.01,
+    "sq_km": 2.6,
+    "incorporated": "May 12, 1882"
+  },
+  {
+    "cities": "Riceville",
+    "counties": "Mitchell, Howard",
+    "population_2020": "806",
+    "population_2010": "785",
+    "sq_miles": 1.1,
+    "sq_km": 2.8,
+    "incorporated": "17-Nov-64"
+  },
+  {
+    "cities": "Richland",
+    "counties": "Keokuk",
+    "population_2020": "542",
+    "population_2010": "584",
+    "sq_miles": 0.77,
+    "sq_km": 2,
+    "incorporated": "December 31, 1868"
+  },
+  {
+    "cities": "Rickardsville",
+    "counties": "Dubuque",
+    "population_2020": "202",
+    "population_2010": "182",
+    "sq_miles": 0.9,
+    "sq_km": 2.3,
+    "incorporated": "17-Nov-64"
+  },
+  {
+    "cities": "Ricketts",
+    "counties": "Crawford",
+    "population_2020": "109",
+    "population_2010": "145",
+    "sq_miles": 0.26,
+    "sq_km": 0.67,
+    "incorporated": "19-Mar-02"
+  },
+  {
+    "cities": "Ridgeway",
+    "counties": "Winneshiek",
+    "population_2020": "275",
+    "population_2010": "315",
+    "sq_miles": 1.02,
+    "sq_km": 2.6,
+    "incorporated": "March 15, 1894"
+  },
+  {
+    "cities": "Rinard",
+    "counties": "Calhoun",
+    "population_2020": "38",
+    "population_2010": "52",
+    "sq_miles": 1,
+    "sq_km": 2.6,
+    "incorporated": "29-Dec-14"
+  },
+  {
+    "cities": "Ringsted",
+    "counties": "Emmet",
+    "population_2020": "365",
+    "population_2010": "422",
+    "sq_miles": 1.08,
+    "sq_km": 2.8,
+    "incorporated": "29-Mar-00"
+  },
+  {
+    "cities": "Rippey",
+    "counties": "Greene",
+    "population_2020": "220",
+    "population_2010": "292",
+    "sq_miles": 0.84,
+    "sq_km": 2.2,
+    "incorporated": "April 14, 1896[e]"
+  },
+  {
+    "cities": "Riverdale",
+    "counties": "Scott",
+    "population_2020": "379",
+    "population_2010": "405",
+    "sq_miles": 1.84,
+    "sq_km": 4.8,
+    "incorporated": "27-Dec-50"
+  },
+  {
+    "cities": "Riverside",
+    "counties": "Washington",
+    "population_2020": "1,060",
+    "population_2010": "993",
+    "sq_miles": 1.72,
+    "sq_km": 4.5,
+    "incorporated": "March 22, 1882"
+  },
+  {
+    "cities": "Riverton",
+    "counties": "Fremont",
+    "population_2020": "245",
+    "population_2010": "304",
+    "sq_miles": 0.59,
+    "sq_km": 1.5,
+    "incorporated": "June 22, 1876"
+  },
+  {
+    "cities": "Robins",
+    "counties": "Linn",
+    "population_2020": "3,353",
+    "population_2010": "3,142",
+    "sq_miles": 5.83,
+    "sq_km": 15.1,
+    "incorporated": "3-May-10"
+  },
+  {
+    "cities": "Rock Falls",
+    "counties": "Cerro Gordo",
+    "population_2020": "150",
+    "population_2010": "155",
+    "sq_miles": 0.21,
+    "sq_km": 0.54,
+    "incorporated": "July 17, 1882"
+  },
+  {
+    "cities": "Rock Rapids",
+    "counties": "Lyon",
+    "population_2020": "2,611",
+    "population_2010": "2,549",
+    "sq_miles": 3.96,
+    "sq_km": 10.3,
+    "incorporated": "April 8, 1885"
+  },
+  {
+    "cities": "Rock Valley",
+    "counties": "Sioux",
+    "population_2020": "4,059",
+    "population_2010": "3,354",
+    "sq_miles": 3.22,
+    "sq_km": 8.3,
+    "incorporated": "November 26, 1886"
+  },
+  {
+    "cities": "Rockford",
+    "counties": "Floyd",
+    "population_2020": "758",
+    "population_2010": "860",
+    "sq_miles": 0.63,
+    "sq_km": 1.6,
+    "incorporated": "March 19, 1878"
+  },
+  {
+    "cities": "Rockwell",
+    "counties": "Cerro Gordo",
+    "population_2020": "1,071",
+    "population_2010": "1,039",
+    "sq_miles": 2.98,
+    "sq_km": 7.7,
+    "incorporated": "July 9, 1881"
+  },
+  {
+    "cities": "Rockwell City",
+    "counties": "Calhoun",
+    "population_2020": "2,240",
+    "population_2010": "1,709",
+    "sq_miles": 4.21,
+    "sq_km": 10.9,
+    "incorporated": "May 2, 1882"
+  },
+  {
+    "cities": "Rodman",
+    "counties": "Palo Alto",
+    "population_2020": "31",
+    "population_2010": "45",
+    "sq_miles": 0.17,
+    "sq_km": 0.44,
+    "incorporated": "June 17, 1899"
+  },
+  {
+    "cities": "Rodney",
+    "counties": "Monona",
+    "population_2020": "45",
+    "population_2010": "60",
+    "sq_miles": 0.16,
+    "sq_km": 0.41,
+    "incorporated": "February 2, 1892"
+  },
+  {
+    "cities": "Roland",
+    "counties": "Story",
+    "population_2020": "1,362",
+    "population_2010": "1,284",
+    "sq_miles": 1.08,
+    "sq_km": 2.8,
+    "incorporated": "December 29, 1891"
+  },
+  {
+    "cities": "Rolfe",
+    "counties": "Pocahontas",
+    "population_2020": "509",
+    "population_2010": "584",
+    "sq_miles": 1.05,
+    "sq_km": 2.7,
+    "incorporated": "January 4, 1884"
+  },
+  {
+    "cities": "Rome",
+    "counties": "Henry",
+    "population_2020": "114",
+    "population_2010": "117",
+    "sq_miles": 0.13,
+    "sq_km": 0.34,
+    "incorporated": "January 1, 1869"
+  },
+  {
+    "cities": "Rose Hill",
+    "counties": "Mahaska",
+    "population_2020": "157",
+    "population_2010": "168",
+    "sq_miles": 0.14,
+    "sq_km": 0.36,
+    "incorporated": "August 22, 1876"
+  },
+  {
+    "cities": "Rossie",
+    "counties": "Clay",
+    "population_2020": "49",
+    "population_2010": "70",
+    "sq_miles": 0.15,
+    "sq_km": 0.39,
+    "incorporated": "30-Aug-22"
+  },
+  {
+    "cities": "Rowan",
+    "counties": "Wright",
+    "population_2020": "123",
+    "population_2010": "158",
+    "sq_miles": 0.49,
+    "sq_km": 1.3,
+    "incorporated": "21-Dec-01"
+  },
+  {
+    "cities": "Rowley",
+    "counties": "Buchanan",
+    "population_2020": "270",
+    "population_2010": "264",
+    "sq_miles": 0.36,
+    "sq_km": 0.93,
+    "incorporated": "20-Apr-20"
+  },
+  {
+    "cities": "Royal",
+    "counties": "Clay",
+    "population_2020": "379",
+    "population_2010": "446",
+    "sq_miles": 0.3,
+    "sq_km": 0.78,
+    "incorporated": "30-Aug-10"
+  },
+  {
+    "cities": "Rudd",
+    "counties": "Floyd",
+    "population_2020": "358",
+    "population_2010": "369",
+    "sq_miles": 0.87,
+    "sq_km": 2.3,
+    "incorporated": "7-Feb-00"
+  },
+  {
+    "cities": "Runnells",
+    "counties": "Polk",
+    "population_2020": "457",
+    "population_2010": "507",
+    "sq_miles": 0.43,
+    "sq_km": 1.1,
+    "incorporated": "21-May-03"
+  },
+  {
+    "cities": "Russell",
+    "counties": "Lucas",
+    "population_2020": "472",
+    "population_2010": "554",
+    "sq_miles": 1.04,
+    "sq_km": 2.7,
+    "incorporated": "April 25, 1887"
+  },
+  {
+    "cities": "Ruthven",
+    "counties": "Palo Alto",
+    "population_2020": "725",
+    "population_2010": "737",
+    "sq_miles": 0.42,
+    "sq_km": 1.1,
+    "incorporated": "March 12, 1885"
+  },
+  {
+    "cities": "Rutland",
+    "counties": "Humboldt",
+    "population_2020": "113",
+    "population_2010": "126",
+    "sq_miles": 0.9,
+    "sq_km": 2.3,
+    "incorporated": "6-Jul-07"
+  },
+  {
+    "cities": "Ryan",
+    "counties": "Delaware",
+    "population_2020": "350",
+    "population_2010": "361",
+    "sq_miles": 0.43,
+    "sq_km": 1.1,
+    "incorporated": "6-May-01"
+  },
+  {
+    "cities": "Sabula",
+    "counties": "Jackson",
+    "population_2020": "506",
+    "population_2010": "576",
+    "sq_miles": 0.4,
+    "sq_km": 1,
+    "incorporated": "September 1864"
+  },
+  {
+    "cities": "Sac City",
+    "counties": "Sac",
+    "population_2020": "2,063",
+    "population_2010": "2,185",
+    "sq_miles": 4.86,
+    "sq_km": 12.6,
+    "incorporated": "December 22, 1874"
+  },
+  {
+    "cities": "Sageville",
+    "counties": "Dubuque",
+    "population_2020": "95",
+    "population_2010": "122",
+    "sq_miles": 0.69,
+    "sq_km": 1.8,
+    "incorporated": "2-Jun-33"
+  },
+  {
+    "cities": "Salem",
+    "counties": "Henry",
+    "population_2020": "394",
+    "population_2010": "383",
+    "sq_miles": 0.61,
+    "sq_km": 1.6,
+    "incorporated": "January 24, 1855"
+  },
+  {
+    "cities": "Salix",
+    "counties": "Woodbury",
+    "population_2020": "295",
+    "population_2010": "363",
+    "sq_miles": 1.52,
+    "sq_km": 3.9,
+    "incorporated": "April 19, 1893"
+  },
+  {
+    "cities": "Sanborn",
+    "counties": "O'Brien",
+    "population_2020": "1,392",
+    "population_2010": "1,404",
+    "sq_miles": 1.9,
+    "sq_km": 4.9,
+    "incorporated": "March 15, 1880"
+  },
+  {
+    "cities": "Sandyville",
+    "counties": "Warren",
+    "population_2020": "58",
+    "population_2010": "51",
+    "sq_miles": 0.51,
+    "sq_km": 1.3,
+    "incorporated": "1905"
+  },
+  {
+    "cities": "Scarville",
+    "counties": "Winnebago",
+    "population_2020": "74",
+    "population_2010": "72",
+    "sq_miles": 0.08,
+    "sq_km": 0.21,
+    "incorporated": "11-Apr-04"
+  },
+  {
+    "cities": "Schaller",
+    "counties": "Sac",
+    "population_2020": "729",
+    "population_2010": "772",
+    "sq_miles": 1.26,
+    "sq_km": 3.3,
+    "incorporated": "May 25, 1883"
+  },
+  {
+    "cities": "Schleswig",
+    "counties": "Crawford",
+    "population_2020": "830",
+    "population_2010": "882",
+    "sq_miles": 1.3,
+    "sq_km": 3.4,
+    "incorporated": "15-Feb-00"
+  },
+  {
+    "cities": "Scranton",
+    "counties": "Greene",
+    "population_2020": "511",
+    "population_2010": "557",
+    "sq_miles": 1.88,
+    "sq_km": 4.9,
+    "incorporated": "May 18, 1880"
+  },
+  {
+    "cities": "Searsboro",
+    "counties": "Poweshiek",
+    "population_2020": "129",
+    "population_2010": "148",
+    "sq_miles": 0.45,
+    "sq_km": 1.2,
+    "incorporated": "August 3, 1876"
+  },
+  {
+    "cities": "Sergeant Bluff",
+    "counties": "Woodbury",
+    "population_2020": "5,015",
+    "population_2010": "4,227",
+    "sq_miles": 2.11,
+    "sq_km": 5.5,
+    "incorporated": "2-May-04"
+  },
+  {
+    "cities": "Seymour",
+    "counties": "Wayne",
+    "population_2020": "634",
+    "population_2010": "701",
+    "sq_miles": 2.35,
+    "sq_km": 6.1,
+    "incorporated": "February 28, 1874"
+  },
+  {
+    "cities": "Shambaugh",
+    "counties": "Page",
+    "population_2020": "159",
+    "population_2010": "191",
+    "sq_miles": 0.36,
+    "sq_km": 0.93,
+    "incorporated": "21-Apr-03"
+  },
+  {
+    "cities": "Shannon City",
+    "counties": "Union, Ringgold",
+    "population_2020": "73",
+    "population_2010": "71",
+    "sq_miles": 0.41,
+    "sq_km": 1.1,
+    "incorporated": "December 26, 1892"
+  },
+  {
+    "cities": "Sharpsburg",
+    "counties": "Taylor",
+    "population_2020": "72",
+    "population_2010": "89",
+    "sq_miles": 0.36,
+    "sq_km": 0.93,
+    "incorporated": "25-Apr-05"
+  },
+  {
+    "cities": "Sheffield",
+    "counties": "Franklin",
+    "population_2020": "1,130",
+    "population_2010": "1,172",
+    "sq_miles": 5.55,
+    "sq_km": 14.4,
+    "incorporated": "April 8, 1876"
+  },
+  {
+    "cities": "Shelby",
+    "counties": "Shelby, Pottawattamie",
+    "population_2020": "727",
+    "population_2010": "641",
+    "sq_miles": 1.74,
+    "sq_km": 4.5,
+    "incorporated": "November 24, 1877"
+  },
+  {
+    "cities": "Sheldahl",
+    "counties": "Story, Polk, Boone",
+    "population_2020": "297",
+    "population_2010": "319",
+    "sq_miles": 0.84,
+    "sq_km": 2.2,
+    "incorporated": "January 18, 1882"
+  },
+  {
+    "cities": "Sheldon",
+    "counties": "O'Brien, Sioux",
+    "population_2020": "5,512",
+    "population_2010": "5,188",
+    "sq_miles": 4.5,
+    "sq_km": 12,
+    "incorporated": "April 24, 1876"
+  },
+  {
+    "cities": "Shell Rock",
+    "counties": "Butler",
+    "population_2020": "1,268",
+    "population_2010": "1,296",
+    "sq_miles": 1.56,
+    "sq_km": 4,
+    "incorporated": "June 1, 1875"
+  },
+  {
+    "cities": "Shellsburg",
+    "counties": "Benton",
+    "population_2020": "961",
+    "population_2010": "983",
+    "sq_miles": 0.77,
+    "sq_km": 2,
+    "incorporated": "February 19, 1874"
+  },
+  {
+    "cities": "Shenandoah",
+    "counties": "Page, Fremont",
+    "population_2020": "4,925",
+    "population_2010": "5,150",
+    "sq_miles": 3.75,
+    "sq_km": 9.7,
+    "incorporated": "June 20, 1871"
+  },
+  {
+    "cities": "Sherrill",
+    "counties": "Dubuque",
+    "population_2020": "189",
+    "population_2010": "177",
+    "sq_miles": 0.13,
+    "sq_km": 0.34,
+    "incorporated": "29-Jun-33"
+  },
+  {
+    "cities": "Shueyville",
+    "counties": "Johnson",
+    "population_2020": "731",
+    "population_2010": "577",
+    "sq_miles": 1.79,
+    "sq_km": 4.6,
+    "incorporated": "8-Mar-68"
+  },
+  {
+    "cities": "Sibley",
+    "counties": "Osceola",
+    "population_2020": "2,860",
+    "population_2010": "2,798",
+    "sq_miles": 1.68,
+    "sq_km": 4.4,
+    "incorporated": "April 5, 1876"
+  },
+  {
+    "cities": "Sidney",
+    "counties": "Fremont",
+    "population_2020": "1,070",
+    "population_2010": "1,138",
+    "sq_miles": 1.38,
+    "sq_km": 3.6,
+    "incorporated": "May 7, 1870"
+  },
+  {
+    "cities": "Sigourney",
+    "counties": "Keokuk",
+    "population_2020": "2,004",
+    "population_2010": "2,059",
+    "sq_miles": 2.18,
+    "sq_km": 5.6,
+    "incorporated": "October 4, 1858"
+  },
+  {
+    "cities": "Silver City",
+    "counties": "Mills",
+    "population_2020": "245",
+    "population_2010": "245",
+    "sq_miles": 0.22,
+    "sq_km": 0.57,
+    "incorporated": "June 23, 1883"
+  },
+  {
+    "cities": "Sioux Center",
+    "counties": "Sioux",
+    "population_2020": "8,229",
+    "population_2010": "7,048",
+    "sq_miles": 6.31,
+    "sq_km": 16.3,
+    "incorporated": "October 1, 1891"
+  },
+  {
+    "cities": "Sioux City",
+    "counties": "Woodbury, Plymouth",
+    "population_2020": "85,797",
+    "population_2010": "82,684",
+    "sq_miles": 57.35,
+    "sq_km": 148.5,
+    "incorporated": "January 16, 1857"
+  },
+  {
+    "cities": "Sioux Rapids",
+    "counties": "Buena Vista",
+    "population_2020": "748",
+    "population_2010": "775",
+    "sq_miles": 0.82,
+    "sq_km": 2.1,
+    "incorporated": "April 6, 1882"
+  },
+  {
+    "cities": "Slater",
+    "counties": "Story",
+    "population_2020": "1,543",
+    "population_2010": "1,489",
+    "sq_miles": 1.26,
+    "sq_km": 3.3,
+    "incorporated": "May 5, 1890"
+  },
+  {
+    "cities": "Sloan",
+    "counties": "Woodbury",
+    "population_2020": "1,042",
+    "population_2010": "973",
+    "sq_miles": 0.62,
+    "sq_km": 1.6,
+    "incorporated": "October 16, 1883"
+  },
+  {
+    "cities": "Smithland",
+    "counties": "Woodbury",
+    "population_2020": "181",
+    "population_2010": "224",
+    "sq_miles": 0.37,
+    "sq_km": 0.96,
+    "incorporated": "May 6, 1889"
+  },
+  {
+    "cities": "Soldier",
+    "counties": "Monona",
+    "population_2020": "184",
+    "population_2010": "174",
+    "sq_miles": 0.29,
+    "sq_km": 0.75,
+    "incorporated": "1-Apr-01"
+  },
+  {
+    "cities": "Solon",
+    "counties": "Johnson",
+    "population_2020": "3,018",
+    "population_2010": "2,037",
+    "sq_miles": 1.39,
+    "sq_km": 3.6,
+    "incorporated": "April 28, 1877"
+  },
+  {
+    "cities": "Somers",
+    "counties": "Calhoun",
+    "population_2020": "128",
+    "population_2010": "113",
+    "sq_miles": 0.35,
+    "sq_km": 0.91,
+    "incorporated": "26-Apr-02"
+  },
+  {
+    "cities": "South English",
+    "counties": "Keokuk",
+    "population_2020": "202",
+    "population_2010": "212",
+    "sq_miles": 0.3,
+    "sq_km": 0.78,
+    "incorporated": "July 13, 1892"
+  },
+  {
+    "cities": "Spencer",
+    "counties": "Clay",
+    "population_2020": "11,325",
+    "population_2010": "11,233",
+    "sq_miles": 11.01,
+    "sq_km": 28.5,
+    "incorporated": "July 13, 1892"
+  },
+  {
+    "cities": "Spillville",
+    "counties": "Winneshiek",
+    "population_2020": "385",
+    "population_2010": "367",
+    "sq_miles": 0.42,
+    "sq_km": 1.1,
+    "incorporated": "December 5, 1894"
+  },
+  {
+    "cities": "Spirit Lake",
+    "counties": "Dickinson",
+    "population_2020": "5,439",
+    "population_2010": "4,840",
+    "sq_miles": 4.63,
+    "sq_km": 12,
+    "incorporated": "October 14, 1878"
+  },
+  {
+    "cities": "Spragueville",
+    "counties": "Jackson",
+    "population_2020": "92",
+    "population_2010": "81",
+    "sq_miles": 0.67,
+    "sq_km": 1.7,
+    "incorporated": "18-May-12"
+  },
+  {
+    "cities": "Spring Hill",
+    "counties": "Warren",
+    "population_2020": "68",
+    "population_2010": "63",
+    "sq_miles": 0.12,
+    "sq_km": 0.31,
+    "incorporated": "November 22, 1881"
+  },
+  {
+    "cities": "Springbrook",
+    "counties": "Jackson",
+    "population_2020": "143",
+    "population_2010": "144",
+    "sq_miles": 0.6,
+    "sq_km": 1.6,
+    "incorporated": "March 2, 1897"
+  },
+  {
+    "cities": "Springville",
+    "counties": "Linn",
+    "population_2020": "1,154",
+    "population_2010": "1,074",
+    "sq_miles": 0.72,
+    "sq_km": 1.9,
+    "incorporated": "January 27, 1882"
+  },
+  {
+    "cities": "St. Ansgar",
+    "counties": "Mitchell",
+    "population_2020": "1,160",
+    "population_2010": "1,107",
+    "sq_miles": 1.03,
+    "sq_km": 2.7,
+    "incorporated": "February 9, 1876"
+  },
+  {
+    "cities": "St. Anthony",
+    "counties": "Marshall",
+    "population_2020": "76",
+    "population_2010": "102",
+    "sq_miles": 0.56,
+    "sq_km": 1.5,
+    "incorporated": "November 6, 1897"
+  },
+  {
+    "cities": "St. Charles",
+    "counties": "Madison",
+    "population_2020": "640",
+    "population_2010": "653",
+    "sq_miles": 0.54,
+    "sq_km": 1.4,
+    "incorporated": "March 15, 1876"
+  },
+  {
+    "cities": "St. Donatus",
+    "counties": "Jackson",
+    "population_2020": "120",
+    "population_2010": "135",
+    "sq_miles": 0.37,
+    "sq_km": 0.96,
+    "incorporated": "8-Jun-64"
+  },
+  {
+    "cities": "St. Lucas",
+    "counties": "Fayette",
+    "population_2020": "167",
+    "population_2010": "143",
+    "sq_miles": 0.27,
+    "sq_km": 0.7,
+    "incorporated": "6-Mar-00"
+  },
+  {
+    "cities": "St. Marys",
+    "counties": "Warren",
+    "population_2020": "108",
+    "population_2010": "127",
+    "sq_miles": 0.14,
+    "sq_km": 0.36,
+    "incorporated": "5-Apr-23"
+  },
+  {
+    "cities": "St. Olaf",
+    "counties": "Clayton",
+    "population_2020": "106",
+    "population_2010": "108",
+    "sq_miles": 0.24,
+    "sq_km": 0.62,
+    "incorporated": "31-May-00"
+  },
+  {
+    "cities": "St. Paul",
+    "counties": "Lee",
+    "population_2020": "109",
+    "population_2010": "129",
+    "sq_miles": 0.38,
+    "sq_km": 0.98,
+    "incorporated": "April 1, 1895"
+  },
+  {
+    "cities": "Stacyville",
+    "counties": "Mitchell",
+    "population_2020": "458",
+    "population_2010": "494",
+    "sq_miles": 0.51,
+    "sq_km": 1.3,
+    "incorporated": "30-Mar-00"
+  },
+  {
+    "cities": "Stanhope",
+    "counties": "Hamilton",
+    "population_2020": "364",
+    "population_2010": "422",
+    "sq_miles": 0.97,
+    "sq_km": 2.5,
+    "incorporated": "December 14, 1897"
+  },
+  {
+    "cities": "Stanley",
+    "counties": "Buchanan, Fayette",
+    "population_2020": "81",
+    "population_2010": "125",
+    "sq_miles": 0.24,
+    "sq_km": 0.62,
+    "incorporated": "23-Mar-14"
+  },
+  {
+    "cities": "Stanton",
+    "counties": "Montgomery",
+    "population_2020": "678",
+    "population_2010": "689",
+    "sq_miles": 0.92,
+    "sq_km": 2.4,
+    "incorporated": "March 12, 1883"
+  },
+  {
+    "cities": "Stanwood",
+    "counties": "Cedar",
+    "population_2020": "637",
+    "population_2010": "684",
+    "sq_miles": 0.71,
+    "sq_km": 1.8,
+    "incorporated": "March 29, 1887"
+  },
+  {
+    "cities": "State Center",
+    "counties": "Marshall",
+    "population_2020": "1,391",
+    "population_2010": "1,468",
+    "sq_miles": 0.98,
+    "sq_km": 2.5,
+    "incorporated": "August 26, 1867"
+  },
+  {
+    "cities": "Steamboat Rock",
+    "counties": "Hardin",
+    "population_2020": "264",
+    "population_2010": "310",
+    "sq_miles": 0.54,
+    "sq_km": 1.4,
+    "incorporated": "October 7, 1875"
+  },
+  {
+    "cities": "Stockport",
+    "counties": "Van Buren",
+    "population_2020": "272",
+    "population_2010": "296",
+    "sq_miles": 1.03,
+    "sq_km": 2.7,
+    "incorporated": "9-Jan-03"
+  },
+  {
+    "cities": "Stockton",
+    "counties": "Muscatine",
+    "population_2020": "176",
+    "population_2010": "197",
+    "sq_miles": 0.11,
+    "sq_km": 0.28,
+    "incorporated": "11-Feb-02"
+  },
+  {
+    "cities": "Storm Lake",
+    "counties": "Buena Vista",
+    "population_2020": "11,269",
+    "population_2010": "10,600",
+    "sq_miles": 4.08,
+    "sq_km": 10.6,
+    "incorporated": "February 28, 1873"
+  },
+  {
+    "cities": "Story City",
+    "counties": "Story",
+    "population_2020": "3,352",
+    "population_2010": "3,431",
+    "sq_miles": 2.8,
+    "sq_km": 7.3,
+    "incorporated": "December 12, 1881"
+  },
+  {
+    "cities": "Stout",
+    "counties": "Grundy",
+    "population_2020": "191",
+    "population_2010": "224",
+    "sq_miles": 0.3,
+    "sq_km": 0.78,
+    "incorporated": "25-Jun-09"
+  },
+  {
+    "cities": "Stratford",
+    "counties": "Hamilton, Webster",
+    "population_2020": "707",
+    "population_2010": "743",
+    "sq_miles": 1.91,
+    "sq_km": 4.9,
+    "incorporated": "September 27, 1883"
+  },
+  {
+    "cities": "Strawberry Point",
+    "counties": "Clayton",
+    "population_2020": "1,155",
+    "population_2010": "1,279",
+    "sq_miles": 2.11,
+    "sq_km": 5.5,
+    "incorporated": "December 19, 1887"
+  },
+  {
+    "cities": "Struble",
+    "counties": "Plymouth",
+    "population_2020": "67",
+    "population_2010": "78",
+    "sq_miles": 0.16,
+    "sq_km": 0.41,
+    "incorporated": "August 17, 1895"
+  },
+  {
+    "cities": "Stuart",
+    "counties": "Guthrie, Adair",
+    "population_2020": "1,782",
+    "population_2010": "1,648",
+    "sq_miles": 2.58,
+    "sq_km": 6.7,
+    "incorporated": "February 6, 1887"
+  },
+  {
+    "cities": "Sully",
+    "counties": "Jasper",
+    "population_2020": "881",
+    "population_2010": "821",
+    "sq_miles": 0.58,
+    "sq_km": 1.5,
+    "incorporated": "23-Feb-01"
+  },
+  {
+    "cities": "Sumner",
+    "counties": "Bremer, Fayette",
+    "population_2020": "2,021",
+    "population_2010": "2,028",
+    "sq_miles": 2.52,
+    "sq_km": 6.5,
+    "incorporated": "June 1, 1894"
+  },
+  {
+    "cities": "Superior",
+    "counties": "Dickinson",
+    "population_2020": "132",
+    "population_2010": "130",
+    "sq_miles": 0.41,
+    "sq_km": 1.1,
+    "incorporated": "December 11, 1895"
+  },
+  {
+    "cities": "Sutherland",
+    "counties": "O'Brien",
+    "population_2020": "629",
+    "population_2010": "649",
+    "sq_miles": 0.87,
+    "sq_km": 2.3,
+    "incorporated": "October 29, 1883"
+  },
+  {
+    "cities": "Swaledale",
+    "counties": "Cerro Gordo",
+    "population_2020": "144",
+    "population_2010": "165",
+    "sq_miles": 0.24,
+    "sq_km": 0.62,
+    "incorporated": "March 31, 1892"
+  },
+  {
+    "cities": "Swan",
+    "counties": "Marion",
+    "population_2020": "76",
+    "population_2010": "72",
+    "sq_miles": 0.64,
+    "sq_km": 1.7,
+    "incorporated": "June 26, 1884"
+  },
+  {
+    "cities": "Swea City",
+    "counties": "Kossuth",
+    "population_2020": "566",
+    "population_2010": "536",
+    "sq_miles": 0.74,
+    "sq_km": 1.9,
+    "incorporated": "May 7, 1895"
+  },
+  {
+    "cities": "Swisher",
+    "counties": "Johnson",
+    "population_2020": "914",
+    "population_2010": "879",
+    "sq_miles": 0.82,
+    "sq_km": 2.1,
+    "incorporated": "25-Jul-33"
+  },
+  {
+    "cities": "Tabor",
+    "counties": "Fremont, Mills",
+    "population_2020": "928",
+    "population_2010": "1,040",
+    "sq_miles": 1.29,
+    "sq_km": 3.3,
+    "incorporated": "October 5, 1868"
+  },
+  {
+    "cities": "Tama",
+    "counties": "Tama",
+    "population_2020": "3,130",
+    "population_2010": "2,877",
+    "sq_miles": 3.26,
+    "sq_km": 8.4,
+    "incorporated": "March 16, 1887"
+  },
+  {
+    "cities": "Templeton",
+    "counties": "Carroll",
+    "population_2020": "352",
+    "population_2010": "362",
+    "sq_miles": 0.43,
+    "sq_km": 1.1,
+    "incorporated": "September 28, 1883"
+  },
+  {
+    "cities": "Tennant",
+    "counties": "Shelby",
+    "population_2020": "78",
+    "population_2010": "68",
+    "sq_miles": 0.71,
+    "sq_km": 1.8,
+    "incorporated": "23-Apr-15"
+  },
+  {
+    "cities": "Terril",
+    "counties": "Dickinson",
+    "population_2020": "334",
+    "population_2010": "367",
+    "sq_miles": 0.55,
+    "sq_km": 1.4,
+    "incorporated": "December 30, 1899"
+  },
+  {
+    "cities": "Thayer",
+    "counties": "Union",
+    "population_2020": "51",
+    "population_2010": "59",
+    "sq_miles": 0.09,
+    "sq_km": 0.23,
+    "incorporated": "May 11, 1894"
+  },
+  {
+    "cities": "Thompson",
+    "counties": "Winnebago",
+    "population_2020": "495",
+    "population_2010": "502",
+    "sq_miles": 0.88,
+    "sq_km": 2.3,
+    "incorporated": "February 24, 1894"
+  },
+  {
+    "cities": "Thor",
+    "counties": "Humboldt",
+    "population_2020": "181",
+    "population_2010": "186",
+    "sq_miles": 1,
+    "sq_km": 2.6,
+    "incorporated": "23-Apr-00"
+  },
+  {
+    "cities": "Thornburg",
+    "counties": "Keokuk",
+    "population_2020": "45",
+    "population_2010": "67",
+    "sq_miles": 0.2,
+    "sq_km": 0.52,
+    "incorporated": "September 25, 1883"
+  },
+  {
+    "cities": "Thornton",
+    "counties": "Cerro Gordo",
+    "population_2020": "400",
+    "population_2010": "422",
+    "sq_miles": 1.25,
+    "sq_km": 3.2,
+    "incorporated": "August 22, 1892"
+  },
+  {
+    "cities": "Thurman",
+    "counties": "Fremont",
+    "population_2020": "167",
+    "population_2010": "229",
+    "sq_miles": 0.56,
+    "sq_km": 1.5,
+    "incorporated": "February 10, 1879"
+  },
+  {
+    "cities": "Tiffin",
+    "counties": "Johnson",
+    "population_2020": "4,512",
+    "population_2010": "1,947",
+    "sq_miles": 4.13,
+    "sq_km": 10.7,
+    "incorporated": "27-Dec-06"
+  },
+  {
+    "cities": "Tingley",
+    "counties": "Ringgold",
+    "population_2020": "136",
+    "population_2010": "184",
+    "sq_miles": 0.68,
+    "sq_km": 1.8,
+    "incorporated": "June 17, 1884"
+  },
+  {
+    "cities": "Tipton",
+    "counties": "Cedar",
+    "population_2020": "3,149",
+    "population_2010": "3,221",
+    "sq_miles": 2.09,
+    "sq_km": 5.4,
+    "incorporated": "January 27, 1857"
+  },
+  {
+    "cities": "Titonka",
+    "counties": "Kossuth",
+    "population_2020": "511",
+    "population_2010": "476",
+    "sq_miles": 0.28,
+    "sq_km": 0.73,
+    "incorporated": "1-Feb-00"
+  },
+  {
+    "cities": "Toledo",
+    "counties": "Tama",
+    "population_2020": "2,369",
+    "population_2010": "2,258",
+    "sq_miles": 2.3,
+    "sq_km": 6,
+    "incorporated": "January 1, 1866"
+  },
+  {
+    "cities": "Toronto",
+    "counties": "Clinton",
+    "population_2020": "102",
+    "population_2010": "124",
+    "sq_miles": 0.19,
+    "sq_km": 0.49,
+    "incorporated": "26-Jul-09"
+  },
+  {
+    "cities": "Traer",
+    "counties": "Tama",
+    "population_2020": "1,583",
+    "population_2010": "1,703",
+    "sq_miles": 1.18,
+    "sq_km": 3.1,
+    "incorporated": "January 18, 1875"
+  },
+  {
+    "cities": "Treynor",
+    "counties": "Pottawattamie",
+    "population_2020": "1,032",
+    "population_2010": "919",
+    "sq_miles": 0.58,
+    "sq_km": 1.5,
+    "incorporated": "24-Aug-04"
+  },
+  {
+    "cities": "Tripoli",
+    "counties": "Bremer",
+    "population_2020": "1,191",
+    "population_2010": "1,313",
+    "sq_miles": 1.41,
+    "sq_km": 3.7,
+    "incorporated": "October 16, 1894"
+  },
+  {
+    "cities": "Truesdale",
+    "counties": "Buena Vista",
+    "population_2020": "69",
+    "population_2010": "81",
+    "sq_miles": 0.14,
+    "sq_km": 0.36,
+    "incorporated": "15-May-17"
+  },
+  {
+    "cities": "Truro",
+    "counties": "Madison",
+    "population_2020": "509",
+    "population_2010": "485",
+    "sq_miles": 0.97,
+    "sq_km": 2.5,
+    "incorporated": "24-Feb-02"
+  },
+  {
+    "cities": "Turin",
+    "counties": "Monona",
+    "population_2020": "72",
+    "population_2010": "68",
+    "sq_miles": 0.09,
+    "sq_km": 0.23,
+    "incorporated": "6-Apr-00"
+  },
+  {
+    "cities": "Udell",
+    "counties": "Appanoose",
+    "population_2020": "28",
+    "population_2010": "47",
+    "sq_miles": 0.32,
+    "sq_km": 0.83,
+    "incorporated": "9-Apr-03"
+  },
+  {
+    "cities": "Underwood",
+    "counties": "Pottawattamie",
+    "population_2020": "954",
+    "population_2010": "917",
+    "sq_miles": 0.46,
+    "sq_km": 1.2,
+    "incorporated": "28-Jan-02"
+  },
+  {
+    "cities": "Union",
+    "counties": "Hardin",
+    "population_2020": "399",
+    "population_2010": "397",
+    "sq_miles": 0.55,
+    "sq_km": 1.4,
+    "incorporated": "October 26, 1874"
+  },
+  {
+    "cities": "Unionville",
+    "counties": "Appanoose",
+    "population_2020": "75",
+    "population_2010": "102",
+    "sq_miles": 0.74,
+    "sq_km": 1.9,
+    "incorporated": "1-Jul-22"
+  },
+  {
+    "cities": "University Heights",
+    "counties": "Johnson",
+    "population_2020": "1,228",
+    "population_2010": "1,051",
+    "sq_miles": 0.27,
+    "sq_km": 0.7,
+    "incorporated": "13-Aug-35"
+  },
+  {
+    "cities": "University Park",
+    "counties": "Mahaska",
+    "population_2020": "487",
+    "population_2010": "487",
+    "sq_miles": 0.77,
+    "sq_km": 2,
+    "incorporated": "13-Apr-09"
+  },
+  {
+    "cities": "Urbana",
+    "counties": "Benton",
+    "population_2020": "1,554",
+    "population_2010": "1,458",
+    "sq_miles": 2.2,
+    "sq_km": 5.7,
+    "incorporated": "November 4, 1892"
+  },
+  {
+    "cities": "Urbandale",
+    "counties": "PolkDallas",
+    "population_2020": "45,580",
+    "population_2010": "39,463",
+    "sq_miles": 21.92,
+    "sq_km": 56.8,
+    "incorporated": "3-May-17"
+  },
+  {
+    "cities": "Ute",
+    "counties": "Monona",
+    "population_2020": "338",
+    "population_2010": "374",
+    "sq_miles": 0.39,
+    "sq_km": 1,
+    "incorporated": "November 4, 1892"
+  },
+  {
+    "cities": "Vail",
+    "counties": "Crawford",
+    "population_2020": "396",
+    "population_2010": "436",
+    "sq_miles": 0.57,
+    "sq_km": 1.5,
+    "incorporated": "October 1, 1875"
+  },
+  {
+    "cities": "Valeria",
+    "counties": "Jasper",
+    "population_2020": "39",
+    "population_2010": "57",
+    "sq_miles": 0.05,
+    "sq_km": 0.13,
+    "incorporated": "9-Dec-12"
+  },
+  {
+    "cities": "Van Horne",
+    "counties": "Benton",
+    "population_2020": "774",
+    "population_2010": "682",
+    "sq_miles": 0.63,
+    "sq_km": 1.6,
+    "incorporated": "June 13, 1883"
+  },
+  {
+    "cities": "Van Meter",
+    "counties": "Dallas",
+    "population_2020": "1,484",
+    "population_2010": "1,016",
+    "sq_miles": 1.28,
+    "sq_km": 3.3,
+    "incorporated": "December 29, 1877"
+  },
+  {
+    "cities": "Van Wert",
+    "counties": "Decatur",
+    "population_2020": "178",
+    "population_2010": "230",
+    "sq_miles": 0.33,
+    "sq_km": 0.85,
+    "incorporated": "March 4, 1891"
+  },
+  {
+    "cities": "Varina",
+    "counties": "Pocahontas",
+    "population_2020": "68",
+    "population_2010": "71",
+    "sq_miles": 0.27,
+    "sq_km": 0.7,
+    "incorporated": "29-Mar-01"
+  },
+  {
+    "cities": "Ventura",
+    "counties": "Cerro Gordo",
+    "population_2020": "711",
+    "population_2010": "717",
+    "sq_miles": 1.77,
+    "sq_km": 4.6,
+    "incorporated": "28-May-60"
+  },
+  {
+    "cities": "Victor",
+    "counties": "IowaPoweshiek",
+    "population_2020": "875",
+    "population_2010": "893",
+    "sq_miles": 0.48,
+    "sq_km": 1.2,
+    "incorporated": "November 30, 1868"
+  },
+  {
+    "cities": "Villisca",
+    "counties": "Montgomery",
+    "population_2020": "1,132",
+    "population_2010": "1,252",
+    "sq_miles": 1.9,
+    "sq_km": 4.9,
+    "incorporated": "September 3, 1869"
+  },
+  {
+    "cities": "Vincent",
+    "counties": "Webster",
+    "population_2020": "130",
+    "population_2010": "174",
+    "sq_miles": 0.25,
+    "sq_km": 0.65,
+    "incorporated": "May 27, 1898"
+  },
+  {
+    "cities": "Vining",
+    "counties": "Tama",
+    "population_2020": "54",
+    "population_2010": "50",
+    "sq_miles": 0.57,
+    "sq_km": 1.5,
+    "incorporated": "26-May-13"
+  },
+  {
+    "cities": "Vinton",
+    "counties": "Benton",
+    "population_2020": "4,938",
+    "population_2010": "5,257",
+    "sq_miles": 4.74,
+    "sq_km": 12.3,
+    "incorporated": "July 17, 1869"
+  },
+  {
+    "cities": "Volga",
+    "counties": "Clayton",
+    "population_2020": "203",
+    "population_2010": "208",
+    "sq_miles": 0.78,
+    "sq_km": 2,
+    "incorporated": "October 16, 1895"
+  },
+  {
+    "cities": "Wadena",
+    "counties": "Fayette",
+    "population_2020": "209",
+    "population_2010": "262",
+    "sq_miles": 0.74,
+    "sq_km": 1.9,
+    "incorporated": "July 11, 1895"
+  },
+  {
+    "cities": "Wahpeton",
+    "counties": "Dickinson",
+    "population_2020": "345",
+    "population_2010": "341",
+    "sq_miles": 1.21,
+    "sq_km": 3.1,
+    "incorporated": "24-Jun-33"
+  },
+  {
+    "cities": "Walcott",
+    "counties": "Scott, Muscatine",
+    "population_2020": "1,551",
+    "population_2010": "1,629",
+    "sq_miles": 3.47,
+    "sq_km": 9,
+    "incorporated": "July 10, 1894"
+  },
+  {
+    "cities": "Walford",
+    "counties": "Benton, Linn",
+    "population_2020": "1,366",
+    "population_2010": "1,463",
+    "sq_miles": 1.11,
+    "sq_km": 2.9,
+    "incorporated": "15-Apr-54"
+  },
+  {
+    "cities": "Walker",
+    "counties": "Linn",
+    "population_2020": "688",
+    "population_2010": "791",
+    "sq_miles": 0.76,
+    "sq_km": 2,
+    "incorporated": "June 13, 1891"
+  },
+  {
+    "cities": "Wall Lake",
+    "counties": "Sac",
+    "population_2020": "755",
+    "population_2010": "819",
+    "sq_miles": 1.23,
+    "sq_km": 3.2,
+    "incorporated": "December 7, 1880"
+  },
+  {
+    "cities": "Wallingford",
+    "counties": "Emmet",
+    "population_2020": "165",
+    "population_2010": "197",
+    "sq_miles": 0.97,
+    "sq_km": 2.5,
+    "incorporated": "4-Nov-13"
+  },
+  {
+    "cities": "Walnut",
+    "counties": "Pottawattamie",
+    "population_2020": "747",
+    "population_2010": "785",
+    "sq_miles": 2.15,
+    "sq_km": 5.6,
+    "incorporated": "October 2, 1877"
+  },
+  {
+    "cities": "Wapello",
+    "counties": "Louisa",
+    "population_2020": "2,084",
+    "population_2010": "2,067",
+    "sq_miles": 1.29,
+    "sq_km": 3.3,
+    "incorporated": "July 15, 1856"
+  },
+  {
+    "cities": "Washington",
+    "counties": "Washington",
+    "population_2020": "7,352",
+    "population_2010": "7,266",
+    "sq_miles": 4.92,
+    "sq_km": 12.7,
+    "incorporated": "June 6, 1864"
+  },
+  {
+    "cities": "Washta",
+    "counties": "Cherokee",
+    "population_2020": "209",
+    "population_2010": "248",
+    "sq_miles": 1.04,
+    "sq_km": 2.7,
+    "incorporated": "June 6, 1890"
+  },
+  {
+    "cities": "Waterloo",
+    "counties": "Black Hawk",
+    "population_2020": "67,314",
+    "population_2010": "68,406",
+    "sq_miles": 61.39,
+    "sq_km": 159,
+    "incorporated": "July 1, 1868"
+  },
+  {
+    "cities": "Waterville",
+    "counties": "Allamakee",
+    "population_2020": "109",
+    "population_2010": "144",
+    "sq_miles": 0.43,
+    "sq_km": 1.1,
+    "incorporated": "18-Jun-12"
+  },
+  {
+    "cities": "Waucoma",
+    "counties": "Fayette",
+    "population_2020": "229",
+    "population_2010": "257",
+    "sq_miles": 0.43,
+    "sq_km": 1.1,
+    "incorporated": "June 5, 1883"
+  },
+  {
+    "cities": "Waukee",
+    "counties": "Dallas",
+    "population_2020": "23,940",
+    "population_2010": "13,790",
+    "sq_miles": 12.97,
+    "sq_km": 33.6,
+    "incorporated": "December 23, 1878"
+  },
+  {
+    "cities": "Waukon",
+    "counties": "Allamakee",
+    "population_2020": "3,827",
+    "population_2010": "3,897",
+    "sq_miles": 2.82,
+    "sq_km": 7.3,
+    "incorporated": "April 4, 1883"
+  },
+  {
+    "cities": "Waverly",
+    "counties": "Bremer",
+    "population_2020": "10,394",
+    "population_2010": "9,874",
+    "sq_miles": 11.01,
+    "sq_km": 28.5,
+    "incorporated": "March 2, 1859"
+  },
+  {
+    "cities": "Wayland",
+    "counties": "Henry",
+    "population_2020": "964",
+    "population_2010": "966",
+    "sq_miles": 1.01,
+    "sq_km": 2.6,
+    "incorporated": "February 5, 1890"
+  },
+  {
+    "cities": "Webb",
+    "counties": "Clay",
+    "population_2020": "138",
+    "population_2010": "141",
+    "sq_miles": 0.5,
+    "sq_km": 1.3,
+    "incorporated": "9-Apr-01"
+  },
+  {
+    "cities": "Webster",
+    "counties": "Keokuk",
+    "population_2020": "94",
+    "population_2010": "88",
+    "sq_miles": 0.32,
+    "sq_km": 0.83,
+    "incorporated": "13-Apr-09"
+  },
+  {
+    "cities": "Webster City",
+    "counties": "Hamilton",
+    "population_2020": "7,825",
+    "population_2010": "8,070",
+    "sq_miles": 8.86,
+    "sq_km": 22.9,
+    "incorporated": "September 16, 1874"
+  },
+  {
+    "cities": "Weldon",
+    "counties": "Decatur",
+    "population_2020": "136",
+    "population_2010": "125",
+    "sq_miles": 0.18,
+    "sq_km": 0.47,
+    "incorporated": "20-Oct-02"
+  },
+  {
+    "cities": "Wellman",
+    "counties": "Washington",
+    "population_2020": "1,524",
+    "population_2010": "1,408",
+    "sq_miles": 1.14,
+    "sq_km": 3,
+    "incorporated": "October 28, 1885"
+  },
+  {
+    "cities": "Wellsburg",
+    "counties": "Grundy",
+    "population_2020": "720",
+    "population_2010": "707",
+    "sq_miles": 1.09,
+    "sq_km": 2.8,
+    "incorporated": "March 28, 1896"
+  },
+  {
+    "cities": "Welton",
+    "counties": "Clinton",
+    "population_2020": "121",
+    "population_2010": "165",
+    "sq_miles": 0.27,
+    "sq_km": 0.7,
+    "incorporated": "25-Apr-08"
+  },
+  {
+    "cities": "Wesley",
+    "counties": "Kossuth",
+    "population_2020": "391",
+    "population_2010": "390",
+    "sq_miles": 0.58,
+    "sq_km": 1.5,
+    "incorporated": "April 13, 1892"
+  },
+  {
+    "cities": "West Bend",
+    "counties": "Palo Alto, Kossuth",
+    "population_2020": "791",
+    "population_2010": "785",
+    "sq_miles": 0.89,
+    "sq_km": 2.3,
+    "incorporated": "February 27, 1884"
+  },
+  {
+    "cities": "West Branch",
+    "counties": "Cedar, Johnson",
+    "population_2020": "2,509",
+    "population_2010": "2,322",
+    "sq_miles": 3.19,
+    "sq_km": 8.3,
+    "incorporated": "April 12, 1875"
+  },
+  {
+    "cities": "West Burlington",
+    "counties": "Des Moines",
+    "population_2020": "3,197",
+    "population_2010": "2,968",
+    "sq_miles": 4.95,
+    "sq_km": 12.8,
+    "incorporated": "December 15, 1883"
+  },
+  {
+    "cities": "West Chester",
+    "counties": "Washington",
+    "population_2020": "144",
+    "population_2010": "146",
+    "sq_miles": 0.25,
+    "sq_km": 0.65,
+    "incorporated": "April 17, 1899"
+  },
+  {
+    "cities": "West Des Moines",
+    "counties": "Polk, Dallas, Warren",
+    "population_2020": "68,723",
+    "population_2010": "56,609",
+    "sq_miles": 38.59,
+    "sq_km": 99.9,
+    "incorporated": "November 16, 1893"
+  },
+  {
+    "cities": "West Liberty",
+    "counties": "Muscatine",
+    "population_2020": "3,858",
+    "population_2010": "3,736",
+    "sq_miles": 1.73,
+    "sq_km": 4.5,
+    "incorporated": "July 1, 1867"
+  },
+  {
+    "cities": "West Okoboji",
+    "counties": "Dickinson",
+    "population_2020": "308",
+    "population_2010": "289",
+    "sq_miles": 1.28,
+    "sq_km": 3.3,
+    "incorporated": "17-Dec-24"
+  },
+  {
+    "cities": "West Point",
+    "counties": "Lee",
+    "population_2020": "921",
+    "population_2010": "966",
+    "sq_miles": 0.61,
+    "sq_km": 1.6,
+    "incorporated": "March 25, 1858"
+  },
+  {
+    "cities": "West Union",
+    "counties": "Fayette",
+    "population_2020": "2,490",
+    "population_2010": "2,486",
+    "sq_miles": 2.78,
+    "sq_km": 7.2,
+    "incorporated": "December 9, 1879"
+  },
+  {
+    "cities": "Westfield",
+    "counties": "Plymouth",
+    "population_2020": "123",
+    "population_2010": "132",
+    "sq_miles": 0.13,
+    "sq_km": 0.34,
+    "incorporated": "27-May-03"
+  },
+  {
+    "cities": "Westgate",
+    "counties": "Fayette",
+    "population_2020": "192",
+    "population_2010": "211",
+    "sq_miles": 0.36,
+    "sq_km": 0.93,
+    "incorporated": "July 6, 1896"
+  },
+  {
+    "cities": "Westphalia",
+    "counties": "Shelby",
+    "population_2020": "126",
+    "population_2010": "127",
+    "sq_miles": 0.1,
+    "sq_km": 0.26,
+    "incorporated": "7-Nov-19"
+  },
+  {
+    "cities": "Westside",
+    "counties": "Crawford",
+    "population_2020": "285",
+    "population_2010": "299",
+    "sq_miles": 1.47,
+    "sq_km": 3.8,
+    "incorporated": "1871"
+  },
+  {
+    "cities": "Westwood",
+    "counties": "Henry",
+    "population_2020": "101",
+    "population_2010": "112",
+    "sq_miles": 0.15,
+    "sq_km": 0.39,
+    "incorporated": "14-Jan-82"
+  },
+  {
+    "cities": "What Cheer",
+    "counties": "Keokuk",
+    "population_2020": "607",
+    "population_2010": "646",
+    "sq_miles": 1.22,
+    "sq_km": 3.2,
+    "incorporated": "February 27, 1880"
+  },
+  {
+    "cities": "Wheatland",
+    "counties": "Clinton",
+    "population_2020": "775",
+    "population_2010": "764",
+    "sq_miles": 0.6,
+    "sq_km": 1.6,
+    "incorporated": "July 13, 1869"
+  },
+  {
+    "cities": "Whiting",
+    "counties": "Monona",
+    "population_2020": "745",
+    "population_2010": "762",
+    "sq_miles": 1,
+    "sq_km": 2.6,
+    "incorporated": "May 15, 1883"
+  },
+  {
+    "cities": "Whittemore",
+    "counties": "Kossuth",
+    "population_2020": "497",
+    "population_2010": "504",
+    "sq_miles": 0.42,
+    "sq_km": 1.1,
+    "incorporated": "November 19, 1891"
+  },
+  {
+    "cities": "Whitten",
+    "counties": "Hardin",
+    "population_2020": "100",
+    "population_2010": "149",
+    "sq_miles": 0.54,
+    "sq_km": 1.4,
+    "incorporated": "March 13, 1896"
+  },
+  {
+    "cities": "Willey",
+    "counties": "Carroll",
+    "population_2020": "73",
+    "population_2010": "88",
+    "sq_miles": 0.25,
+    "sq_km": 0.65,
+    "incorporated": "29-Feb-12"
+  },
+  {
+    "cities": "Williams",
+    "counties": "Hamilton",
+    "population_2020": "307",
+    "population_2010": "344",
+    "sq_miles": 0.87,
+    "sq_km": 2.3,
+    "incorporated": "September 13, 1883"
+  },
+  {
+    "cities": "Williamsburg",
+    "counties": "Iowa",
+    "population_2020": "3,346",
+    "population_2010": "3,068",
+    "sq_miles": 3.74,
+    "sq_km": 9.7,
+    "incorporated": "December 3, 1884"
+  },
+  {
+    "cities": "Williamson",
+    "counties": "Lucas",
+    "population_2020": "120",
+    "population_2010": "152",
+    "sq_miles": 0.32,
+    "sq_km": 0.83,
+    "incorporated": "14-Jun-22"
+  },
+  {
+    "cities": "Wilton",
+    "counties": "Muscatine, Cedar",
+    "population_2020": "2,924",
+    "population_2010": "2,802",
+    "sq_miles": 1.95,
+    "sq_km": 5.1,
+    "incorporated": "February 12, 1878"
+  },
+  {
+    "cities": "Windsor Heights",
+    "counties": "Polk",
+    "population_2020": "5,252",
+    "population_2010": "4,860",
+    "sq_miles": 1.41,
+    "sq_km": 3.7,
+    "incorporated": "19-Jul-41"
+  },
+  {
+    "cities": "Winfield",
+    "counties": "Henry",
+    "population_2020": "1,033",
+    "population_2010": "1,134",
+    "sq_miles": 1.05,
+    "sq_km": 2.7,
+    "incorporated": "March 27, 1882"
+  },
+  {
+    "cities": "Winterset",
+    "counties": "Madison",
+    "population_2020": "5,353",
+    "population_2010": "5,190",
+    "sq_miles": 4.58,
+    "sq_km": 11.9,
+    "incorporated": "January 16, 1857"
+  },
+  {
+    "cities": "Winthrop",
+    "counties": "Buchanan",
+    "population_2020": "823",
+    "population_2010": "850",
+    "sq_miles": 0.84,
+    "sq_km": 2.2,
+    "incorporated": "June 7, 1886"
+  },
+  {
+    "cities": "Wiota",
+    "counties": "Cass",
+    "population_2020": "91",
+    "population_2010": "116",
+    "sq_miles": 0.32,
+    "sq_km": 0.83,
+    "incorporated": "January 16, 1884"
+  },
+  {
+    "cities": "Woden",
+    "counties": "Hancock",
+    "population_2020": "188",
+    "population_2010": "229",
+    "sq_miles": 0.42,
+    "sq_km": 1.1,
+    "incorporated": "7-Jan-04"
+  },
+  {
+    "cities": "Woodbine",
+    "counties": "Harrison",
+    "population_2020": "1,625",
+    "population_2010": "1,459",
+    "sq_miles": 1.28,
+    "sq_km": 3.3,
+    "incorporated": "November 9, 1877"
+  },
+  {
+    "cities": "Woodburn",
+    "counties": "Clarke",
+    "population_2020": "146",
+    "population_2010": "202",
+    "sq_miles": 0.64,
+    "sq_km": 1.7,
+    "incorporated": "February 12, 1878"
+  },
+  {
+    "cities": "Woodward",
+    "counties": "Dallas",
+    "population_2020": "1,346",
+    "population_2010": "1,024",
+    "sq_miles": 2.46,
+    "sq_km": 6.4,
+    "incorporated": "October 13, 1883"
+  },
+  {
+    "cities": "Woolstock",
+    "counties": "Wright",
+    "population_2020": "144",
+    "population_2010": "168",
+    "sq_miles": 1.06,
+    "sq_km": 2.7,
+    "incorporated": "April 19, 1895"
+  },
+  {
+    "cities": "Worthington",
+    "counties": "Dubuque",
+    "population_2020": "382",
+    "population_2010": "401",
+    "sq_miles": 0.38,
+    "sq_km": 0.98,
+    "incorporated": "January 10, 1893"
+  },
+  {
+    "cities": "Wyoming",
+    "counties": "Jones",
+    "population_2020": "523",
+    "population_2010": "515",
+    "sq_miles": 0.51,
+    "sq_km": 1.3,
+    "incorporated": "October 21, 1873"
+  },
+  {
+    "cities": "Yale",
+    "counties": "Guthrie",
+    "population_2020": "267",
+    "population_2010": "246",
+    "sq_miles": 0.27,
+    "sq_km": 0.7,
+    "incorporated": "27-Nov-01"
+  },
+  {
+    "cities": "Yetter",
+    "counties": "Calhoun",
+    "population_2020": "19",
+    "population_2010": "34",
+    "sq_miles": 0.13,
+    "sq_km": 0.34,
+    "incorporated": "11-Jan-04"
+  },
+  {
+    "cities": "Yorktown",
+    "counties": "Page",
+    "population_2020": "60",
+    "population_2010": "85",
+    "sq_miles": 0.27,
+    "sq_km": 0.7,
+    "incorporated": "March 25, 1899"
+  },
+  {
+    "cities": "Zearing",
+    "counties": "Story",
+    "population_2020": "528",
+    "population_2010": "554",
+    "sq_miles": 0.75,
+    "sq_km": 1.9,
+    "incorporated": "February 6, 1883"
+  },
+  {
+    "cities": "Zwingle",
+    "counties": "Dubuque, Jackson",
+    "population_2020": "84",
+    "population_2010": "91",
+    "sq_miles": 0.16,
+    "sq_km": 0.41,
+    "incorporated": "17-Dec-00"
+  }
+]

@@ -1,0 +1,46 @@
+{% extends 'base.html' %} {% block body %}
+<h2>Cities in Iowa</h2>
+<hr />
+<p>
+  Created from the
+  <a href="https://en.wikipedia.org/wiki/List_of_cities_in_Iowa"
+    >List of cities in Iowa
+  </a>
+  Wikipedia page. It was simplifed for BAIS:3250 exam #2
+</p>
+<p>
+  For cities located in more than one county, the primary county (according to
+  U.S. Census) is listed first.
+</p>
+<main>
+  {% if cities %}
+  <table class="table table-hover">
+    <thead>
+      <tr>
+        <th>City</th>
+        <th>County</th>
+        <th>2020 census</th>
+        <th>2010 census</th>
+        <th>Area (sq. miles)</th>
+        <th>Area (sq. km)</th>
+        <th>Date incorporated</th>
+      </tr>
+    </thead>
+
+    <tbody>
+      {% for city in cities %}
+      <tr>
+        <td>{{ city.cities }}</td>
+        <td>{{ city.counties }}</td>
+        <td>{{ city.population_2020 }}</td>
+        <td>{{ city.population_2010 }}</td>
+        <td>{{ city.sq_miles }}</td>
+        <td>{{ city.sq_km }}</td>
+        <td>{{ city.incorporated }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+  {% endif %}
+</main>
+{% endblock %}
